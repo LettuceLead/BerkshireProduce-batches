@@ -204,12 +204,38 @@
   .meta-row{
     display:flex;
     justify-content:space-between;
+    gap:14px;
     font-size:13px;
     padding:10px 2px;
     border-top:1px solid var(--line);
     color:var(--ink-soft);
   }
-  .meta-row b{color:var(--ink);font-weight:700;}
+  .meta-row b{color:var(--ink);font-weight:700;text-align:right;}
+
+  .section-label{
+    font-size:11px;
+    letter-spacing:1px;
+    text-transform:uppercase;
+    color:var(--malachite-dark);
+    font-weight:800;
+    margin:22px 0 2px;
+    padding-top:14px;
+    border-top:2px solid var(--ink);
+  }
+  .flags-box{
+    margin-top:16px;
+    padding:10px 12px;
+    background:#fdf1ec;
+    border:1px solid #f0c9b8;
+    border-radius:8px;
+  }
+  .flags-box .flags-title{
+    font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.3px;
+    color:#a5432a;margin-bottom:6px;
+  }
+  .flags-box ul{margin:0;padding-left:16px;}
+  .flags-box li{font-size:12px;color:#8a4530;line-height:1.5;margin-bottom:4px;}
+  .flags-box li:last-child{margin-bottom:0;}
 
   footer{
     text-align:center;
@@ -265,6 +291,7 @@
       <div class="stat"><div class="v" id="f-trays">—</div><div class="k">Trays</div></div>
       <div class="stat"><div class="v" id="f-seed">—</div><div class="k">Seed Req.</div></div>
       <div class="stat"><div class="v" id="f-tables">—</div><div class="k">Tables</div></div>
+      <div class="stat"><div class="v" id="f-floats">—</div><div class="k">Total Floats</div></div>
     </div>
 
     <div class="meta-row"><span>Crop</span><b id="f-crop">—</b></div>
@@ -272,6 +299,20 @@
     <div class="meta-row"><span>TP 1</span><b id="f-tp1">—</b></div>
     <div class="meta-row"><span>TP 2</span><b id="f-tp2">—</b></div>
     <div class="meta-row"><span>Planned harvest</span><b id="f-harvest">—</b></div>
+
+    <div id="actual-section" style="display:none;">
+      <div class="section-label">Recorded</div>
+      <div class="meta-row"><span>Seed lot</span><b id="f-seedLot">—</b></div>
+      <div class="meta-row"><span>Substrate lot</span><b id="f-subLot">—</b></div>
+      <div class="meta-row"><span>Transplant</span><b id="f-tpActual">—</b></div>
+      <div class="meta-row"><span>Harvest</span><b id="f-harvestActual">—</b></div>
+      <div class="meta-row"><span>Yield density</span><b id="f-yield">—</b></div>
+    </div>
+
+    <div id="flags-box" class="flags-box" style="display:none;">
+      <div class="flags-title">Data flags</div>
+      <ul id="flags-list"></ul>
+    </div>
   </div>
 
 </main>
@@ -289,6 +330,11 @@ function show(id){
   document.getElementById('loading').style.display = (id==='loading') ? 'block' : 'none';
 }
 
+function esc(s){
+  const d = document.createElement('div');
+  d.textContent = s == null ? '' : String(s);
+  return d.innerHTML;
+}
 function isDateStr(v){
   return typeof v === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(v);
 }
@@ -355,7 +401,14 @@ async function init(){
   document.getElementById('f-crop').textContent = rec.crop || '—';
   document.getElementById('f-trays').textContent = fmtNum(rec.trays);
   document.getElementById('f-seed').textContent = fmtNum(rec.seed_requirement);
-  document.getElementById('f-tables').textContent = fmtNum(rec.tables);
+  // "Tables" in the source sheet now means "labels to print", not physical
+  // tables — so tables and floats are derived straight from trays instead:
+  // 32 trays per table, 2 floats per tray.
+  const traysNum = (rec.trays != null && !isNaN(rec.trays)) ? Number(rec.trays) : null;
+  document.getElementById('f-tables').textContent =
+    traysNum != null ? (Math.round((traysNum / 32) * 10) / 10).toString() : '—';
+  document.getElementById('f-floats').textContent =
+    traysNum != null ? fmtNum(traysNum * 2) : '—';
   document.getElementById('f-seedDate').textContent = fmtDate(rec.planned_seeding_date);
   document.getElementById('f-tp1').textContent = fmtDate(rec.tp1);
   document.getElementById('f-tp2').textContent = fmtDate(rec.tp2);
@@ -412,9 +465,57 @@ async function init(){
     statusText = 'Dates pending';
     statusClass = 'notyet';
   }
+  // A real recorded stage (from the traceability system) is more current
+  // than the date-guessed status above, so it wins when present.
+  if(rec.stage){
+    statusText = rec.stage;
+    statusClass = '';
+  }
   const statusEl = document.getElementById('status');
   statusEl.textContent = statusText;
   statusEl.className = 'status-pill' + (statusClass ? ' '+statusClass : '');
+
+  // ---- Recorded (actual) data, when available ----
+  let hasActual = false;
+
+  if(rec.seed_lots && rec.seed_lots.length){
+    document.getElementById('f-seedLot').textContent = rec.seed_lots.join(', ');
+    hasActual = true;
+  }
+  if(rec.substrate_lots && rec.substrate_lots.length){
+    document.getElementById('f-subLot').textContent = rec.substrate_lots.join(', ');
+    hasActual = true;
+  }
+  if(rec.transplant_actual){
+    const ta = rec.transplant_actual;
+    const floatsTxt = ta.floats != null ? ` · ${fmtNum(ta.floats)} floats` : '';
+    document.getElementById('f-tpActual').textContent = fmtDate(ta.date) + floatsTxt;
+    hasActual = true;
+  }
+  if(rec.harvest_actual && rec.harvest_actual.first_harvest){
+    const ha = rec.harvest_actual;
+    const range = ha.first_harvest === ha.last_harvest
+      ? fmtDate(ha.first_harvest)
+      : `${fmtDate(ha.first_harvest)} – ${fmtDate(ha.last_harvest)}`;
+    const kgTxt = ha.kg != null ? ` · ${fmtNum(ha.kg)} kg` : '';
+    document.getElementById('f-harvestActual').textContent = range + kgTxt;
+    hasActual = true;
+  }
+  if(rec.yield_density_kg_m2 != null){
+    const ann = rec.annualized_kg_m2 != null ? ` (${rec.annualized_kg_m2} kg/m²/yr annualized)` : '';
+    document.getElementById('f-yield').textContent = `${rec.yield_density_kg_m2} kg/m²${ann}`;
+    hasActual = true;
+  }
+  document.getElementById('actual-section').style.display = hasActual ? 'block' : 'none';
+
+  // ---- Data quality flags ----
+  if(rec.data_flags && rec.data_flags.length){
+    const list = document.getElementById('flags-list');
+    list.innerHTML = rec.data_flags.map(f => `<li>${esc(f)}</li>`).join('');
+    document.getElementById('flags-box').style.display = 'block';
+  } else {
+    document.getElementById('flags-box').style.display = 'none';
+  }
 
   show('card');
 }
