@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-27 10:37",
+ "generated": "2026-08-05 00:30",
  "source": "Seeding_List.xlsx + Batch Traceability Dashboard",
  "batches": {
   "26-0045": {
@@ -13411,9 +13411,9 @@
    "trays": 377,
    "seed_requirement": 105560,
    "planned_seeding_date": "2026-06-08",
-   "tp1": "2026-06-18",
-   "tp2": 8,
-   "harvest": "2026-07-04",
+   "tp1": "2026-06-19",
+   "tp2": 9,
+   "harvest": "2026-07-05",
    "tables": 30,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -13443,9 +13443,9 @@
    "trays": 329,
    "seed_requirement": 92120,
    "planned_seeding_date": "2026-06-08",
-   "tp1": "2026-06-18",
-   "tp2": 8,
-   "harvest": "2026-07-04",
+   "tp1": "2026-06-19",
+   "tp2": 9,
+   "harvest": "2026-07-05",
    "tables": 26,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -13475,9 +13475,9 @@
    "trays": 336,
    "seed_requirement": 94080,
    "planned_seeding_date": "2026-06-08",
-   "tp1": "2026-06-18",
-   "tp2": 8,
-   "harvest": "2026-07-02",
+   "tp1": "2026-06-19",
+   "tp2": 9,
+   "harvest": "2026-07-03",
    "tables": 27,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -13507,9 +13507,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-06-08",
-   "tp1": "2026-06-18",
-   "tp2": 8,
-   "harvest": "2026-07-02",
+   "tp1": "2026-06-19",
+   "tp2": 9,
+   "harvest": "2026-07-03",
    "tables": 2
   },
   "26-0534": {
@@ -13520,9 +13520,9 @@
    "trays": 390,
    "seed_requirement": 109200,
    "planned_seeding_date": "2026-06-09",
-   "tp1": "2026-06-19",
-   "tp2": 8,
-   "harvest": "2026-07-05",
+   "tp1": "2026-06-20",
+   "tp2": 9,
+   "harvest": "2026-07-06",
    "tables": 31,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -13554,9 +13554,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-06-09",
-   "tp1": "2026-06-19",
-   "tp2": 8,
-   "harvest": "2026-07-05",
+   "tp1": "2026-06-20",
+   "tp2": 9,
+   "harvest": "2026-07-06",
    "tables": 14,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -13586,9 +13586,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-06-09",
-   "tp1": "2026-06-19",
-   "tp2": 8,
-   "harvest": "2026-07-03",
+   "tp1": "2026-06-20",
+   "tp2": 9,
+   "harvest": "2026-07-04",
    "tables": 14,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -13618,9 +13618,9 @@
    "trays": 377,
    "seed_requirement": 105560,
    "planned_seeding_date": "2026-06-10",
-   "tp1": "2026-06-20",
-   "tp2": 8,
-   "harvest": "2026-07-06",
+   "tp1": "2026-06-21",
+   "tp2": 9,
+   "harvest": "2026-07-07",
    "tables": 30,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -13650,9 +13650,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-06-10",
-   "tp1": "2026-06-20",
-   "tp2": 8,
-   "harvest": "2026-07-06",
+   "tp1": "2026-06-21",
+   "tp2": 9,
+   "harvest": "2026-07-07",
    "tables": 14,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -13682,9 +13682,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-06-10",
-   "tp1": "2026-06-20",
-   "tp2": 8,
-   "harvest": "2026-07-04",
+   "tp1": "2026-06-21",
+   "tp2": 9,
+   "harvest": "2026-07-05",
    "tables": 14,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -13714,9 +13714,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-06-10",
-   "tp1": "2026-06-20",
-   "tp2": 8,
-   "harvest": "2026-07-04",
+   "tp1": "2026-06-21",
+   "tp2": 9,
+   "harvest": "2026-07-05",
    "tables": 2,
    "stage": "Transplanted",
    "transplant_actual": {
@@ -13736,9 +13736,9 @@
    "trays": 346,
    "seed_requirement": 96880,
    "planned_seeding_date": "2026-06-11",
-   "tp1": "2026-06-21",
-   "tp2": 8,
-   "harvest": "2026-07-07",
+   "tp1": "2026-06-22",
+   "tp2": 9,
+   "harvest": "2026-07-08",
    "tables": 28,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -13768,9 +13768,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-06-11",
-   "tp1": "2026-06-21",
-   "tp2": 8,
-   "harvest": "2026-07-07",
+   "tp1": "2026-06-22",
+   "tp2": 9,
+   "harvest": "2026-07-08",
    "tables": 14,
    "stage": "Seeded"
   },
@@ -13782,9 +13782,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-06-11",
-   "tp1": "2026-06-21",
-   "tp2": 8,
-   "harvest": "2026-07-05",
+   "tp1": "2026-06-22",
+   "tp2": 9,
+   "harvest": "2026-07-06",
    "tables": 14,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -13829,9 +13829,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-06-11",
-   "tp1": "2026-06-21",
-   "tp2": 8,
-   "harvest": "2026-07-05",
+   "tp1": "2026-06-22",
+   "tp2": 9,
+   "harvest": "2026-07-06",
    "tables": 1,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -13858,9 +13858,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-06-11",
-   "tp1": "2026-06-21",
-   "tp2": 8,
-   "harvest": "2026-07-03",
+   "tp1": "2026-06-22",
+   "tp2": 9,
+   "harvest": "2026-07-04",
    "tables": 1,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -13934,9 +13934,9 @@
    "trays": 377,
    "seed_requirement": 105560,
    "planned_seeding_date": "2026-06-12",
-   "tp1": "2026-06-22",
-   "tp2": 8,
-   "harvest": "2026-07-08",
+   "tp1": "2026-06-23",
+   "tp2": 9,
+   "harvest": "2026-07-09",
    "tables": 30,
    "stage": "Harvesting",
    "seed_lots": [
@@ -13974,9 +13974,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-06-12",
-   "tp1": "2026-06-22",
-   "tp2": 8,
-   "harvest": "2026-07-08",
+   "tp1": "2026-06-23",
+   "tp2": 9,
+   "harvest": "2026-07-09",
    "tables": 14,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14009,9 +14009,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-06-12",
-   "tp1": "2026-06-22",
-   "tp2": 8,
-   "harvest": "2026-07-06",
+   "tp1": "2026-06-23",
+   "tp2": 9,
+   "harvest": "2026-07-07",
    "tables": 14,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14044,9 +14044,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-06-12",
-   "tp1": "2026-06-22",
-   "tp2": 8,
-   "harvest": "2026-07-06",
+   "tp1": "2026-06-23",
+   "tp2": 9,
+   "harvest": "2026-07-07",
    "tables": 2,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14072,9 +14072,9 @@
    "trays": 390,
    "seed_requirement": 109200,
    "planned_seeding_date": "2026-06-13",
-   "tp1": "2026-06-23",
-   "tp2": 8,
-   "harvest": "2026-07-09",
+   "tp1": "2026-06-24",
+   "tp2": 9,
+   "harvest": "2026-07-10",
    "tables": 31,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14110,9 +14110,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-06-13",
-   "tp1": "2026-06-23",
-   "tp2": 8,
-   "harvest": "2026-07-09",
+   "tp1": "2026-06-24",
+   "tp2": 9,
+   "harvest": "2026-07-10",
    "tables": 14,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -14139,9 +14139,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-06-13",
-   "tp1": "2026-06-23",
-   "tp2": 8,
-   "harvest": "2026-07-07",
+   "tp1": "2026-06-24",
+   "tp2": 9,
+   "harvest": "2026-07-08",
    "tables": 14,
    "stage": "Harvesting",
    "harvest_actual": {
@@ -14161,9 +14161,9 @@
    "trays": 445,
    "seed_requirement": 124600,
    "planned_seeding_date": "2026-06-15",
-   "tp1": "2026-06-25",
-   "tp2": 8,
-   "harvest": "2026-07-11",
+   "tp1": "2026-06-26",
+   "tp2": 9,
+   "harvest": "2026-07-12",
    "tables": 35,
    "stage": "Harvesting",
    "harvest_actual": {
@@ -14183,9 +14183,9 @@
    "trays": 329,
    "seed_requirement": 92120,
    "planned_seeding_date": "2026-06-15",
-   "tp1": "2026-06-25",
-   "tp2": 8,
-   "harvest": "2026-07-11",
+   "tp1": "2026-06-26",
+   "tp2": 9,
+   "harvest": "2026-07-12",
    "tables": 26,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14226,9 +14226,9 @@
    "trays": 336,
    "seed_requirement": 94080,
    "planned_seeding_date": "2026-06-15",
-   "tp1": "2026-06-25",
-   "tp2": 8,
-   "harvest": "2026-07-09",
+   "tp1": "2026-06-26",
+   "tp2": 9,
+   "harvest": "2026-07-10",
    "tables": 27,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -14258,9 +14258,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-06-15",
-   "tp1": "2026-06-25",
-   "tp2": 8,
-   "harvest": "2026-07-09",
+   "tp1": "2026-06-26",
+   "tp2": 9,
+   "harvest": "2026-07-10",
    "tables": 2,
    "seed_lots": [
     "103331808"
@@ -14277,9 +14277,9 @@
    "trays": 458,
    "seed_requirement": 128240,
    "planned_seeding_date": "2026-06-16",
-   "tp1": "2026-06-26",
-   "tp2": 8,
-   "harvest": "2026-07-12",
+   "tp1": "2026-06-27",
+   "tp2": 9,
+   "harvest": "2026-07-13",
    "tables": 36,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14315,9 +14315,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-06-16",
-   "tp1": "2026-06-26",
-   "tp2": 8,
-   "harvest": "2026-07-12",
+   "tp1": "2026-06-27",
+   "tp2": 9,
+   "harvest": "2026-07-13",
    "tables": 14,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14353,9 +14353,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-06-16",
-   "tp1": "2026-06-26",
-   "tp2": 8,
-   "harvest": "2026-07-10",
+   "tp1": "2026-06-27",
+   "tp2": 9,
+   "harvest": "2026-07-11",
    "tables": 14,
    "seed_lots": [
     "2366593"
@@ -14372,9 +14372,9 @@
    "trays": 445,
    "seed_requirement": 124600,
    "planned_seeding_date": "2026-06-17",
-   "tp1": "2026-06-27",
-   "tp2": 8,
-   "harvest": "2026-07-13",
+   "tp1": "2026-06-28",
+   "tp2": 9,
+   "harvest": "2026-07-14",
    "tables": 35,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14410,9 +14410,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-06-17",
-   "tp1": "2026-06-27",
-   "tp2": 8,
-   "harvest": "2026-07-13",
+   "tp1": "2026-06-28",
+   "tp2": 9,
+   "harvest": "2026-07-14",
    "tables": 14,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14448,9 +14448,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-06-17",
-   "tp1": "2026-06-27",
-   "tp2": 8,
-   "harvest": "2026-07-11",
+   "tp1": "2026-06-28",
+   "tp2": 9,
+   "harvest": "2026-07-12",
    "tables": 14,
    "seed_lots": [
     "2366593"
@@ -14467,9 +14467,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-06-17",
-   "tp1": "2026-06-27",
-   "tp2": 8,
-   "harvest": "2026-07-11",
+   "tp1": "2026-06-28",
+   "tp2": 9,
+   "harvest": "2026-07-12",
    "tables": 2,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14495,9 +14495,9 @@
    "trays": 443,
    "seed_requirement": 124040,
    "planned_seeding_date": "2026-06-18",
-   "tp1": "2026-06-28",
-   "tp2": 8,
-   "harvest": "2026-07-14",
+   "tp1": "2026-06-29",
+   "tp2": 9,
+   "harvest": "2026-07-15",
    "tables": 35,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14523,9 +14523,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-06-18",
-   "tp1": "2026-06-28",
-   "tp2": 8,
-   "harvest": "2026-07-14",
+   "tp1": "2026-06-29",
+   "tp2": 9,
+   "harvest": "2026-07-15",
    "tables": 14,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14561,9 +14561,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-06-18",
-   "tp1": "2026-06-28",
-   "tp2": 8,
-   "harvest": "2026-07-12",
+   "tp1": "2026-06-29",
+   "tp2": 9,
+   "harvest": "2026-07-13",
    "tables": 14,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14632,9 +14632,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-06-18",
-   "tp1": "2026-06-28",
-   "tp2": 8,
-   "harvest": "2026-07-12",
+   "tp1": "2026-06-29",
+   "tp2": 9,
+   "harvest": "2026-07-13",
    "tables": 1,
    "seed_lots": [
     "6767324"
@@ -14651,9 +14651,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-06-18",
-   "tp1": "2026-06-28",
-   "tp2": 8,
-   "harvest": "2026-07-10",
+   "tp1": "2026-06-29",
+   "tp2": 9,
+   "harvest": "2026-07-11",
    "tables": 1,
    "seed_lots": [
     "33712901004"
@@ -14733,9 +14733,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-06-18",
-   "tp1": "2026-06-28",
-   "tp2": 8,
-   "harvest": "2026-07-14",
+   "tp1": "2026-06-29",
+   "tp2": 9,
+   "harvest": "2026-07-15",
    "tables": 1,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14825,9 +14825,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-06-18",
-   "tp1": "2026-06-28",
-   "tp2": 8,
-   "harvest": "2026-07-14",
+   "tp1": "2026-06-29",
+   "tp2": 9,
+   "harvest": "2026-07-15",
    "tables": 1,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14853,9 +14853,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-06-18",
-   "tp1": "2026-06-28",
-   "tp2": 8,
-   "harvest": "2026-07-12",
+   "tp1": "2026-06-29",
+   "tp2": 9,
+   "harvest": "2026-07-13",
    "tables": 1,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14893,9 +14893,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-06-18",
-   "tp1": "2026-06-28",
-   "tp2": 8,
-   "harvest": "2026-07-14",
+   "tp1": "2026-06-29",
+   "tp2": 9,
+   "harvest": "2026-07-15",
    "tables": 1,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14921,9 +14921,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-06-18",
-   "tp1": "2026-06-28",
-   "tp2": 8,
-   "harvest": "2026-07-14",
+   "tp1": "2026-06-29",
+   "tp2": 9,
+   "harvest": "2026-07-15",
    "tables": 1,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14949,9 +14949,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-06-18",
-   "tp1": "2026-06-28",
-   "tp2": 8,
-   "harvest": "2026-07-14",
+   "tp1": "2026-06-29",
+   "tp2": 9,
+   "harvest": "2026-07-15",
    "tables": 1,
    "stage": "Harvesting",
    "seed_lots": [
@@ -14977,9 +14977,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-06-18",
-   "tp1": "2026-06-28",
-   "tp2": 8,
-   "harvest": "2026-07-14",
+   "tp1": "2026-06-29",
+   "tp2": 9,
+   "harvest": "2026-07-15",
    "tables": 1,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15005,9 +15005,9 @@
    "trays": 445,
    "seed_requirement": 124600,
    "planned_seeding_date": "2026-06-19",
-   "tp1": "2026-06-29",
-   "tp2": 8,
-   "harvest": "2026-07-15",
+   "tp1": "2026-06-30",
+   "tp2": 9,
+   "harvest": "2026-07-16",
    "tables": 35,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15045,9 +15045,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-06-19",
-   "tp1": "2026-06-29",
-   "tp2": 8,
-   "harvest": "2026-07-15",
+   "tp1": "2026-06-30",
+   "tp2": 9,
+   "harvest": "2026-07-16",
    "tables": 14,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15085,9 +15085,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-06-19",
-   "tp1": "2026-06-29",
-   "tp2": 8,
-   "harvest": "2026-07-13",
+   "tp1": "2026-06-30",
+   "tp2": 9,
+   "harvest": "2026-07-14",
    "tables": 14,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15125,9 +15125,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-06-19",
-   "tp1": "2026-06-29",
-   "tp2": 8,
-   "harvest": "2026-07-13",
+   "tp1": "2026-06-30",
+   "tp2": 9,
+   "harvest": "2026-07-14",
    "tables": 2,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15160,9 +15160,9 @@
    "trays": 458,
    "seed_requirement": 128240,
    "planned_seeding_date": "2026-06-20",
-   "tp1": "2026-06-30",
-   "tp2": 8,
-   "harvest": "2026-07-16",
+   "tp1": "2026-07-01",
+   "tp2": 9,
+   "harvest": "2026-07-17",
    "tables": 36,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -15194,9 +15194,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-06-20",
-   "tp1": "2026-06-30",
-   "tp2": 8,
-   "harvest": "2026-07-16",
+   "tp1": "2026-07-01",
+   "tp2": 9,
+   "harvest": "2026-07-17",
    "tables": 14,
    "stage": "Harvesting",
    "transplant_actual": {
@@ -15228,9 +15228,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-06-20",
-   "tp1": "2026-06-30",
-   "tp2": 8,
-   "harvest": "2026-07-14",
+   "tp1": "2026-07-01",
+   "tp2": 9,
+   "harvest": "2026-07-15",
    "tables": 14,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15268,9 +15268,9 @@
    "trays": 445,
    "seed_requirement": 124600,
    "planned_seeding_date": "2026-06-22",
-   "tp1": "2026-07-02",
-   "tp2": 8,
-   "harvest": "2026-07-18",
+   "tp1": "2026-07-03",
+   "tp2": 9,
+   "harvest": "2026-07-19",
    "tables": 35,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15308,9 +15308,9 @@
    "trays": 201,
    "seed_requirement": 56280,
    "planned_seeding_date": "2026-06-22",
-   "tp1": "2026-07-02",
-   "tp2": 8,
-   "harvest": "2026-07-18",
+   "tp1": "2026-07-03",
+   "tp2": 9,
+   "harvest": "2026-07-19",
    "tables": 16,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15346,9 +15346,9 @@
    "trays": 336,
    "seed_requirement": 94080,
    "planned_seeding_date": "2026-06-22",
-   "tp1": "2026-07-02",
-   "tp2": 8,
-   "harvest": "2026-07-16",
+   "tp1": "2026-07-03",
+   "tp2": 9,
+   "harvest": "2026-07-17",
    "tables": 27,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15386,9 +15386,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-06-22",
-   "tp1": "2026-07-02",
-   "tp2": 8,
-   "harvest": "2026-07-16",
+   "tp1": "2026-07-03",
+   "tp2": 9,
+   "harvest": "2026-07-17",
    "tables": 2,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15414,9 +15414,9 @@
    "trays": 458,
    "seed_requirement": 128240,
    "planned_seeding_date": "2026-06-23",
-   "tp1": "2026-07-03",
-   "tp2": 8,
-   "harvest": "2026-07-19",
+   "tp1": "2026-07-04",
+   "tp2": 9,
+   "harvest": "2026-07-20",
    "tables": 36,
    "stage": "Transplanted",
    "transplant_actual": {
@@ -15436,9 +15436,9 @@
    "trays": 201,
    "seed_requirement": 56280,
    "planned_seeding_date": "2026-06-23",
-   "tp1": "2026-07-03",
-   "tp2": 8,
-   "harvest": "2026-07-19",
+   "tp1": "2026-07-04",
+   "tp2": 9,
+   "harvest": "2026-07-20",
    "tables": 16,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15475,9 +15475,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-06-23",
-   "tp1": "2026-07-03",
-   "tp2": 8,
-   "harvest": "2026-07-17",
+   "tp1": "2026-07-04",
+   "tp2": 9,
+   "harvest": "2026-07-18",
    "tables": 14,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15515,9 +15515,9 @@
    "trays": 328,
    "seed_requirement": 91840,
    "planned_seeding_date": "2026-06-24",
-   "tp1": "2026-07-04",
-   "tp2": 8,
-   "harvest": "2026-07-20",
+   "tp1": "2026-07-05",
+   "tp2": 9,
+   "harvest": "2026-07-21",
    "tables": 26,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15555,9 +15555,9 @@
    "trays": 144,
    "seed_requirement": 40320,
    "planned_seeding_date": "2026-06-24",
-   "tp1": "2026-07-04",
-   "tp2": 8,
-   "harvest": "2026-07-20",
+   "tp1": "2026-07-05",
+   "tp2": 9,
+   "harvest": "2026-07-21",
    "tables": 12,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15595,9 +15595,9 @@
    "trays": 126,
    "seed_requirement": 35280,
    "planned_seeding_date": "2026-06-24",
-   "tp1": "2026-07-04",
-   "tp2": 8,
-   "harvest": "2026-07-18",
+   "tp1": "2026-07-05",
+   "tp2": 9,
+   "harvest": "2026-07-19",
    "tables": 10,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15630,9 +15630,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-06-24",
-   "tp1": "2026-07-04",
-   "tp2": 8,
-   "harvest": "2026-07-18",
+   "tp1": "2026-07-05",
+   "tp2": 9,
+   "harvest": "2026-07-19",
    "tables": 2,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15670,9 +15670,9 @@
    "trays": 306,
    "seed_requirement": 85680,
    "planned_seeding_date": "2026-06-25",
-   "tp1": "2026-07-05",
-   "tp2": 8,
-   "harvest": "2026-07-21",
+   "tp1": "2026-07-06",
+   "tp2": 9,
+   "harvest": "2026-07-22",
    "tables": 24,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15708,9 +15708,9 @@
    "trays": 144,
    "seed_requirement": 40320,
    "planned_seeding_date": "2026-06-25",
-   "tp1": "2026-07-05",
-   "tp2": 8,
-   "harvest": "2026-07-21",
+   "tp1": "2026-07-06",
+   "tp2": 9,
+   "harvest": "2026-07-22",
    "tables": 12,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15748,9 +15748,9 @@
    "trays": 126,
    "seed_requirement": 35280,
    "planned_seeding_date": "2026-06-25",
-   "tp1": "2026-07-05",
-   "tp2": 8,
-   "harvest": "2026-07-19",
+   "tp1": "2026-07-06",
+   "tp2": 9,
+   "harvest": "2026-07-20",
    "tables": 10,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15805,9 +15805,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-06-25",
-   "tp1": "2026-07-05",
-   "tp2": 8,
-   "harvest": "2026-07-19",
+   "tp1": "2026-07-06",
+   "tp2": 9,
+   "harvest": "2026-07-20",
    "tables": 1,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15889,9 +15889,9 @@
    "trays": 328,
    "seed_requirement": 91840,
    "planned_seeding_date": "2026-06-26",
-   "tp1": "2026-07-06",
-   "tp2": 8,
-   "harvest": "2026-07-22",
+   "tp1": "2026-07-07",
+   "tp2": 9,
+   "harvest": "2026-07-23",
    "tables": 26,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15927,9 +15927,9 @@
    "trays": 144,
    "seed_requirement": 40320,
    "planned_seeding_date": "2026-06-26",
-   "tp1": "2026-07-06",
-   "tp2": 8,
-   "harvest": "2026-07-22",
+   "tp1": "2026-07-07",
+   "tp2": 9,
+   "harvest": "2026-07-23",
    "tables": 12,
    "stage": "Harvesting",
    "seed_lots": [
@@ -15945,18 +15945,18 @@
    },
    "harvest_actual": {
     "first_harvest": "2026-07-24",
-    "last_harvest": "2026-07-25",
+    "last_harvest": "2026-07-27",
     "kg": 544,
-    "floats": 300,
-    "plants": 42000,
-    "kg_per_float": 1.8133
+    "floats": 307,
+    "plants": 42980,
+    "kg_per_float": 1.772
    },
    "yield_density_kg_m2": 3.229,
    "annualized_kg_m2": 58.93,
    "data_flags": [
-    "Harvest plants (42,000) exceed transplant plants (17,500) -- plants can't increase after transplant.",
-    "Harvest floats (300) exceed the recorded Transplant floats (125) -- floats can't increase after transplant. Check the 'Transplant (floats)' figure in Batch Lifecycle Review.xlsx.",
-    "Pond placement totals (300 floats, from Locations (Ponds)) don't match the recorded Transplant floats (125) in Batch Lifecycle Review.xlsx."
+    "Harvest plants (42,980) exceed transplant plants (17,500) -- plants can't increase after transplant.",
+    "Harvest floats (307) exceed the recorded Transplant floats (125) -- floats can't increase after transplant. Check the 'Transplant (floats)' figure in Batch Lifecycle Review.xlsx.",
+    "Pond placement totals (307 floats, from Locations (Ponds)) don't match the recorded Transplant floats (125) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0611": {
@@ -15967,9 +15967,9 @@
    "trays": 126,
    "seed_requirement": 35280,
    "planned_seeding_date": "2026-06-26",
-   "tp1": "2026-07-06",
-   "tp2": 8,
-   "harvest": "2026-07-20",
+   "tp1": "2026-07-07",
+   "tp2": 9,
+   "harvest": "2026-07-21",
    "tables": 10,
    "stage": "Harvesting",
    "seed_lots": [
@@ -16002,9 +16002,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-06-26",
-   "tp1": "2026-07-06",
-   "tp2": 8,
-   "harvest": "2026-07-20",
+   "tp1": "2026-07-07",
+   "tp2": 9,
+   "harvest": "2026-07-21",
    "tables": 2,
    "stage": "Harvesting",
    "seed_lots": [
@@ -16030,9 +16030,9 @@
    "trays": 458,
    "seed_requirement": 128240,
    "planned_seeding_date": "2026-06-27",
-   "tp1": "2026-07-07",
-   "tp2": 8,
-   "harvest": "2026-07-23",
+   "tp1": "2026-07-08",
+   "tp2": 9,
+   "harvest": "2026-07-24",
    "tables": 36,
    "stage": "Harvesting",
    "seed_lots": [
@@ -16068,9 +16068,9 @@
    "trays": 144,
    "seed_requirement": 40320,
    "planned_seeding_date": "2026-06-27",
-   "tp1": "2026-07-07",
-   "tp2": 8,
-   "harvest": "2026-07-23",
+   "tp1": "2026-07-08",
+   "tp2": 9,
+   "harvest": "2026-07-24",
    "tables": 12,
    "stage": "Harvesting",
    "seed_lots": [
@@ -16086,16 +16086,16 @@
    },
    "harvest_actual": {
     "first_harvest": "2026-07-25",
-    "last_harvest": "2026-07-25",
-    "kg": 470,
-    "floats": 200,
-    "plants": 28000,
-    "kg_per_float": 2.35
+    "last_harvest": "2026-07-27",
+    "kg": 876,
+    "floats": 270,
+    "plants": 37800,
+    "kg_per_float": 3.2444
    },
-   "yield_density_kg_m2": 4.896,
-   "annualized_kg_m2": 89.35,
+   "yield_density_kg_m2": 6.759,
+   "annualized_kg_m2": 119.48,
    "data_flags": [
-    "Pond placement totals (200 floats, from Locations (Ponds)) don't match the recorded Transplant floats (445) in Batch Lifecycle Review.xlsx."
+    "Pond placement totals (270 floats, from Locations (Ponds)) don't match the recorded Transplant floats (445) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0615": {
@@ -16106,9 +16106,9 @@
    "trays": 126,
    "seed_requirement": 35280,
    "planned_seeding_date": "2026-06-27",
-   "tp1": "2026-07-07",
-   "tp2": 8,
-   "harvest": "2026-07-21",
+   "tp1": "2026-07-08",
+   "tp2": 9,
+   "harvest": "2026-07-22",
    "tables": 10,
    "stage": "Harvesting",
    "seed_lots": [
@@ -16144,9 +16144,9 @@
    "trays": 368,
    "seed_requirement": 103040,
    "planned_seeding_date": "2026-06-29",
-   "tp1": "2026-07-09",
-   "tp2": 8,
-   "harvest": "2026-07-25",
+   "tp1": "2026-07-10",
+   "tp2": 9,
+   "harvest": "2026-07-26",
    "tables": 29,
    "stage": "Harvesting",
    "seed_lots": [
@@ -16157,11 +16157,11 @@
    ],
    "harvest_actual": {
     "first_harvest": "2026-07-21",
-    "last_harvest": "2026-07-25",
-    "kg": 563,
-    "floats": 381,
-    "plants": 53340,
-    "kg_per_float": 1.4777
+    "last_harvest": "2026-07-27",
+    "kg": 1705,
+    "floats": 1295,
+    "plants": 181300,
+    "kg_per_float": 1.3166
    }
   },
   "26-0617": {
@@ -16172,9 +16172,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-06-29",
-   "tp1": "2026-07-09",
-   "tp2": 8,
-   "harvest": "2026-07-25",
+   "tp1": "2026-07-10",
+   "tp2": 9,
+   "harvest": "2026-07-26",
    "tables": 14,
    "stage": "Harvesting",
    "seed_lots": [
@@ -16185,11 +16185,11 @@
    ],
    "harvest_actual": {
     "first_harvest": "2026-07-25",
-    "last_harvest": "2026-07-25",
-    "kg": 66,
-    "floats": 50,
-    "plants": 7000,
-    "kg_per_float": 1.32
+    "last_harvest": "2026-07-28",
+    "kg": 887,
+    "floats": 592,
+    "plants": 82880,
+    "kg_per_float": 1.4983
    }
   },
   "26-0618": {
@@ -16200,9 +16200,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-06-29",
-   "tp1": "2026-07-09",
-   "tp2": 8,
-   "harvest": "2026-07-23",
+   "tp1": "2026-07-10",
+   "tp2": 9,
+   "harvest": "2026-07-24",
    "tables": 14,
    "stage": "Harvesting",
    "seed_lots": [
@@ -16228,9 +16228,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-06-29",
-   "tp1": "2026-07-09",
-   "tp2": 8,
-   "harvest": "2026-07-23",
+   "tp1": "2026-07-10",
+   "tp2": 9,
+   "harvest": "2026-07-24",
    "tables": 2,
    "stage": "Harvesting",
    "seed_lots": [
@@ -16256,11 +16256,11 @@
    "trays": 390,
    "seed_requirement": 109200,
    "planned_seeding_date": "2026-06-30",
-   "tp1": "2026-07-10",
-   "tp2": 8,
-   "harvest": "2026-07-26",
+   "tp1": "2026-07-11",
+   "tp2": 9,
+   "harvest": "2026-07-27",
    "tables": 31,
-   "stage": "Transplanted",
+   "stage": "Harvesting",
    "seed_lots": [
     "2367583"
    ],
@@ -16272,8 +16272,20 @@
     "plants": 71540,
     "floats": 511
    },
+   "harvest_actual": {
+    "first_harvest": "2026-07-27",
+    "last_harvest": "2026-07-30",
+    "kg": 158,
+    "floats": 705,
+    "plants": 98700,
+    "kg_per_float": 0.2241
+   },
+   "yield_density_kg_m2": 1.004,
+   "annualized_kg_m2": 18.31,
    "data_flags": [
-    "Pond placement totals (71,540 floats, from Locations (Ponds)) don't match the recorded Transplant floats (511) in Batch Lifecycle Review.xlsx."
+    "Harvest plants (98,700) exceed transplant plants (71,540) -- plants can't increase after transplant.",
+    "Harvest floats (705) exceed the recorded Transplant floats (511) -- floats can't increase after transplant. Check the 'Transplant (floats)' figure in Batch Lifecycle Review.xlsx.",
+    "Pond placement totals (705 floats, from Locations (Ponds)) don't match the recorded Transplant floats (511) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0621": {
@@ -16284,11 +16296,11 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-06-30",
-   "tp1": "2026-07-10",
-   "tp2": 8,
-   "harvest": "2026-07-26",
+   "tp1": "2026-07-11",
+   "tp2": 9,
+   "harvest": "2026-07-27",
    "tables": 14,
-   "stage": "Transplanted",
+   "stage": "Harvesting",
    "seed_lots": [
     "103364411"
    ],
@@ -16300,8 +16312,20 @@
     "plants": 26460,
     "floats": 189
    },
+   "harvest_actual": {
+    "first_harvest": "2026-07-27",
+    "last_harvest": "2026-07-30",
+    "kg": 524,
+    "floats": 464,
+    "plants": 64960,
+    "kg_per_float": 1.1293
+   },
+   "yield_density_kg_m2": 2.389,
+   "annualized_kg_m2": 41.3,
    "data_flags": [
-    "Pond placement totals (26,460 floats, from Locations (Ponds)) don't match the recorded Transplant floats (189) in Batch Lifecycle Review.xlsx."
+    "Harvest plants (64,960) exceed transplant plants (26,460) -- plants can't increase after transplant.",
+    "Harvest floats (464) exceed the recorded Transplant floats (189) -- floats can't increase after transplant. Check the 'Transplant (floats)' figure in Batch Lifecycle Review.xlsx.",
+    "Pond placement totals (464 floats, from Locations (Ponds)) don't match the recorded Transplant floats (189) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0622": {
@@ -16312,9 +16336,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-06-30",
-   "tp1": "2026-07-10",
-   "tp2": 8,
-   "harvest": "2026-07-24",
+   "tp1": "2026-07-11",
+   "tp2": 9,
+   "harvest": "2026-07-25",
    "tables": 14,
    "stage": "Harvesting",
    "seed_lots": [
@@ -16325,11 +16349,11 @@
    ],
    "harvest_actual": {
     "first_harvest": "2026-07-24",
-    "last_harvest": "2026-07-25",
+    "last_harvest": "2026-07-27",
     "kg": 522,
-    "floats": 300,
-    "plants": 42000,
-    "kg_per_float": 1.74
+    "floats": 350,
+    "plants": 49000,
+    "kg_per_float": 1.4914
    }
   },
   "26-0623": {
@@ -16340,9 +16364,9 @@
    "trays": 377,
    "seed_requirement": 105560,
    "planned_seeding_date": "2026-07-01",
-   "tp1": "2026-07-11",
-   "tp2": 8,
-   "harvest": "2026-07-27",
+   "tp1": "2026-07-12",
+   "tp2": 9,
+   "harvest": "2026-07-28",
    "tables": 30,
    "seed_lots": [
     "2366593"
@@ -16359,11 +16383,11 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-01",
-   "tp1": "2026-07-11",
-   "tp2": 8,
-   "harvest": "2026-07-27",
+   "tp1": "2026-07-12",
+   "tp2": 9,
+   "harvest": "2026-07-28",
    "tables": 14,
-   "stage": "Transplanted",
+   "stage": "Harvesting",
    "seed_lots": [
     "103364411"
    ],
@@ -16375,8 +16399,18 @@
     "plants": 32900,
     "floats": 235
    },
+   "harvest_actual": {
+    "first_harvest": "2026-07-28",
+    "last_harvest": "2026-07-30",
+    "kg": null,
+    "floats": 371,
+    "plants": 51940,
+    "kg_per_float": null
+   },
    "data_flags": [
-    "Pond placement totals (32,900 floats, from Locations (Ponds)) don't match the recorded Transplant floats (235) in Batch Lifecycle Review.xlsx."
+    "Harvest plants (51,940) exceed transplant plants (32,900) -- plants can't increase after transplant.",
+    "Harvest floats (371) exceed the recorded Transplant floats (235) -- floats can't increase after transplant. Check the 'Transplant (floats)' figure in Batch Lifecycle Review.xlsx.",
+    "Pond placement totals (371 floats, from Locations (Ponds)) don't match the recorded Transplant floats (235) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0625": {
@@ -16387,9 +16421,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-01",
-   "tp1": "2026-07-11",
-   "tp2": 8,
-   "harvest": "2026-07-25",
+   "tp1": "2026-07-12",
+   "tp2": 9,
+   "harvest": "2026-07-26",
    "tables": 14,
    "stage": "Harvesting",
    "seed_lots": [
@@ -16405,17 +16439,19 @@
    },
    "harvest_actual": {
     "first_harvest": "2026-07-25",
-    "last_harvest": "2026-07-25",
-    "kg": 64,
-    "floats": 25,
-    "plants": 3500,
-    "kg_per_float": 2.56
+    "last_harvest": "2026-07-30",
+    "kg": 353,
+    "floats": 1253,
+    "plants": 175420,
+    "kg_per_float": 0.2817
    },
-   "yield_density_kg_m2": 5.333,
-   "annualized_kg_m2": 173.04,
+   "yield_density_kg_m2": 1.548,
+   "annualized_kg_m2": 41.5,
    "data_flags": [
     "Transplant plants (136,500) exceed seeded plants (49,280) -- plants can't increase between seeding and transplant.",
-    "Pond placement totals (25 floats, from Locations (Ponds)) don't match the recorded Transplant floats (975) in Batch Lifecycle Review.xlsx."
+    "Harvest plants (175,420) exceed transplant plants (136,500) -- plants can't increase after transplant.",
+    "Harvest floats (1,253) exceed the recorded Transplant floats (975) -- floats can't increase after transplant. Check the 'Transplant (floats)' figure in Batch Lifecycle Review.xlsx.",
+    "Pond placement totals (1,253 floats, from Locations (Ponds)) don't match the recorded Transplant floats (975) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0626": {
@@ -16426,17 +16462,25 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-07-01",
-   "tp1": "2026-07-11",
-   "tp2": 8,
-   "harvest": "2026-07-25",
+   "tp1": "2026-07-12",
+   "tp2": 9,
+   "harvest": "2026-07-26",
    "tables": 2,
-   "stage": "Out of germ",
+   "stage": "Harvesting",
    "seed_lots": [
     "103331808"
    ],
    "substrate_lots": [
     "Has bad label"
-   ]
+   ],
+   "harvest_actual": {
+    "first_harvest": "2026-07-30",
+    "last_harvest": "2026-07-30",
+    "kg": null,
+    "floats": 26,
+    "plants": 3640,
+    "kg_per_float": null
+   }
   },
   "26-0627": {
    "batch_number": "26-0627",
@@ -16446,9 +16490,9 @@
    "trays": 368,
    "seed_requirement": 103040,
    "planned_seeding_date": "2026-07-02",
-   "tp1": "2026-07-12",
-   "tp2": 8,
-   "harvest": "2026-07-28",
+   "tp1": "2026-07-13",
+   "tp2": 9,
+   "harvest": "2026-07-29",
    "tables": 29,
    "stage": "Transplanted",
    "seed_lots": [
@@ -16475,11 +16519,11 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-02",
-   "tp1": "2026-07-12",
-   "tp2": 8,
-   "harvest": "2026-07-28",
+   "tp1": "2026-07-13",
+   "tp2": 9,
+   "harvest": "2026-07-29",
    "tables": 14,
-   "stage": "Transplanted",
+   "stage": "Harvesting",
    "seed_lots": [
     "103364411"
    ],
@@ -16491,8 +16535,18 @@
     "plants": 33880,
     "floats": 242
    },
+   "harvest_actual": {
+    "first_harvest": "2026-07-29",
+    "last_harvest": "2026-07-30",
+    "kg": null,
+    "floats": 363,
+    "plants": 50820,
+    "kg_per_float": null
+   },
    "data_flags": [
-    "Pond placement totals (33,880 floats, from Locations (Ponds)) don't match the recorded Transplant floats (242) in Batch Lifecycle Review.xlsx."
+    "Harvest plants (50,820) exceed transplant plants (33,880) -- plants can't increase after transplant.",
+    "Harvest floats (363) exceed the recorded Transplant floats (242) -- floats can't increase after transplant. Check the 'Transplant (floats)' figure in Batch Lifecycle Review.xlsx.",
+    "Pond placement totals (363 floats, from Locations (Ponds)) don't match the recorded Transplant floats (242) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0629": {
@@ -16503,11 +16557,11 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-02",
-   "tp1": "2026-07-12",
-   "tp2": 8,
-   "harvest": "2026-07-26",
+   "tp1": "2026-07-13",
+   "tp2": 9,
+   "harvest": "2026-07-27",
    "tables": 14,
-   "stage": "Transplanted",
+   "stage": "Harvesting",
    "seed_lots": [
     "2366593"
    ],
@@ -16519,8 +16573,16 @@
     "plants": 49000,
     "floats": 350
    },
+   "harvest_actual": {
+    "first_harvest": "2026-07-28",
+    "last_harvest": "2026-07-28",
+    "kg": null,
+    "floats": 100,
+    "plants": 14000,
+    "kg_per_float": null
+   },
    "data_flags": [
-    "Pond placement totals (49,000 floats, from Locations (Ponds)) don't match the recorded Transplant floats (350) in Batch Lifecycle Review.xlsx."
+    "Pond placement totals (100 floats, from Locations (Ponds)) don't match the recorded Transplant floats (350) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0630": {
@@ -16535,7 +16597,7 @@
    "tp2": 12,
    "harvest": "2026-07-30",
    "tables": 1,
-   "stage": "Transplanted",
+   "stage": "Harvesting",
    "seed_lots": [
     "6.815.672"
    ],
@@ -16547,9 +16609,14 @@
     "plants": 840,
     "floats": 6
    },
-   "data_flags": [
-    "Pond placement totals (840 floats, from Locations (Ponds)) don't match the recorded Transplant floats (6) in Batch Lifecycle Review.xlsx."
-   ]
+   "harvest_actual": {
+    "first_harvest": "2026-07-28",
+    "last_harvest": "2026-07-28",
+    "kg": null,
+    "floats": 6,
+    "plants": 840,
+    "kg_per_float": null
+   }
   },
   "26-0631": {
    "batch_number": "26-0631",
@@ -16559,11 +16626,11 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-07-02",
-   "tp1": "2026-07-12",
-   "tp2": 8,
-   "harvest": "2026-07-26",
+   "tp1": "2026-07-13",
+   "tp2": 9,
+   "harvest": "2026-07-27",
    "tables": 1,
-   "stage": "Transplanted",
+   "stage": "Harvesting",
    "seed_lots": [
     "6767324"
    ],
@@ -16575,9 +16642,14 @@
     "plants": 840,
     "floats": 6
    },
-   "data_flags": [
-    "Pond placement totals (840 floats, from Locations (Ponds)) don't match the recorded Transplant floats (6) in Batch Lifecycle Review.xlsx."
-   ]
+   "harvest_actual": {
+    "first_harvest": "2026-07-28",
+    "last_harvest": "2026-07-28",
+    "kg": null,
+    "floats": 6,
+    "plants": 840,
+    "kg_per_float": null
+   }
   },
   "26-0632": {
    "batch_number": "26-0632",
@@ -16591,7 +16663,7 @@
    "tp2": 10,
    "harvest": "2026-07-30",
    "tables": 1,
-   "stage": "Transplanted",
+   "stage": "Harvesting",
    "seed_lots": [
     "103384173"
    ],
@@ -16603,9 +16675,14 @@
     "plants": 840,
     "floats": 6
    },
-   "data_flags": [
-    "Pond placement totals (840 floats, from Locations (Ponds)) don't match the recorded Transplant floats (6) in Batch Lifecycle Review.xlsx."
-   ]
+   "harvest_actual": {
+    "first_harvest": "2026-07-28",
+    "last_harvest": "2026-07-28",
+    "kg": null,
+    "floats": 6,
+    "plants": 840,
+    "kg_per_float": null
+   }
   },
   "26-0633": {
    "batch_number": "26-0633",
@@ -16619,7 +16696,7 @@
    "tp2": 10,
    "harvest": "2026-07-30",
    "tables": 2,
-   "stage": "Transplanted",
+   "stage": "Harvesting",
    "seed_lots": [
     "33970001007"
    ],
@@ -16631,8 +16708,17 @@
     "plants": 3500,
     "floats": 25
    },
+   "harvest_actual": {
+    "first_harvest": "2026-07-28",
+    "last_harvest": "2026-07-28",
+    "kg": null,
+    "floats": 26,
+    "plants": 3640,
+    "kg_per_float": null
+   },
    "data_flags": [
-    "Pond placement totals (3,500 floats, from Locations (Ponds)) don't match the recorded Transplant floats (25) in Batch Lifecycle Review.xlsx."
+    "Harvest plants (3,640) exceed transplant plants (3,500) -- plants can't increase after transplant.",
+    "Harvest floats (26) exceed the recorded Transplant floats (25) -- floats can't increase after transplant. Check the 'Transplant (floats)' figure in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0634": {
@@ -16643,17 +16729,25 @@
    "trays": 377,
    "seed_requirement": 105560,
    "planned_seeding_date": "2026-07-03",
-   "tp1": "2026-07-13",
-   "tp2": 8,
-   "harvest": "2026-07-29",
+   "tp1": "2026-07-14",
+   "tp2": 9,
+   "harvest": "2026-07-30",
    "tables": 30,
-   "stage": "Out of germ",
+   "stage": "Harvesting",
    "seed_lots": [
     "2367583"
    ],
    "substrate_lots": [
     "SO750010564 NO.15"
-   ]
+   ],
+   "harvest_actual": {
+    "first_harvest": "2026-07-30",
+    "last_harvest": "2026-08-01",
+    "kg": 2190,
+    "floats": 550,
+    "plants": 77000,
+    "kg_per_float": 3.9818
+   }
   },
   "26-0635": {
    "batch_number": "26-0635",
@@ -16663,17 +16757,25 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-03",
-   "tp1": "2026-07-13",
-   "tp2": 8,
-   "harvest": "2026-07-29",
+   "tp1": "2026-07-14",
+   "tp2": 9,
+   "harvest": "2026-07-30",
    "tables": 14,
-   "stage": "Out of germ",
+   "stage": "Harvesting",
    "seed_lots": [
     "103364407"
    ],
    "substrate_lots": [
     "SO750010564 NO. 12"
-   ]
+   ],
+   "harvest_actual": {
+    "first_harvest": "2026-07-31",
+    "last_harvest": "2026-08-01",
+    "kg": 710,
+    "floats": 370,
+    "plants": 51800,
+    "kg_per_float": 1.9189
+   }
   },
   "26-0636": {
    "batch_number": "26-0636",
@@ -16683,17 +16785,25 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-03",
-   "tp1": "2026-07-13",
-   "tp2": 8,
-   "harvest": "2026-07-27",
+   "tp1": "2026-07-14",
+   "tp2": 9,
+   "harvest": "2026-07-28",
    "tables": 14,
-   "stage": "Out of germ",
+   "stage": "Harvesting",
    "seed_lots": [
     "2364692"
    ],
    "substrate_lots": [
     "SO750010564 NO. 12"
-   ]
+   ],
+   "harvest_actual": {
+    "first_harvest": "2026-07-30",
+    "last_harvest": "2026-07-30",
+    "kg": null,
+    "floats": 700,
+    "plants": 98000,
+    "kg_per_float": null
+   }
   },
   "26-0637": {
    "batch_number": "26-0637",
@@ -16703,17 +16813,25 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-07-03",
-   "tp1": "2026-07-13",
-   "tp2": 8,
-   "harvest": "2026-07-27",
+   "tp1": "2026-07-14",
+   "tp2": 9,
+   "harvest": "2026-07-28",
    "tables": 2,
-   "stage": "Out of germ",
+   "stage": "Harvesting",
    "seed_lots": [
     "103331808"
    ],
    "substrate_lots": [
     "SO750010564 NO. 12"
-   ]
+   ],
+   "harvest_actual": {
+    "first_harvest": "2026-07-29",
+    "last_harvest": "2026-07-29",
+    "kg": null,
+    "floats": 23,
+    "plants": 3220,
+    "kg_per_float": null
+   }
   },
   "26-0638": {
    "batch_number": "26-0638",
@@ -16723,11 +16841,11 @@
    "trays": 390,
    "seed_requirement": 109200,
    "planned_seeding_date": "2026-07-04",
-   "tp1": "2026-07-14",
-   "tp2": 8,
-   "harvest": "2026-07-30",
+   "tp1": "2026-07-15",
+   "tp2": 9,
+   "harvest": "2026-07-31",
    "tables": 31,
-   "stage": "Transplanted",
+   "stage": "Harvesting",
    "seed_lots": [
     "2367583"
    ],
@@ -16739,8 +16857,20 @@
     "plants": 17220,
     "floats": 123
    },
+   "harvest_actual": {
+    "first_harvest": "2026-07-31",
+    "last_harvest": "2026-08-01",
+    "kg": 1541,
+    "floats": 653,
+    "plants": 91420,
+    "kg_per_float": 2.3599
+   },
+   "yield_density_kg_m2": 10.323,
+   "annualized_kg_m2": 215.31,
    "data_flags": [
-    "Pond placement totals (17,220 floats, from Locations (Ponds)) don't match the recorded Transplant floats (123) in Batch Lifecycle Review.xlsx."
+    "Harvest plants (91,420) exceed transplant plants (17,220) -- plants can't increase after transplant.",
+    "Harvest floats (653) exceed the recorded Transplant floats (123) -- floats can't increase after transplant. Check the 'Transplant (floats)' figure in Batch Lifecycle Review.xlsx.",
+    "Pond placement totals (653 floats, from Locations (Ponds)) don't match the recorded Transplant floats (123) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0639": {
@@ -16751,11 +16881,19 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-04",
-   "tp1": "2026-07-14",
-   "tp2": 8,
-   "harvest": "2026-07-30",
+   "tp1": "2026-07-15",
+   "tp2": 9,
+   "harvest": "2026-07-31",
    "tables": 14,
-   "stage": "Out of germ"
+   "stage": "Harvesting",
+   "harvest_actual": {
+    "first_harvest": "2026-08-01",
+    "last_harvest": "2026-08-01",
+    "kg": 128,
+    "floats": null,
+    "plants": null,
+    "kg_per_float": null
+   }
   },
   "26-0640": {
    "batch_number": "26-0640",
@@ -16765,17 +16903,25 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-04",
-   "tp1": "2026-07-14",
-   "tp2": 8,
-   "harvest": "2026-07-28",
+   "tp1": "2026-07-15",
+   "tp2": 9,
+   "harvest": "2026-07-29",
    "tables": 14,
-   "stage": "Out of germ",
+   "stage": "Harvesting",
    "seed_lots": [
     "2366593"
    ],
    "substrate_lots": [
     "SO750010564 NO. 22"
-   ]
+   ],
+   "harvest_actual": {
+    "first_harvest": "2026-07-30",
+    "last_harvest": "2026-07-30",
+    "kg": null,
+    "floats": 350,
+    "plants": 49000,
+    "kg_per_float": null
+   }
   },
   "26-0641": {
    "batch_number": "26-0641",
@@ -16785,11 +16931,11 @@
    "trays": 356,
    "seed_requirement": 99680,
    "planned_seeding_date": "2026-07-06",
-   "tp1": "2026-07-16",
-   "tp2": 8,
-   "harvest": "2026-08-01",
+   "tp1": "2026-07-17",
+   "tp2": 9,
+   "harvest": "2026-08-02",
    "tables": 28,
-   "stage": "Transplanted",
+   "stage": "Harvesting",
    "seed_lots": [
     "2367583"
    ],
@@ -16801,8 +16947,16 @@
     "plants": 108500,
     "floats": 775
    },
+   "harvest_actual": {
+    "first_harvest": "2026-08-02",
+    "last_harvest": "2026-08-02",
+    "kg": null,
+    "floats": 736,
+    "plants": 103040,
+    "kg_per_float": null
+   },
    "data_flags": [
-    "Pond placement totals (108,500 floats, from Locations (Ponds)) don't match the recorded Transplant floats (775) in Batch Lifecycle Review.xlsx."
+    "Pond placement totals (736 floats, from Locations (Ponds)) don't match the recorded Transplant floats (775) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0642": {
@@ -16813,9 +16967,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-06",
-   "tp1": "2026-07-16",
-   "tp2": 8,
-   "harvest": "2026-08-01",
+   "tp1": "2026-07-17",
+   "tp2": 9,
+   "harvest": "2026-08-02",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -16841,11 +16995,11 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-06",
-   "tp1": "2026-07-16",
-   "tp2": 8,
-   "harvest": "2026-07-30",
+   "tp1": "2026-07-17",
+   "tp2": 9,
+   "harvest": "2026-07-31",
    "tables": 14,
-   "stage": "Transplanted",
+   "stage": "Harvesting",
    "seed_lots": [
     "2366593"
    ],
@@ -16857,8 +17011,20 @@
     "plants": 49000,
     "floats": 350
    },
+   "harvest_actual": {
+    "first_harvest": "2026-07-31",
+    "last_harvest": "2026-07-31",
+    "kg": 1016,
+    "floats": 375,
+    "plants": 52500,
+    "kg_per_float": 2.7093
+   },
+   "yield_density_kg_m2": 5.644,
+   "annualized_kg_m2": 126.78,
    "data_flags": [
-    "Pond placement totals (49,000 floats, from Locations (Ponds)) don't match the recorded Transplant floats (350) in Batch Lifecycle Review.xlsx."
+    "Harvest plants (52,500) exceed transplant plants (49,000) -- plants can't increase after transplant.",
+    "Harvest floats (375) exceed the recorded Transplant floats (350) -- floats can't increase after transplant. Check the 'Transplant (floats)' figure in Batch Lifecycle Review.xlsx.",
+    "Pond placement totals (375 floats, from Locations (Ponds)) don't match the recorded Transplant floats (350) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0644": {
@@ -16869,9 +17035,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-07-06",
-   "tp1": "2026-07-16",
-   "tp2": 8,
-   "harvest": "2026-07-30",
+   "tp1": "2026-07-17",
+   "tp2": 9,
+   "harvest": "2026-07-31",
    "tables": 2,
    "stage": "Transplanted",
    "seed_lots": [
@@ -16897,11 +17063,11 @@
    "trays": 21,
    "seed_requirement": 5880,
    "planned_seeding_date": "2026-07-06",
-   "tp1": "2026-07-16",
-   "tp2": 8,
-   "harvest": "2026-08-01",
+   "tp1": "2026-07-17",
+   "tp2": 9,
+   "harvest": "2026-08-02",
    "tables": 2,
-   "stage": "Transplanted",
+   "stage": "Harvesting",
    "seed_lots": [
     "6.815.672"
    ],
@@ -16913,9 +17079,16 @@
     "plants": 5880,
     "floats": 42
    },
-   "data_flags": [
-    "Pond placement totals (5,880 floats, from Locations (Ponds)) don't match the recorded Transplant floats (42) in Batch Lifecycle Review.xlsx."
-   ]
+   "harvest_actual": {
+    "first_harvest": "2026-08-01",
+    "last_harvest": "2026-08-01",
+    "kg": 159,
+    "floats": 42,
+    "plants": 5880,
+    "kg_per_float": 3.7857
+   },
+   "yield_density_kg_m2": 7.887,
+   "annualized_kg_m2": 164.5
   },
   "26-0646": {
    "batch_number": "26-0646",
@@ -16925,9 +17098,9 @@
    "trays": 369,
    "seed_requirement": 103320,
    "planned_seeding_date": "2026-07-07",
-   "tp1": "2026-07-17",
-   "tp2": 8,
-   "harvest": "2026-08-02",
+   "tp1": "2026-07-18",
+   "tp2": 9,
+   "harvest": "2026-08-03",
    "tables": 29,
    "stage": "Transplanted",
    "seed_lots": [
@@ -16953,9 +17126,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-07",
-   "tp1": "2026-07-17",
-   "tp2": 8,
-   "harvest": "2026-08-02",
+   "tp1": "2026-07-18",
+   "tp2": 9,
+   "harvest": "2026-08-03",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -16981,9 +17154,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-07",
-   "tp1": "2026-07-17",
-   "tp2": 8,
-   "harvest": "2026-07-31",
+   "tp1": "2026-07-18",
+   "tp2": 9,
+   "harvest": "2026-08-01",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17009,9 +17182,9 @@
    "trays": 21,
    "seed_requirement": 5880,
    "planned_seeding_date": "2026-07-07",
-   "tp1": "2026-07-17",
-   "tp2": 8,
-   "harvest": "2026-08-02",
+   "tp1": "2026-07-18",
+   "tp2": 9,
+   "harvest": "2026-08-03",
    "tables": 2,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17037,9 +17210,9 @@
    "trays": 356,
    "seed_requirement": 99680,
    "planned_seeding_date": "2026-07-08",
-   "tp1": "2026-07-18",
-   "tp2": 8,
-   "harvest": "2026-08-03",
+   "tp1": "2026-07-19",
+   "tp2": 9,
+   "harvest": "2026-08-04",
    "tables": 28,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17065,9 +17238,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-08",
-   "tp1": "2026-07-18",
-   "tp2": 8,
-   "harvest": "2026-08-03",
+   "tp1": "2026-07-19",
+   "tp2": 9,
+   "harvest": "2026-08-04",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17093,9 +17266,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-08",
-   "tp1": "2026-07-18",
-   "tp2": 8,
-   "harvest": "2026-08-01",
+   "tp1": "2026-07-19",
+   "tp2": 9,
+   "harvest": "2026-08-02",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17121,9 +17294,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-07-08",
-   "tp1": "2026-07-18",
-   "tp2": 8,
-   "harvest": "2026-08-01",
+   "tp1": "2026-07-19",
+   "tp2": 9,
+   "harvest": "2026-08-02",
    "tables": 2,
    "seed_lots": [
     "103331808"
@@ -17140,11 +17313,11 @@
    "trays": 21,
    "seed_requirement": 5880,
    "planned_seeding_date": "2026-07-08",
-   "tp1": "2026-07-18",
-   "tp2": 8,
-   "harvest": "2026-08-03",
+   "tp1": "2026-07-19",
+   "tp2": 9,
+   "harvest": "2026-08-04",
    "tables": 2,
-   "stage": "Transplanted",
+   "stage": "Harvesting",
    "seed_lots": [
     "6.815.672"
    ],
@@ -17156,9 +17329,14 @@
     "plants": 980,
     "floats": 7
    },
-   "data_flags": [
-    "Pond placement totals (980 floats, from Locations (Ponds)) don't match the recorded Transplant floats (7) in Batch Lifecycle Review.xlsx."
-   ]
+   "harvest_actual": {
+    "first_harvest": "2026-08-02",
+    "last_harvest": "2026-08-02",
+    "kg": null,
+    "floats": 7,
+    "plants": 980,
+    "kg_per_float": null
+   }
   },
   "26-0655": {
    "batch_number": "26-0655",
@@ -17168,9 +17346,9 @@
    "trays": 348,
    "seed_requirement": 97440,
    "planned_seeding_date": "2026-07-09",
-   "tp1": "2026-07-19",
-   "tp2": 8,
-   "harvest": "2026-08-04",
+   "tp1": "2026-07-20",
+   "tp2": 9,
+   "harvest": "2026-08-05",
    "tables": 28,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17196,9 +17374,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-09",
-   "tp1": "2026-07-19",
-   "tp2": 8,
-   "harvest": "2026-08-04",
+   "tp1": "2026-07-20",
+   "tp2": 9,
+   "harvest": "2026-08-05",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17224,9 +17402,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-09",
-   "tp1": "2026-07-19",
-   "tp2": 8,
-   "harvest": "2026-08-02",
+   "tp1": "2026-07-20",
+   "tp2": 9,
+   "harvest": "2026-08-03",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17252,9 +17430,9 @@
    "trays": 21,
    "seed_requirement": 5880,
    "planned_seeding_date": "2026-07-09",
-   "tp1": "2026-07-19",
-   "tp2": 8,
-   "harvest": "2026-08-04",
+   "tp1": "2026-07-20",
+   "tp2": 9,
+   "harvest": "2026-08-05",
    "tables": 2,
    "stage": "Out of germ"
   },
@@ -17286,9 +17464,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-07-09",
-   "tp1": "2026-07-19",
-   "tp2": 8,
-   "harvest": "2026-08-02",
+   "tp1": "2026-07-20",
+   "tp2": 9,
+   "harvest": "2026-08-03",
    "tables": 1,
    "stage": "Out of germ",
    "seed_lots": [
@@ -17513,9 +17691,9 @@
    "trays": 356,
    "seed_requirement": 99680,
    "planned_seeding_date": "2026-07-10",
-   "tp1": "2026-07-20",
-   "tp2": 8,
-   "harvest": "2026-08-05",
+   "tp1": "2026-07-21",
+   "tp2": 9,
+   "harvest": "2026-08-06",
    "tables": 28,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17541,9 +17719,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-10",
-   "tp1": "2026-07-20",
-   "tp2": 8,
-   "harvest": "2026-08-05",
+   "tp1": "2026-07-21",
+   "tp2": 9,
+   "harvest": "2026-08-06",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17569,9 +17747,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-10",
-   "tp1": "2026-07-20",
-   "tp2": 8,
-   "harvest": "2026-08-03",
+   "tp1": "2026-07-21",
+   "tp2": 9,
+   "harvest": "2026-08-04",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17597,9 +17775,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-07-10",
-   "tp1": "2026-07-20",
-   "tp2": 8,
-   "harvest": "2026-08-03",
+   "tp1": "2026-07-21",
+   "tp2": 9,
+   "harvest": "2026-08-04",
    "tables": 2,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17625,9 +17803,9 @@
    "trays": 21,
    "seed_requirement": 5880,
    "planned_seeding_date": "2026-07-10",
-   "tp1": "2026-07-20",
-   "tp2": 8,
-   "harvest": "2026-08-05",
+   "tp1": "2026-07-21",
+   "tp2": 9,
+   "harvest": "2026-08-06",
    "tables": 2,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17653,9 +17831,9 @@
    "trays": 369,
    "seed_requirement": 103320,
    "planned_seeding_date": "2026-07-11",
-   "tp1": "2026-07-21",
-   "tp2": 8,
-   "harvest": "2026-08-06",
+   "tp1": "2026-07-22",
+   "tp2": 9,
+   "harvest": "2026-08-07",
    "tables": 29,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17681,9 +17859,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-11",
-   "tp1": "2026-07-21",
-   "tp2": 8,
-   "harvest": "2026-08-06",
+   "tp1": "2026-07-22",
+   "tp2": 9,
+   "harvest": "2026-08-07",
    "tables": 14,
    "stage": "Out of germ",
    "seed_lots": [
@@ -17701,9 +17879,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-11",
-   "tp1": "2026-07-21",
-   "tp2": 8,
-   "harvest": "2026-08-04",
+   "tp1": "2026-07-22",
+   "tp2": 9,
+   "harvest": "2026-08-05",
    "tables": 14,
    "stage": "Out of germ",
    "seed_lots": [
@@ -17721,9 +17899,9 @@
    "trays": 21,
    "seed_requirement": 5880,
    "planned_seeding_date": "2026-07-11",
-   "tp1": "2026-07-21",
-   "tp2": 8,
-   "harvest": "2026-08-06",
+   "tp1": "2026-07-22",
+   "tp2": 9,
+   "harvest": "2026-08-07",
    "tables": 2,
    "stage": "Out of germ",
    "seed_lots": [
@@ -17741,9 +17919,9 @@
    "trays": 356,
    "seed_requirement": 99680,
    "planned_seeding_date": "2026-07-13",
-   "tp1": "2026-07-23",
-   "tp2": 8,
-   "harvest": "2026-08-08",
+   "tp1": "2026-07-24",
+   "tp2": 9,
+   "harvest": "2026-08-09",
    "tables": 28,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17769,9 +17947,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-13",
-   "tp1": "2026-07-23",
-   "tp2": 8,
-   "harvest": "2026-08-08",
+   "tp1": "2026-07-24",
+   "tp2": 9,
+   "harvest": "2026-08-09",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17798,9 +17976,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-13",
-   "tp1": "2026-07-23",
-   "tp2": 8,
-   "harvest": "2026-08-06",
+   "tp1": "2026-07-24",
+   "tp2": 9,
+   "harvest": "2026-08-07",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17826,9 +18004,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-07-13",
-   "tp1": "2026-07-23",
-   "tp2": 8,
-   "harvest": "2026-08-06",
+   "tp1": "2026-07-24",
+   "tp2": 9,
+   "harvest": "2026-08-07",
    "tables": 2,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17855,9 +18033,9 @@
    "trays": 21,
    "seed_requirement": 5880,
    "planned_seeding_date": "2026-07-13",
-   "tp1": "2026-07-23",
+   "tp1": "2026-07-24",
    "tp2": null,
-   "harvest": "2026-08-08",
+   "harvest": "2026-08-09",
    "tables": 2,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17883,9 +18061,9 @@
    "trays": 369,
    "seed_requirement": 103320,
    "planned_seeding_date": "2026-07-14",
-   "tp1": "2026-07-24",
+   "tp1": "2026-07-25",
    "tp2": null,
-   "harvest": "2026-08-09",
+   "harvest": "2026-08-10",
    "tables": 29,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17911,9 +18089,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-14",
-   "tp1": "2026-07-24",
+   "tp1": "2026-07-25",
    "tp2": null,
-   "harvest": "2026-08-09",
+   "harvest": "2026-08-10",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17939,9 +18117,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-14",
-   "tp1": "2026-07-24",
+   "tp1": "2026-07-25",
    "tp2": null,
-   "harvest": "2026-08-07",
+   "harvest": "2026-08-08",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17967,9 +18145,9 @@
    "trays": 21,
    "seed_requirement": 5880,
    "planned_seeding_date": "2026-07-14",
-   "tp1": "2026-07-24",
+   "tp1": "2026-07-25",
    "tp2": null,
-   "harvest": "2026-08-09",
+   "harvest": "2026-08-10",
    "tables": 2,
    "stage": "Transplanted",
    "seed_lots": [
@@ -17995,9 +18173,9 @@
    "trays": 356,
    "seed_requirement": 99680,
    "planned_seeding_date": "2026-07-15",
-   "tp1": "2026-07-25",
+   "tp1": "2026-07-26",
    "tp2": null,
-   "harvest": "2026-08-10",
+   "harvest": "2026-08-11",
    "tables": 28,
    "stage": "Transplanted",
    "seed_lots": [
@@ -18008,11 +18186,11 @@
    ],
    "transplant_actual": {
     "date": "2026-07-26",
-    "plants": 67200,
-    "floats": 480
+    "plants": 123200,
+    "floats": 880
    },
    "data_flags": [
-    "Pond placement totals (67,200 floats, from Locations (Ponds)) don't match the recorded Transplant floats (480) in Batch Lifecycle Review.xlsx."
+    "Pond placement totals (123,200 floats, from Locations (Ponds)) don't match the recorded Transplant floats (880) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0691": {
@@ -18023,9 +18201,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-15",
-   "tp1": "2026-07-25",
+   "tp1": "2026-07-26",
    "tp2": null,
-   "harvest": "2026-08-10",
+   "harvest": "2026-08-11",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -18051,9 +18229,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-15",
-   "tp1": "2026-07-25",
+   "tp1": "2026-07-26",
    "tp2": null,
-   "harvest": "2026-08-08",
+   "harvest": "2026-08-09",
    "tables": 14,
    "stage": "Harvesting",
    "seed_lots": [
@@ -18087,9 +18265,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-07-15",
-   "tp1": "2026-07-25",
+   "tp1": "2026-07-26",
    "tp2": null,
-   "harvest": "2026-08-08",
+   "harvest": "2026-08-09",
    "tables": 2,
    "stage": "Transplanted",
    "seed_lots": [
@@ -18115,9 +18293,9 @@
    "trays": 21,
    "seed_requirement": 5880,
    "planned_seeding_date": "2026-07-15",
-   "tp1": "2026-07-25",
+   "tp1": "2026-07-26",
    "tp2": null,
-   "harvest": "2026-08-10",
+   "harvest": "2026-08-11",
    "tables": 2,
    "stage": "Transplanted",
    "seed_lots": [
@@ -18143,16 +18321,24 @@
    "trays": 348,
    "seed_requirement": 97440,
    "planned_seeding_date": "2026-07-16",
-   "tp1": "2026-07-26",
+   "tp1": "2026-07-27",
    "tp2": null,
-   "harvest": "2026-08-11",
+   "harvest": "2026-08-12",
    "tables": 28,
-   "stage": "Out of germ",
+   "stage": "Transplanted",
    "seed_lots": [
     "2367583"
    ],
    "substrate_lots": [
     "SO750010564 #21 & #23"
+   ],
+   "transplant_actual": {
+    "date": "2026-07-27",
+    "plants": 89880,
+    "floats": 642
+   },
+   "data_flags": [
+    "Pond placement totals (89,880 floats, from Locations (Ponds)) don't match the recorded Transplant floats (642) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0696": {
@@ -18163,16 +18349,24 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-16",
-   "tp1": "2026-07-26",
+   "tp1": "2026-07-27",
    "tp2": null,
-   "harvest": "2026-08-11",
+   "harvest": "2026-08-12",
    "tables": 14,
-   "stage": "Out of germ",
+   "stage": "Transplanted",
    "seed_lots": [
     "103364411"
    ],
    "substrate_lots": [
     "SO750010564 #23"
+   ],
+   "transplant_actual": {
+    "date": "2026-07-27",
+    "plants": 26880,
+    "floats": 192
+   },
+   "data_flags": [
+    "Pond placement totals (26,880 floats, from Locations (Ponds)) don't match the recorded Transplant floats (192) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0697": {
@@ -18183,9 +18377,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-16",
-   "tp1": "2026-07-26",
+   "tp1": "2026-07-27",
    "tp2": null,
-   "harvest": "2026-08-09",
+   "harvest": "2026-08-10",
    "tables": 14
   },
   "26-0698": {
@@ -18196,16 +18390,24 @@
    "trays": 21,
    "seed_requirement": 5880,
    "planned_seeding_date": "2026-07-16",
-   "tp1": "2026-07-26",
+   "tp1": "2026-07-27",
    "tp2": null,
-   "harvest": "2026-08-11",
+   "harvest": "2026-08-12",
    "tables": 2,
-   "stage": "Out of germ",
+   "stage": "Transplanted",
    "seed_lots": [
     "6918806"
    ],
    "substrate_lots": [
     "SO750010564 #10"
+   ],
+   "transplant_actual": {
+    "date": "2026-07-27",
+    "plants": 6860,
+    "floats": 49
+   },
+   "data_flags": [
+    "Pond placement totals (6,860 floats, from Locations (Ponds)) don't match the recorded Transplant floats (49) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0699": {
@@ -18229,9 +18431,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-07-16",
-   "tp1": "2026-07-26",
+   "tp1": "2026-07-27",
    "tp2": null,
-   "harvest": "2026-08-09",
+   "harvest": "2026-08-10",
    "tables": 1,
    "stage": "Out of germ",
    "seed_lots": [
@@ -18452,19 +18654,28 @@
    "variety": "Crispyano",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 356,
-   "seed_requirement": 99680,
+   "trays": 531,
+   "seed_requirement": 148680,
    "planned_seeding_date": "2026-07-17",
-   "tp1": "2026-07-27",
+   "tp1": "2026-07-28",
    "tp2": null,
-   "harvest": "2026-08-12",
-   "tables": 28,
-   "stage": "Out of germ",
+   "harvest": "2026-08-13",
+   "tables": 42,
+   "stage": "Transplanted",
    "seed_lots": [
     "2367583"
    ],
    "substrate_lots": [
     "SO750010564 #10"
+   ],
+   "transplant_actual": {
+    "date": "2026-07-30",
+    "plants": 296800,
+    "floats": 2120
+   },
+   "data_flags": [
+    "Transplant plants (296,800) exceed seeded plants (148,960) -- plants can't increase between seeding and transplant.",
+    "Pond placement totals (296,800 floats, from Locations (Ponds)) don't match the recorded Transplant floats (2,120) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0713": {
@@ -18475,16 +18686,24 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-17",
-   "tp1": "2026-07-27",
+   "tp1": "2026-07-28",
    "tp2": null,
-   "harvest": "2026-08-12",
+   "harvest": "2026-08-13",
    "tables": 14,
-   "stage": "Out of germ",
+   "stage": "Transplanted",
    "seed_lots": [
     "103364411"
    ],
    "substrate_lots": [
     "SO750010564 # 10 & 9"
+   ],
+   "transplant_actual": {
+    "date": "2026-07-30",
+    "plants": 26880,
+    "floats": 192
+   },
+   "data_flags": [
+    "Pond placement totals (26,880 floats, from Locations (Ponds)) don't match the recorded Transplant floats (192) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0714": {
@@ -18492,13 +18711,13 @@
    "variety": "Cristabel",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 176,
-   "seed_requirement": 49280,
+   "trays": 0,
+   "seed_requirement": null,
    "planned_seeding_date": "2026-07-17",
-   "tp1": "2026-07-27",
+   "tp1": "2026-07-28",
    "tp2": null,
-   "harvest": "2026-08-10",
-   "tables": 14
+   "harvest": "2026-08-11",
+   "tables": 0
   },
   "26-0715": {
    "batch_number": "26-0715",
@@ -18508,16 +18727,24 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-07-17",
-   "tp1": "2026-07-27",
+   "tp1": "2026-07-28",
    "tp2": null,
-   "harvest": "2026-08-10",
+   "harvest": "2026-08-11",
    "tables": 2,
-   "stage": "Out of germ",
+   "stage": "Transplanted",
    "seed_lots": [
     "103331808"
    ],
    "substrate_lots": [
     "SO750010564 #9"
+   ],
+   "transplant_actual": {
+    "date": "2026-07-31",
+    "plants": 3500,
+    "floats": 25
+   },
+   "data_flags": [
+    "Pond placement totals (3,500 floats, from Locations (Ponds)) don't match the recorded Transplant floats (25) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0716": {
@@ -18528,16 +18755,24 @@
    "trays": 21,
    "seed_requirement": 5880,
    "planned_seeding_date": "2026-07-17",
-   "tp1": "2026-07-27",
+   "tp1": "2026-07-28",
    "tp2": null,
-   "harvest": "2026-08-12",
+   "harvest": "2026-08-13",
    "tables": 2,
-   "stage": "Out of germ",
+   "stage": "Transplanted",
    "seed_lots": [
     "6918806"
    ],
    "substrate_lots": [
     "SO750010564 #9"
+   ],
+   "transplant_actual": {
+    "date": "2026-07-30",
+    "plants": 4900,
+    "floats": 35
+   },
+   "data_flags": [
+    "Pond placement totals (4,900 floats, from Locations (Ponds)) don't match the recorded Transplant floats (35) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0717": {
@@ -18546,18 +18781,26 @@
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
    "trays": 545,
-   "seed_requirement": 103320,
+   "seed_requirement": 148680,
    "planned_seeding_date": "2026-07-18",
-   "tp1": "2026-07-28",
+   "tp1": "2026-07-29",
    "tp2": null,
-   "harvest": "2026-08-13",
+   "harvest": "2026-08-14",
    "tables": 43,
-   "stage": "Out of germ",
+   "stage": "Transplanted",
    "seed_lots": [
     "2367583"
    ],
    "substrate_lots": [
     "SO750010564 # 9 & #11"
+   ],
+   "transplant_actual": {
+    "date": "2026-07-29",
+    "plants": 78820,
+    "floats": 563
+   },
+   "data_flags": [
+    "Pond placement totals (78,820 floats, from Locations (Ponds)) don't match the recorded Transplant floats (563) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0718": {
@@ -18568,16 +18811,24 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-18",
-   "tp1": "2026-07-28",
+   "tp1": "2026-07-29",
    "tp2": null,
-   "harvest": "2026-08-13",
+   "harvest": "2026-08-14",
    "tables": 14,
-   "stage": "Out of germ",
+   "stage": "Transplanted",
    "seed_lots": [
     "103364411"
    ],
    "substrate_lots": [
     "SO750010564 #11"
+   ],
+   "transplant_actual": {
+    "date": "2026-07-28",
+    "plants": 25900,
+    "floats": 185
+   },
+   "data_flags": [
+    "Pond placement totals (25,900 floats, from Locations (Ponds)) don't match the recorded Transplant floats (185) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0719": {
@@ -18585,13 +18836,22 @@
    "variety": "Cristabel",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 176,
-   "seed_requirement": 49280,
+   "trays": 0,
+   "seed_requirement": null,
    "planned_seeding_date": "2026-07-18",
-   "tp1": "2026-07-28",
+   "tp1": "2026-07-29",
    "tp2": null,
-   "harvest": "2026-08-11",
-   "tables": 14
+   "harvest": "2026-08-12",
+   "tables": 0,
+   "stage": "Transplanted",
+   "transplant_actual": {
+    "date": "2026-07-29",
+    "plants": 3500,
+    "floats": 25
+   },
+   "data_flags": [
+    "Pond placement totals (3,500 floats, from Locations (Ponds)) don't match the recorded Transplant floats (25) in Batch Lifecycle Review.xlsx."
+   ]
   },
   "26-0720": {
    "batch_number": "26-0720",
@@ -18601,25 +18861,42 @@
    "trays": 21,
    "seed_requirement": 5880,
    "planned_seeding_date": "2026-07-18",
-   "tp1": "2026-07-28",
+   "tp1": "2026-07-29",
    "tp2": null,
-   "harvest": "2026-08-13",
+   "harvest": "2026-08-14",
    "tables": 2,
-   "stage": "Out of germ"
+   "stage": "Transplanted",
+   "transplant_actual": {
+    "date": "2026-07-29",
+    "plants": 4900,
+    "floats": 35
+   },
+   "data_flags": [
+    "Pond placement totals (4,900 floats, from Locations (Ponds)) don't match the recorded Transplant floats (35) in Batch Lifecycle Review.xlsx."
+   ]
   },
   "26-0721": {
    "batch_number": "26-0721",
    "variety": "Crispyano",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 281,
-   "seed_requirement": 78680,
+   "trays": 531,
+   "seed_requirement": 148680,
    "planned_seeding_date": "2026-07-20",
-   "tp1": "2026-07-30",
+   "tp1": "2026-07-31",
    "tp2": null,
-   "harvest": "2026-08-15",
-   "tables": 22,
-   "stage": "Out of germ"
+   "harvest": "2026-08-16",
+   "tables": 42,
+   "stage": "Transplanted",
+   "transplant_actual": {
+    "date": "2026-08-01",
+    "plants": 166180,
+    "floats": 1187
+   },
+   "data_flags": [
+    "Transplant plants (166,180) exceed seeded plants (78,680) -- plants can't increase between seeding and transplant.",
+    "Pond placement totals (166,180 floats, from Locations (Ponds)) don't match the recorded Transplant floats (1,187) in Batch Lifecycle Review.xlsx."
+   ]
   },
   "26-0722": {
    "batch_number": "26-0722",
@@ -18629,11 +18906,19 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-20",
-   "tp1": "2026-07-30",
+   "tp1": "2026-07-31",
    "tp2": null,
-   "harvest": "2026-08-15",
+   "harvest": "2026-08-16",
    "tables": 14,
-   "stage": "Out of germ"
+   "stage": "Transplanted",
+   "transplant_actual": {
+    "date": "2026-07-31",
+    "plants": 26880,
+    "floats": 192
+   },
+   "data_flags": [
+    "Pond placement totals (26,880 floats, from Locations (Ponds)) don't match the recorded Transplant floats (192) in Batch Lifecycle Review.xlsx."
+   ]
   },
   "26-0723": {
    "batch_number": "26-0723",
@@ -18643,11 +18928,20 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-20",
-   "tp1": "2026-07-30",
+   "tp1": "2026-07-31",
    "tp2": null,
-   "harvest": "2026-08-13",
+   "harvest": "2026-08-14",
    "tables": 14,
-   "stage": "Out of germ"
+   "stage": "Transplanted",
+   "transplant_actual": {
+    "date": "2026-08-01",
+    "plants": 73780,
+    "floats": 527
+   },
+   "data_flags": [
+    "Transplant plants (73,780) exceed seeded plants (49,280) -- plants can't increase between seeding and transplant.",
+    "Pond placement totals (73,780 floats, from Locations (Ponds)) don't match the recorded Transplant floats (527) in Batch Lifecycle Review.xlsx."
+   ]
   },
   "26-0724": {
    "batch_number": "26-0724",
@@ -18657,16 +18951,25 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-07-20",
-   "tp1": "2026-07-30",
+   "tp1": "2026-07-31",
    "tp2": null,
-   "harvest": "2026-08-13",
+   "harvest": "2026-08-14",
    "tables": 2,
-   "stage": "Out of germ",
+   "stage": "Transplanted",
    "seed_lots": [
     "2.367.486"
    ],
    "substrate_lots": [
     "SO750010989 #9 & #14"
+   ],
+   "transplant_actual": {
+    "date": "2026-08-01",
+    "plants": 9380,
+    "floats": 67
+   },
+   "data_flags": [
+    "Transplant plants (9,380) exceed seeded plants (3,640) -- plants can't increase between seeding and transplant.",
+    "Pond placement totals (9,380 floats, from Locations (Ponds)) don't match the recorded Transplant floats (67) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0725": {
@@ -18677,16 +18980,25 @@
    "trays": 96,
    "seed_requirement": 26880,
    "planned_seeding_date": "2026-07-20",
-   "tp1": "2026-07-30",
+   "tp1": "2026-07-31",
    "tp2": null,
-   "harvest": "2026-08-15",
+   "harvest": "2026-08-16",
    "tables": 8,
-   "stage": "Out of germ",
+   "stage": "Transplanted",
    "seed_lots": [
     "6918806"
    ],
    "substrate_lots": [
     "No sticker was present"
+   ],
+   "transplant_actual": {
+    "date": "2026-07-31",
+    "plants": 77420,
+    "floats": 553
+   },
+   "data_flags": [
+    "Transplant plants (77,420) exceed seeded plants (26,880) -- plants can't increase between seeding and transplant.",
+    "Pond placement totals (77,420 floats, from Locations (Ponds)) don't match the recorded Transplant floats (553) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0726": {
@@ -18697,16 +19009,24 @@
    "trays": 294,
    "seed_requirement": 82320,
    "planned_seeding_date": "2026-07-21",
-   "tp1": "2026-07-31",
+   "tp1": "2026-08-01",
    "tp2": null,
-   "harvest": "2026-08-16",
+   "harvest": "2026-08-17",
    "tables": 23,
-   "stage": "Out of germ",
+   "stage": "Transplanted",
    "seed_lots": [
     "2367583"
    ],
    "substrate_lots": [
     "SO750010989, horrible handwriting can't read number"
+   ],
+   "transplant_actual": {
+    "date": "2026-08-02",
+    "plants": 82320,
+    "floats": 588
+   },
+   "data_flags": [
+    "Pond placement totals (82,320 floats, from Locations (Ponds)) don't match the recorded Transplant floats (588) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0727": {
@@ -18717,16 +19037,24 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-21",
-   "tp1": "2026-07-31",
+   "tp1": "2026-08-01",
    "tp2": null,
-   "harvest": "2026-08-16",
+   "harvest": "2026-08-17",
    "tables": 14,
-   "stage": "Out of germ",
+   "stage": "Transplanted",
    "seed_lots": [
     "103364411"
    ],
    "substrate_lots": [
     "SO750010989, can't read number horrible handwriting"
+   ],
+   "transplant_actual": {
+    "date": "2026-08-01",
+    "plants": 45360,
+    "floats": 324
+   },
+   "data_flags": [
+    "Pond placement totals (45,360 floats, from Locations (Ponds)) don't match the recorded Transplant floats (324) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0728": {
@@ -18737,16 +19065,24 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-21",
-   "tp1": "2026-07-31",
+   "tp1": "2026-08-01",
    "tp2": null,
-   "harvest": "2026-08-14",
+   "harvest": "2026-08-15",
    "tables": 14,
-   "stage": "Out of germ",
+   "stage": "Transplanted",
    "seed_lots": [
     "2.364.973"
    ],
    "substrate_lots": [
     "SO750010989, can't read number horrible handwriting"
+   ],
+   "transplant_actual": {
+    "date": "2026-08-01",
+    "plants": 70280,
+    "floats": 502
+   },
+   "data_flags": [
+    "Pond placement totals (70,280 floats, from Locations (Ponds)) don't match the recorded Transplant floats (502) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0729": {
@@ -18757,16 +19093,24 @@
    "trays": 96,
    "seed_requirement": 26880,
    "planned_seeding_date": "2026-07-21",
-   "tp1": "2026-07-31",
+   "tp1": "2026-08-01",
    "tp2": null,
-   "harvest": "2026-08-16",
+   "harvest": "2026-08-17",
    "tables": 8,
-   "stage": "Out of germ",
+   "stage": "Transplanted",
    "seed_lots": [
     "2.367.486"
    ],
    "substrate_lots": [
     "SO750010989, can't read number horrible handwriting"
+   ],
+   "transplant_actual": {
+    "date": "2026-08-01",
+    "plants": 19180,
+    "floats": 137
+   },
+   "data_flags": [
+    "Pond placement totals (19,180 floats, from Locations (Ponds)) don't match the recorded Transplant floats (137) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0730": {
@@ -18777,9 +19121,9 @@
    "trays": 281,
    "seed_requirement": 78680,
    "planned_seeding_date": "2026-07-22",
-   "tp1": "2026-08-01",
+   "tp1": "2026-08-02",
    "tp2": null,
-   "harvest": "2026-08-17",
+   "harvest": "2026-08-18",
    "tables": 22,
    "stage": "Out of germ",
    "seed_lots": [
@@ -18797,16 +19141,24 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-22",
-   "tp1": "2026-08-01",
+   "tp1": "2026-08-02",
    "tp2": null,
-   "harvest": "2026-08-17",
+   "harvest": "2026-08-18",
    "tables": 14,
-   "stage": "Out of germ",
+   "stage": "Transplanted",
    "seed_lots": [
     "103364411"
    ],
    "substrate_lots": [
     "SO750010989 #9"
+   ],
+   "transplant_actual": {
+    "date": "2026-08-02",
+    "plants": 22400,
+    "floats": 160
+   },
+   "data_flags": [
+    "Pond placement totals (22,400 floats, from Locations (Ponds)) don't match the recorded Transplant floats (160) in Batch Lifecycle Review.xlsx."
    ]
   },
   "26-0732": {
@@ -18817,9 +19169,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-22",
-   "tp1": "2026-08-01",
+   "tp1": "2026-08-02",
    "tp2": null,
-   "harvest": "2026-08-15",
+   "harvest": "2026-08-16",
    "tables": 14,
    "stage": "Out of germ",
    "seed_lots": [
@@ -18837,9 +19189,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-07-22",
-   "tp1": "2026-08-01",
+   "tp1": "2026-08-02",
    "tp2": null,
-   "harvest": "2026-08-15",
+   "harvest": "2026-08-16",
    "tables": 2,
    "stage": "Out of germ",
    "seed_lots": [
@@ -18857,11 +19209,20 @@
    "trays": 96,
    "seed_requirement": 26880,
    "planned_seeding_date": "2026-07-22",
-   "tp1": "2026-08-01",
+   "tp1": "2026-08-02",
    "tp2": null,
-   "harvest": "2026-08-17",
+   "harvest": "2026-08-18",
    "tables": 8,
-   "stage": "Out of germ"
+   "stage": "Transplanted",
+   "transplant_actual": {
+    "date": "2026-08-02",
+    "plants": 40320,
+    "floats": 288
+   },
+   "data_flags": [
+    "Transplant plants (40,320) exceed seeded plants (26,880) -- plants can't increase between seeding and transplant.",
+    "Pond placement totals (40,320 floats, from Locations (Ponds)) don't match the recorded Transplant floats (288) in Batch Lifecycle Review.xlsx."
+   ]
   },
   "26-0735": {
    "batch_number": "26-0735",
@@ -18871,11 +19232,17 @@
    "trays": 273,
    "seed_requirement": 76440,
    "planned_seeding_date": "2026-07-23",
-   "tp1": "2026-08-02",
+   "tp1": "2026-08-03",
    "tp2": null,
-   "harvest": "2026-08-18",
+   "harvest": "2026-08-19",
    "tables": 22,
-   "stage": "Out of germ"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "2367583"
+   ],
+   "substrate_lots": [
+    "SO750010989 #14"
+   ]
   },
   "26-0736": {
    "batch_number": "26-0736",
@@ -18885,11 +19252,17 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-23",
-   "tp1": "2026-08-02",
+   "tp1": "2026-08-03",
    "tp2": null,
-   "harvest": "2026-08-18",
+   "harvest": "2026-08-19",
    "tables": 14,
-   "stage": "Out of germ"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "103364411"
+   ],
+   "substrate_lots": [
+    "SO750010989 #14"
+   ]
   },
   "26-0737": {
    "batch_number": "26-0737",
@@ -18899,11 +19272,17 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-23",
-   "tp1": "2026-08-02",
+   "tp1": "2026-08-03",
    "tp2": null,
-   "harvest": "2026-08-16",
+   "harvest": "2026-08-17",
    "tables": 14,
-   "stage": "Out of germ"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "2.364.973"
+   ],
+   "substrate_lots": [
+    "SO750010989 #14"
+   ]
   },
   "26-0738": {
    "batch_number": "26-0738",
@@ -18913,11 +19292,17 @@
    "trays": 96,
    "seed_requirement": 26880,
    "planned_seeding_date": "2026-07-23",
-   "tp1": "2026-08-02",
+   "tp1": "2026-08-03",
    "tp2": null,
-   "harvest": "2026-08-18",
+   "harvest": "2026-08-19",
    "tables": 8,
-   "stage": "Out of germ"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "6.815.672 &2.367.486"
+   ],
+   "substrate_lots": [
+    "SO750010989 #14 & #15"
+   ]
   },
   "26-0739": {
    "batch_number": "26-0739",
@@ -18931,7 +19316,13 @@
    "tp2": null,
    "harvest": "2026-08-20",
    "tables": 1,
-   "stage": "Out of germ"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "6872406"
+   ],
+   "substrate_lots": [
+    "SO750010989 #15"
+   ]
   },
   "26-0740": {
    "batch_number": "26-0740",
@@ -18941,11 +19332,17 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-07-23",
-   "tp1": "2026-08-02",
+   "tp1": "2026-08-03",
    "tp2": null,
-   "harvest": "2026-08-16",
+   "harvest": "2026-08-17",
    "tables": 1,
-   "stage": "Out of germ"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "6.884.758"
+   ],
+   "substrate_lots": [
+    "SO750010989 #15"
+   ]
   },
   "26-0741": {
    "batch_number": "26-0741",
@@ -18959,7 +19356,13 @@
    "tp2": null,
    "harvest": "2026-08-20",
    "tables": 1,
-   "stage": "Out of germ"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "103384173"
+   ],
+   "substrate_lots": [
+    "SO750010989 #15"
+   ]
   },
   "26-0742": {
    "batch_number": "26-0742",
@@ -18973,7 +19376,13 @@
    "tp2": null,
    "harvest": "2026-08-20",
    "tables": 1,
-   "stage": "Out of germ"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "33970001007"
+   ],
+   "substrate_lots": [
+    "SO750010989 #15"
+   ]
   },
   "26-0743": {
    "batch_number": "26-0743",
@@ -18983,11 +19392,17 @@
    "trays": 1,
    "seed_requirement": 280,
    "planned_seeding_date": "2026-07-23",
-   "tp1": "2026-08-02",
+   "tp1": "2026-08-03",
    "tp2": null,
-   "harvest": "2026-08-16",
+   "harvest": "2026-08-17",
    "tables": 1,
-   "stage": "Out of germ"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "33709701004"
+   ],
+   "substrate_lots": [
+    "SO750010989 #15"
+   ]
   },
   "26-0744": {
    "batch_number": "26-0744",
@@ -18997,11 +19412,17 @@
    "trays": 1,
    "seed_requirement": 280,
    "planned_seeding_date": "2026-07-23",
-   "tp1": "2026-08-02",
+   "tp1": "2026-08-03",
    "tp2": null,
-   "harvest": "2026-08-16",
+   "harvest": "2026-08-17",
    "tables": 1,
-   "stage": "Out of germ"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "1961914"
+   ],
+   "substrate_lots": [
+    "SO750010989 #15"
+   ]
   },
   "26-0745": {
    "batch_number": "26-0745",
@@ -19011,11 +19432,17 @@
    "trays": 1,
    "seed_requirement": 280,
    "planned_seeding_date": "2026-07-23",
-   "tp1": "2026-08-02",
+   "tp1": "2026-08-03",
    "tp2": null,
-   "harvest": "2026-08-18",
+   "harvest": "2026-08-19",
    "tables": 1,
-   "stage": "Out of germ"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "33102701009"
+   ],
+   "substrate_lots": [
+    "SO750010989 #15"
+   ]
   },
   "26-0746": {
    "batch_number": "26-0746",
@@ -19025,11 +19452,17 @@
    "trays": 1,
    "seed_requirement": 280,
    "planned_seeding_date": "2026-07-23",
-   "tp1": "2026-08-02",
+   "tp1": "2026-08-03",
    "tp2": null,
-   "harvest": "2026-08-18",
+   "harvest": "2026-08-19",
    "tables": 1,
-   "stage": "Out of germ"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "35770101004"
+   ],
+   "substrate_lots": [
+    "SO750010989 #15"
+   ]
   },
   "26-0747": {
    "batch_number": "26-0747",
@@ -19039,11 +19472,17 @@
    "trays": 1,
    "seed_requirement": 280,
    "planned_seeding_date": "2026-07-23",
-   "tp1": "2026-08-02",
+   "tp1": "2026-08-03",
    "tp2": null,
-   "harvest": "2026-08-18",
+   "harvest": "2026-08-19",
    "tables": 1,
-   "stage": "Out of germ"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "35770001004"
+   ],
+   "substrate_lots": [
+    "SO750010989 #15"
+   ]
   },
   "26-0748": {
    "batch_number": "26-0748",
@@ -19053,11 +19492,17 @@
    "trays": 1,
    "seed_requirement": 280,
    "planned_seeding_date": "2026-07-23",
-   "tp1": "2026-08-02",
+   "tp1": "2026-08-03",
    "tp2": null,
-   "harvest": "2026-08-18",
+   "harvest": "2026-08-19",
    "tables": 1,
-   "stage": "Out of germ"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "35770301004"
+   ],
+   "substrate_lots": [
+    "SO750010989 #15"
+   ]
   },
   "26-0749": {
    "batch_number": "26-0749",
@@ -19067,11 +19512,17 @@
    "trays": 1,
    "seed_requirement": 280,
    "planned_seeding_date": "2026-07-23",
-   "tp1": "2026-08-02",
+   "tp1": "2026-08-03",
    "tp2": null,
-   "harvest": "2026-08-18",
+   "harvest": "2026-08-19",
    "tables": 1,
-   "stage": "Out of germ"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "1"
+   ],
+   "substrate_lots": [
+    "SO750010989 #15"
+   ]
   },
   "26-0750": {
    "batch_number": "26-0750",
@@ -19081,11 +19532,17 @@
    "trays": 281,
    "seed_requirement": 78680,
    "planned_seeding_date": "2026-07-24",
-   "tp1": "2026-08-03",
+   "tp1": "2026-08-04",
    "tp2": null,
-   "harvest": "2026-08-19",
+   "harvest": "2026-08-20",
    "tables": 22,
-   "stage": "Seeded"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "2367583"
+   ],
+   "substrate_lots": [
+    "SO750010989 #15"
+   ]
   },
   "26-0751": {
    "batch_number": "26-0751",
@@ -19095,11 +19552,17 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-24",
-   "tp1": "2026-08-03",
+   "tp1": "2026-08-04",
    "tp2": null,
-   "harvest": "2026-08-19",
+   "harvest": "2026-08-20",
    "tables": 14,
-   "stage": "Seeded"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "103364411"
+   ],
+   "substrate_lots": [
+    "SO750010989 #15 & #22"
+   ]
   },
   "26-0752": {
    "batch_number": "26-0752",
@@ -19109,11 +19572,17 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-24",
-   "tp1": "2026-08-03",
+   "tp1": "2026-08-04",
    "tp2": null,
-   "harvest": "2026-08-17",
+   "harvest": "2026-08-18",
    "tables": 14,
-   "stage": "Seeded"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "2.364.973"
+   ],
+   "substrate_lots": [
+    "SO750010989 #22"
+   ]
   },
   "26-0753": {
    "batch_number": "26-0753",
@@ -19123,11 +19592,17 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-07-24",
-   "tp1": "2026-08-03",
+   "tp1": "2026-08-04",
    "tp2": null,
-   "harvest": "2026-08-17",
+   "harvest": "2026-08-18",
    "tables": 2,
-   "stage": "Seeded"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "103331808"
+   ],
+   "substrate_lots": [
+    "SO750010989 #22"
+   ]
   },
   "26-0754": {
    "batch_number": "26-0754",
@@ -19137,11 +19612,17 @@
    "trays": 96,
    "seed_requirement": 26880,
    "planned_seeding_date": "2026-07-24",
-   "tp1": "2026-08-03",
+   "tp1": "2026-08-04",
    "tp2": null,
-   "harvest": "2026-08-19",
+   "harvest": "2026-08-20",
    "tables": 8,
-   "stage": "Seeded"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "2.367.486"
+   ],
+   "substrate_lots": [
+    "SO750010989 #22"
+   ]
   },
   "26-0755": {
    "batch_number": "26-0755",
@@ -19151,11 +19632,17 @@
    "trays": 294,
    "seed_requirement": 82320,
    "planned_seeding_date": "2026-07-25",
-   "tp1": "2026-08-04",
+   "tp1": "2026-08-05",
    "tp2": null,
-   "harvest": "2026-08-20",
+   "harvest": "2026-08-21",
    "tables": 23,
-   "stage": "Seeded"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "2367583"
+   ],
+   "substrate_lots": [
+    "SO750010989 #22"
+   ]
   },
   "26-0756": {
    "batch_number": "26-0756",
@@ -19165,11 +19652,17 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-25",
-   "tp1": "2026-08-04",
+   "tp1": "2026-08-05",
    "tp2": null,
-   "harvest": "2026-08-20",
+   "harvest": "2026-08-21",
    "tables": 14,
-   "stage": "Seeded"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "103364411"
+   ],
+   "substrate_lots": [
+    "SO750010989 #22 & #24"
+   ]
   },
   "26-0757": {
    "batch_number": "26-0757",
@@ -19179,11 +19672,17 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-25",
-   "tp1": "2026-08-04",
+   "tp1": "2026-08-05",
    "tp2": null,
-   "harvest": "2026-08-18",
+   "harvest": "2026-08-19",
    "tables": 14,
-   "stage": "Seeded"
+   "stage": "Seeded",
+   "seed_lots": [
+    "2.364.973"
+   ],
+   "substrate_lots": [
+    "SO750010989 #24"
+   ]
   },
   "26-0758": {
    "batch_number": "26-0758",
@@ -19193,11 +19692,17 @@
    "trays": 96,
    "seed_requirement": 26880,
    "planned_seeding_date": "2026-07-25",
-   "tp1": "2026-08-04",
+   "tp1": "2026-08-05",
    "tp2": null,
-   "harvest": "2026-08-20",
+   "harvest": "2026-08-21",
    "tables": 8,
-   "stage": "Seeded"
+   "stage": "Out of germ",
+   "seed_lots": [
+    "2.367.486"
+   ],
+   "substrate_lots": [
+    "SO750010989 #24"
+   ]
   },
   "26-0759": {
    "batch_number": "26-0759",
@@ -19206,11 +19711,12 @@
    "type": "Babyleaf Crispy Green",
    "trays": 281,
    "seed_requirement": 78680,
-   "planned_seeding_date": "2026-07-27",
-   "tp1": "2026-08-06",
+   "planned_seeding_date": "2026-07-28",
+   "tp1": "2026-08-08",
    "tp2": null,
-   "harvest": "2026-08-22",
-   "tables": 22
+   "harvest": "2026-08-23",
+   "tables": 22,
+   "stage": "Out of germ"
   },
   "26-0760": {
    "batch_number": "26-0760",
@@ -19219,11 +19725,12 @@
    "type": "Babyleaf Crispy Red",
    "trays": 171,
    "seed_requirement": 47880,
-   "planned_seeding_date": "2026-07-27",
-   "tp1": "2026-08-06",
+   "planned_seeding_date": "2026-07-28",
+   "tp1": "2026-08-08",
    "tp2": null,
-   "harvest": "2026-08-22",
-   "tables": 14
+   "harvest": "2026-08-23",
+   "tables": 14,
+   "stage": "Out of germ"
   },
   "26-0761": {
    "batch_number": "26-0761",
@@ -19232,11 +19739,12 @@
    "type": "Babyleaf Crispy Green",
    "trays": 176,
    "seed_requirement": 49280,
-   "planned_seeding_date": "2026-07-27",
-   "tp1": "2026-08-06",
+   "planned_seeding_date": "2026-07-28",
+   "tp1": "2026-08-08",
    "tp2": null,
-   "harvest": "2026-08-20",
-   "tables": 14
+   "harvest": "2026-08-23",
+   "tables": 14,
+   "stage": "Out of germ"
   },
   "26-0762": {
    "batch_number": "26-0762",
@@ -19245,11 +19753,12 @@
    "type": "Babyleaf Romaine",
    "trays": 13,
    "seed_requirement": 3640,
-   "planned_seeding_date": "2026-07-27",
-   "tp1": "2026-08-06",
+   "planned_seeding_date": "2026-07-28",
+   "tp1": "2026-08-08",
    "tp2": null,
-   "harvest": "2026-08-20",
-   "tables": 2
+   "harvest": "2026-08-21",
+   "tables": 2,
+   "stage": "Out of germ"
   },
   "26-0763": {
    "batch_number": "26-0763",
@@ -19258,11 +19767,12 @@
    "type": "Babyleaf Crispy Green",
    "trays": 96,
    "seed_requirement": 26880,
-   "planned_seeding_date": "2026-07-27",
-   "tp1": "2026-08-06",
+   "planned_seeding_date": "2026-07-28",
+   "tp1": "2026-08-08",
    "tp2": null,
-   "harvest": "2026-08-22",
-   "tables": 8
+   "harvest": "2026-08-23",
+   "tables": 8,
+   "stage": "Out of germ"
   },
   "26-0764": {
    "batch_number": "26-0764",
@@ -19271,11 +19781,12 @@
    "type": "Babyleaf Crispy Green",
    "trays": 294,
    "seed_requirement": 82320,
-   "planned_seeding_date": "2026-07-28",
-   "tp1": "2026-08-07",
+   "planned_seeding_date": "2026-07-29",
+   "tp1": "2026-08-09",
    "tp2": null,
-   "harvest": "2026-08-23",
-   "tables": 23
+   "harvest": "2026-08-24",
+   "tables": 23,
+   "stage": "Out of germ"
   },
   "26-0765": {
    "batch_number": "26-0765",
@@ -19284,11 +19795,12 @@
    "type": "Babyleaf Crispy Red",
    "trays": 171,
    "seed_requirement": 47880,
-   "planned_seeding_date": "2026-07-28",
-   "tp1": "2026-08-07",
+   "planned_seeding_date": "2026-07-29",
+   "tp1": "2026-08-09",
    "tp2": null,
-   "harvest": "2026-08-23",
-   "tables": 14
+   "harvest": "2026-08-24",
+   "tables": 14,
+   "stage": "Out of germ"
   },
   "26-0766": {
    "batch_number": "26-0766",
@@ -19297,11 +19809,12 @@
    "type": "Babyleaf Crispy Green",
    "trays": 176,
    "seed_requirement": 49280,
-   "planned_seeding_date": "2026-07-28",
-   "tp1": "2026-08-07",
+   "planned_seeding_date": "2026-07-29",
+   "tp1": "2026-08-09",
    "tp2": null,
-   "harvest": "2026-08-21",
-   "tables": 14
+   "harvest": "2026-08-23",
+   "tables": 14,
+   "stage": "Out of germ"
   },
   "26-0767": {
    "batch_number": "26-0767",
@@ -19310,11 +19823,12 @@
    "type": "Babyleaf Crispy Green",
    "trays": 96,
    "seed_requirement": 26880,
-   "planned_seeding_date": "2026-07-28",
-   "tp1": "2026-08-07",
+   "planned_seeding_date": "2026-07-29",
+   "tp1": "2026-08-09",
    "tp2": null,
-   "harvest": "2026-08-23",
-   "tables": 8
+   "harvest": "2026-08-24",
+   "tables": 8,
+   "stage": "Out of germ"
   },
   "26-0768": {
    "batch_number": "26-0768",
@@ -19323,11 +19837,12 @@
    "type": "Babyleaf Crispy Green",
    "trays": 281,
    "seed_requirement": 78680,
-   "planned_seeding_date": "2026-07-29",
-   "tp1": "2026-08-08",
+   "planned_seeding_date": "2026-07-30",
+   "tp1": "2026-08-10",
    "tp2": null,
-   "harvest": "2026-08-24",
-   "tables": 22
+   "harvest": "2026-08-25",
+   "tables": 22,
+   "stage": "Seeded"
   },
   "26-0769": {
    "batch_number": "26-0769",
@@ -19336,11 +19851,12 @@
    "type": "Babyleaf Crispy Red",
    "trays": 171,
    "seed_requirement": 47880,
-   "planned_seeding_date": "2026-07-29",
-   "tp1": "2026-08-08",
+   "planned_seeding_date": "2026-07-30",
+   "tp1": "2026-08-10",
    "tp2": null,
-   "harvest": "2026-08-24",
-   "tables": 14
+   "harvest": "2026-08-25",
+   "tables": 14,
+   "stage": "Seeded"
   },
   "26-0770": {
    "batch_number": "26-0770",
@@ -19349,11 +19865,12 @@
    "type": "Babyleaf Crispy Green",
    "trays": 176,
    "seed_requirement": 49280,
-   "planned_seeding_date": "2026-07-29",
-   "tp1": "2026-08-08",
+   "planned_seeding_date": "2026-07-30",
+   "tp1": "2026-08-10",
    "tp2": null,
-   "harvest": "2026-08-22",
-   "tables": 14
+   "harvest": "2026-08-24",
+   "tables": 14,
+   "stage": "Seeded"
   },
   "26-0771": {
    "batch_number": "26-0771",
@@ -19362,11 +19879,12 @@
    "type": "Babyleaf Romaine",
    "trays": 13,
    "seed_requirement": 3640,
-   "planned_seeding_date": "2026-07-29",
-   "tp1": "2026-08-08",
+   "planned_seeding_date": "2026-07-30",
+   "tp1": "2026-08-10",
    "tp2": null,
-   "harvest": "2026-08-22",
-   "tables": 2
+   "harvest": "2026-08-24",
+   "tables": 2,
+   "stage": "Seeded"
   },
   "26-0772": {
    "batch_number": "26-0772",
@@ -19375,11 +19893,12 @@
    "type": "Babyleaf Crispy Green",
    "trays": 96,
    "seed_requirement": 26880,
-   "planned_seeding_date": "2026-07-29",
-   "tp1": "2026-08-08",
+   "planned_seeding_date": "2026-07-30",
+   "tp1": "2026-08-10",
    "tp2": null,
-   "harvest": "2026-08-24",
-   "tables": 8
+   "harvest": "2026-08-25",
+   "tables": 8,
+   "stage": "Seeded"
   },
   "26-0773": {
    "batch_number": "26-0773",
@@ -19389,10 +19908,11 @@
    "trays": 280,
    "seed_requirement": 78400,
    "planned_seeding_date": "2026-07-30",
-   "tp1": "2026-08-09",
+   "tp1": "2026-08-10",
    "tp2": null,
-   "harvest": "2026-08-25",
-   "tables": 22
+   "harvest": "2026-08-26",
+   "tables": 22,
+   "stage": "Seeded"
   },
   "26-0774": {
    "batch_number": "26-0774",
@@ -19402,10 +19922,11 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-30",
-   "tp1": "2026-08-09",
+   "tp1": "2026-08-10",
    "tp2": null,
-   "harvest": "2026-08-25",
-   "tables": 14
+   "harvest": "2026-08-26",
+   "tables": 14,
+   "stage": "Seeded"
   },
   "26-0775": {
    "batch_number": "26-0775",
@@ -19415,10 +19936,11 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-30",
-   "tp1": "2026-08-09",
+   "tp1": "2026-08-10",
    "tp2": null,
-   "harvest": "2026-08-23",
-   "tables": 14
+   "harvest": "2026-08-24",
+   "tables": 14,
+   "stage": "Seeded"
   },
   "26-0776": {
    "batch_number": "26-0776",
@@ -19428,10 +19950,11 @@
    "trays": 96,
    "seed_requirement": 26880,
    "planned_seeding_date": "2026-07-30",
-   "tp1": "2026-08-09",
+   "tp1": "2026-08-10",
    "tp2": null,
-   "harvest": "2026-08-25",
-   "tables": 8
+   "harvest": "2026-08-26",
+   "tables": 8,
+   "stage": "Seeded"
   },
   "26-0777": {
    "batch_number": "26-0777",
@@ -19454,10 +19977,11 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-07-30",
-   "tp1": "2026-08-09",
+   "tp1": "2026-08-10",
    "tp2": null,
-   "harvest": "2026-08-23",
-   "tables": 1
+   "harvest": "2026-08-24",
+   "tables": 1,
+   "stage": "Seeded"
   },
   "26-0779": {
    "batch_number": "26-0779",
@@ -19470,7 +19994,16 @@
    "tp1": "2026-08-11",
    "tp2": null,
    "harvest": "2026-08-27",
-   "tables": 1
+   "tables": 1,
+   "stage": "Transplanted",
+   "transplant_actual": {
+    "date": "2026-08-01",
+    "plants": 26880,
+    "floats": 192
+   },
+   "data_flags": [
+    "Pond placement totals (26,880 floats, from Locations (Ponds)) don't match the recorded Transplant floats (192) in Batch Lifecycle Review.xlsx."
+   ]
   },
   "26-0780": {
    "batch_number": "26-0780",
@@ -19483,7 +20016,8 @@
    "tp1": "2026-08-11",
    "tp2": null,
    "harvest": "2026-08-27",
-   "tables": 1
+   "tables": 1,
+   "stage": "Seeded"
   },
   "26-0781": {
    "batch_number": "26-0781",
@@ -19493,10 +20027,11 @@
    "trays": 281,
    "seed_requirement": 78680,
    "planned_seeding_date": "2026-07-31",
-   "tp1": "2026-08-10",
+   "tp1": "2026-08-11",
    "tp2": null,
-   "harvest": "2026-08-26",
-   "tables": 22
+   "harvest": "2026-08-27",
+   "tables": 22,
+   "stage": "Seeded"
   },
   "26-0782": {
    "batch_number": "26-0782",
@@ -19506,10 +20041,11 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-07-31",
-   "tp1": "2026-08-10",
+   "tp1": "2026-08-11",
    "tp2": null,
-   "harvest": "2026-08-26",
-   "tables": 14
+   "harvest": "2026-08-27",
+   "tables": 14,
+   "stage": "Seeded"
   },
   "26-0783": {
    "batch_number": "26-0783",
@@ -19519,10 +20055,11 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-07-31",
-   "tp1": "2026-08-10",
+   "tp1": "2026-08-11",
    "tp2": null,
-   "harvest": "2026-08-24",
-   "tables": 14
+   "harvest": "2026-08-25",
+   "tables": 14,
+   "stage": "Seeded"
   },
   "26-0784": {
    "batch_number": "26-0784",
@@ -19532,10 +20069,11 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-07-31",
-   "tp1": "2026-08-10",
+   "tp1": "2026-08-11",
    "tp2": null,
-   "harvest": "2026-08-24",
-   "tables": 2
+   "harvest": "2026-08-25",
+   "tables": 2,
+   "stage": "Seeded"
   },
   "26-0785": {
    "batch_number": "26-0785",
@@ -19545,10 +20083,11 @@
    "trays": 96,
    "seed_requirement": 26880,
    "planned_seeding_date": "2026-07-31",
-   "tp1": "2026-08-10",
+   "tp1": "2026-08-11",
    "tp2": null,
-   "harvest": "2026-08-26",
-   "tables": 8
+   "harvest": "2026-08-27",
+   "tables": 8,
+   "stage": "Seeded"
   },
   "26-0786": {
    "batch_number": "26-0786",
@@ -19558,10 +20097,11 @@
    "trays": 294,
    "seed_requirement": 82320,
    "planned_seeding_date": "2026-08-01",
-   "tp1": "2026-08-11",
+   "tp1": "2026-08-12",
    "tp2": null,
-   "harvest": "2026-08-27",
-   "tables": 23
+   "harvest": "2026-08-28",
+   "tables": 23,
+   "stage": "Seeded"
   },
   "26-0787": {
    "batch_number": "26-0787",
@@ -19571,10 +20111,11 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-08-01",
-   "tp1": "2026-08-11",
+   "tp1": "2026-08-12",
    "tp2": null,
-   "harvest": "2026-08-27",
-   "tables": 14
+   "harvest": "2026-08-28",
+   "tables": 14,
+   "stage": "Seeded"
   },
   "26-0788": {
    "batch_number": "26-0788",
@@ -19584,10 +20125,11 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-08-01",
-   "tp1": "2026-08-11",
+   "tp1": "2026-08-12",
    "tp2": null,
-   "harvest": "2026-08-25",
-   "tables": 14
+   "harvest": "2026-08-26",
+   "tables": 14,
+   "stage": "Seeded"
   },
   "26-0789": {
    "batch_number": "26-0789",
@@ -19597,35 +20139,36 @@
    "trays": 96,
    "seed_requirement": 26880,
    "planned_seeding_date": "2026-08-01",
-   "tp1": "2026-08-11",
+   "tp1": "2026-08-12",
    "tp2": null,
-   "harvest": "2026-08-27",
-   "tables": 8
+   "harvest": "2026-08-28",
+   "tables": 8,
+   "stage": "Seeded"
   },
   "26-0790": {
    "batch_number": "26-0790",
    "variety": "Crispyano",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 281,
-   "seed_requirement": 78680,
+   "trays": 219,
+   "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-03",
-   "tp1": "2026-08-13",
+   "tp1": "2026-08-14",
    "tp2": null,
-   "harvest": "2026-08-29",
-   "tables": 22
+   "harvest": "2026-08-30",
+   "tables": 18
   },
   "26-0791": {
    "batch_number": "26-0791",
    "variety": "Sungari",
    "crop": "Babyleaf",
    "type": "Babyleaf Romaine",
-   "trays": 171,
-   "seed_requirement": 47880,
+   "trays": 175,
+   "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-03",
-   "tp1": "2026-08-13",
+   "tp1": "2026-08-14",
    "tp2": null,
-   "harvest": "2026-08-29",
+   "harvest": "2026-08-30",
    "tables": 14
   },
   "26-0792": {
@@ -19633,13 +20176,13 @@
    "variety": "Cristabel",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 176,
-   "seed_requirement": 49280,
+   "trays": 251,
+   "seed_requirement": 70280,
    "planned_seeding_date": "2026-08-03",
-   "tp1": "2026-08-13",
+   "tp1": "2026-08-14",
    "tp2": null,
-   "harvest": "2026-08-27",
-   "tables": 14
+   "harvest": "2026-08-28",
+   "tables": 20
   },
   "26-0793": {
    "batch_number": "26-0793",
@@ -19649,9 +20192,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-08-03",
-   "tp1": "2026-08-13",
+   "tp1": "2026-08-14",
    "tp2": null,
-   "harvest": "2026-08-27",
+   "harvest": "2026-08-28",
    "tables": 2
   },
   "26-0794": {
@@ -19659,38 +20202,38 @@
    "variety": "Crismari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Red",
-   "trays": 96,
-   "seed_requirement": 26880,
+   "trays": 113,
+   "seed_requirement": 31640,
    "planned_seeding_date": "2026-08-03",
-   "tp1": "2026-08-13",
+   "tp1": "2026-08-14",
    "tp2": null,
-   "harvest": "2026-08-29",
-   "tables": 8
+   "harvest": "2026-08-30",
+   "tables": 9
   },
   "26-0795": {
    "batch_number": "26-0795",
    "variety": "Crispyano",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 294,
-   "seed_requirement": 82320,
+   "trays": 219,
+   "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-04",
-   "tp1": "2026-08-14",
+   "tp1": "2026-08-15",
    "tp2": null,
-   "harvest": "2026-08-30",
-   "tables": 23
+   "harvest": "2026-08-31",
+   "tables": 18
   },
   "26-0796": {
    "batch_number": "26-0796",
    "variety": "Sungari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 171,
-   "seed_requirement": 47880,
+   "trays": 175,
+   "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-04",
-   "tp1": "2026-08-14",
+   "tp1": "2026-08-15",
    "tp2": null,
-   "harvest": "2026-08-30",
+   "harvest": "2026-08-31",
    "tables": 14
   },
   "26-0797": {
@@ -19698,51 +20241,51 @@
    "variety": "Cristabel",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 176,
-   "seed_requirement": 49280,
+   "trays": 264,
+   "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-04",
-   "tp1": "2026-08-14",
+   "tp1": "2026-08-15",
    "tp2": null,
-   "harvest": "2026-08-28",
-   "tables": 14
+   "harvest": "2026-08-29",
+   "tables": 21
   },
   "26-0798": {
    "batch_number": "26-0798",
    "variety": "Crismari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 96,
-   "seed_requirement": 26880,
+   "trays": 113,
+   "seed_requirement": 31640,
    "planned_seeding_date": "2026-08-04",
-   "tp1": "2026-08-14",
+   "tp1": "2026-08-15",
    "tp2": null,
-   "harvest": "2026-08-30",
-   "tables": 8
+   "harvest": "2026-08-31",
+   "tables": 9
   },
   "26-0799": {
    "batch_number": "26-0799",
    "variety": "Crispyano",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 281,
-   "seed_requirement": 78680,
+   "trays": 219,
+   "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-05",
-   "tp1": "2026-08-15",
+   "tp1": "2026-08-16",
    "tp2": null,
-   "harvest": "2026-08-31",
-   "tables": 22
+   "harvest": "2026-09-01",
+   "tables": 18
   },
   "26-0800": {
    "batch_number": "26-0800",
    "variety": "Sungari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Red",
-   "trays": 171,
-   "seed_requirement": 47880,
+   "trays": 175,
+   "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-05",
-   "tp1": "2026-08-15",
+   "tp1": "2026-08-16",
    "tp2": null,
-   "harvest": "2026-08-31",
+   "harvest": "2026-09-01",
    "tables": 14
   },
   "26-0801": {
@@ -19750,13 +20293,13 @@
    "variety": "Cristabel",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 176,
-   "seed_requirement": 49280,
+   "trays": 251,
+   "seed_requirement": 70280,
    "planned_seeding_date": "2026-08-05",
-   "tp1": "2026-08-15",
+   "tp1": "2026-08-16",
    "tp2": null,
-   "harvest": "2026-08-29",
-   "tables": 14
+   "harvest": "2026-08-30",
+   "tables": 20
   },
   "26-0802": {
    "batch_number": "26-0802",
@@ -19766,9 +20309,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-08-05",
-   "tp1": "2026-08-15",
+   "tp1": "2026-08-16",
    "tp2": null,
-   "harvest": "2026-08-29",
+   "harvest": "2026-08-30",
    "tables": 2
   },
   "26-0803": {
@@ -19776,38 +20319,38 @@
    "variety": "Crismari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 96,
-   "seed_requirement": 26880,
+   "trays": 113,
+   "seed_requirement": 31640,
    "planned_seeding_date": "2026-08-05",
-   "tp1": "2026-08-15",
+   "tp1": "2026-08-16",
    "tp2": null,
-   "harvest": "2026-08-31",
-   "tables": 8
+   "harvest": "2026-09-01",
+   "tables": 9
   },
   "26-0804": {
    "batch_number": "26-0804",
    "variety": "Crispyano",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 280,
-   "seed_requirement": 78400,
+   "trays": 205,
+   "seed_requirement": 57400,
    "planned_seeding_date": "2026-08-06",
-   "tp1": "2026-08-16",
+   "tp1": "2026-08-17",
    "tp2": null,
-   "harvest": "2026-09-01",
-   "tables": 22
+   "harvest": "2026-09-02",
+   "tables": 17
   },
   "26-0805": {
    "batch_number": "26-0805",
    "variety": "Sungari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Red",
-   "trays": 171,
-   "seed_requirement": 47880,
+   "trays": 175,
+   "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-06",
-   "tp1": "2026-08-16",
+   "tp1": "2026-08-17",
    "tp2": null,
-   "harvest": "2026-09-01",
+   "harvest": "2026-09-02",
    "tables": 14
   },
   "26-0806": {
@@ -19815,26 +20358,26 @@
    "variety": "Cristabel",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 176,
-   "seed_requirement": 49280,
+   "trays": 264,
+   "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-06",
-   "tp1": "2026-08-16",
+   "tp1": "2026-08-17",
    "tp2": null,
-   "harvest": "2026-08-30",
-   "tables": 14
+   "harvest": "2026-08-31",
+   "tables": 21
   },
   "26-0807": {
    "batch_number": "26-0807",
    "variety": "Crismari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 96,
-   "seed_requirement": 26880,
+   "trays": 113,
+   "seed_requirement": 31640,
    "planned_seeding_date": "2026-08-06",
-   "tp1": "2026-08-16",
+   "tp1": "2026-08-17",
    "tp2": null,
-   "harvest": "2026-09-01",
-   "tables": 8
+   "harvest": "2026-09-02",
+   "tables": 9
   },
   "26-0808": {
    "batch_number": "26-0808",
@@ -19857,9 +20400,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-08-06",
-   "tp1": "2026-08-16",
+   "tp1": "2026-08-17",
    "tp2": null,
-   "harvest": "2026-08-30",
+   "harvest": "2026-08-31",
    "tables": 1
   },
   "26-0810": {
@@ -19893,25 +20436,25 @@
    "variety": "Crispyano",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 281,
-   "seed_requirement": 78680,
+   "trays": 219,
+   "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-07",
-   "tp1": "2026-08-17",
+   "tp1": "2026-08-18",
    "tp2": null,
-   "harvest": "2026-09-02",
-   "tables": 22
+   "harvest": "2026-09-03",
+   "tables": 18
   },
   "26-0813": {
    "batch_number": "26-0813",
    "variety": "Sungari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Red",
-   "trays": 171,
-   "seed_requirement": 47880,
+   "trays": 175,
+   "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-07",
-   "tp1": "2026-08-17",
+   "tp1": "2026-08-18",
    "tp2": null,
-   "harvest": "2026-09-02",
+   "harvest": "2026-09-03",
    "tables": 14
   },
   "26-0814": {
@@ -19919,13 +20462,13 @@
    "variety": "Cristabel",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 176,
-   "seed_requirement": 49280,
+   "trays": 251,
+   "seed_requirement": 70280,
    "planned_seeding_date": "2026-08-07",
-   "tp1": "2026-08-17",
+   "tp1": "2026-08-18",
    "tp2": null,
-   "harvest": "2026-08-31",
-   "tables": 14
+   "harvest": "2026-09-01",
+   "tables": 20
   },
   "26-0815": {
    "batch_number": "26-0815",
@@ -19935,9 +20478,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-08-07",
-   "tp1": "2026-08-17",
+   "tp1": "2026-08-18",
    "tp2": null,
-   "harvest": "2026-08-31",
+   "harvest": "2026-09-01",
    "tables": 2
   },
   "26-0816": {
@@ -19945,38 +20488,38 @@
    "variety": "Crismari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 96,
-   "seed_requirement": 26880,
+   "trays": 113,
+   "seed_requirement": 31640,
    "planned_seeding_date": "2026-08-07",
-   "tp1": "2026-08-17",
+   "tp1": "2026-08-18",
    "tp2": null,
-   "harvest": "2026-09-02",
-   "tables": 8
+   "harvest": "2026-09-03",
+   "tables": 9
   },
   "26-0817": {
    "batch_number": "26-0817",
    "variety": "Crispyano",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 294,
-   "seed_requirement": 82320,
+   "trays": 205,
+   "seed_requirement": 57400,
    "planned_seeding_date": "2026-08-08",
-   "tp1": "2026-08-18",
+   "tp1": "2026-08-19",
    "tp2": null,
-   "harvest": "2026-09-03",
-   "tables": 23
+   "harvest": "2026-09-04",
+   "tables": 17
   },
   "26-0818": {
    "batch_number": "26-0818",
    "variety": "Sungari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Red",
-   "trays": 171,
-   "seed_requirement": 47880,
+   "trays": 175,
+   "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-08",
-   "tp1": "2026-08-18",
+   "tp1": "2026-08-19",
    "tp2": null,
-   "harvest": "2026-09-03",
+   "harvest": "2026-09-04",
    "tables": 14
   },
   "26-0819": {
@@ -19984,51 +20527,51 @@
    "variety": "Cristabel",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 176,
-   "seed_requirement": 49280,
+   "trays": 264,
+   "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-08",
-   "tp1": "2026-08-18",
+   "tp1": "2026-08-19",
    "tp2": null,
-   "harvest": "2026-09-01",
-   "tables": 14
+   "harvest": "2026-09-02",
+   "tables": 21
   },
   "26-0820": {
    "batch_number": "26-0820",
    "variety": "Crismari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 96,
-   "seed_requirement": 26880,
+   "trays": 113,
+   "seed_requirement": 31640,
    "planned_seeding_date": "2026-08-08",
-   "tp1": "2026-08-18",
+   "tp1": "2026-08-19",
    "tp2": null,
-   "harvest": "2026-09-03",
-   "tables": 8
+   "harvest": "2026-09-04",
+   "tables": 9
   },
   "26-0821": {
    "batch_number": "26-0821",
    "variety": "Crispyano",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 281,
-   "seed_requirement": 78680,
+   "trays": 219,
+   "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-10",
-   "tp1": "2026-08-20",
+   "tp1": "2026-08-21",
    "tp2": null,
-   "harvest": "2026-09-05",
-   "tables": 22
+   "harvest": "2026-09-06",
+   "tables": 18
   },
   "26-0822": {
    "batch_number": "26-0822",
    "variety": "Sungari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Red",
-   "trays": 171,
-   "seed_requirement": 47880,
+   "trays": 175,
+   "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-10",
-   "tp1": "2026-08-20",
+   "tp1": "2026-08-21",
    "tp2": null,
-   "harvest": "2026-09-05",
+   "harvest": "2026-09-06",
    "tables": 14
   },
   "26-0823": {
@@ -20036,13 +20579,13 @@
    "variety": "Cristabel",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 176,
-   "seed_requirement": 49280,
+   "trays": 251,
+   "seed_requirement": 70280,
    "planned_seeding_date": "2026-08-10",
-   "tp1": "2026-08-20",
+   "tp1": "2026-08-21",
    "tp2": null,
-   "harvest": "2026-09-03",
-   "tables": 14
+   "harvest": "2026-09-04",
+   "tables": 20
   },
   "26-0824": {
    "batch_number": "26-0824",
@@ -20052,9 +20595,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-08-10",
-   "tp1": "2026-08-20",
+   "tp1": "2026-08-21",
    "tp2": null,
-   "harvest": "2026-09-03",
+   "harvest": "2026-09-04",
    "tables": 2
   },
   "26-0825": {
@@ -20062,38 +20605,38 @@
    "variety": "Crismari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 96,
-   "seed_requirement": 26880,
+   "trays": 113,
+   "seed_requirement": 31640,
    "planned_seeding_date": "2026-08-10",
-   "tp1": "2026-08-20",
+   "tp1": "2026-08-21",
    "tp2": null,
-   "harvest": "2026-09-05",
-   "tables": 8
+   "harvest": "2026-09-06",
+   "tables": 9
   },
   "26-0826": {
    "batch_number": "26-0826",
    "variety": "Crispyano",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 294,
-   "seed_requirement": 82320,
+   "trays": 205,
+   "seed_requirement": 57400,
    "planned_seeding_date": "2026-08-11",
-   "tp1": "2026-08-21",
+   "tp1": "2026-08-22",
    "tp2": null,
-   "harvest": "2026-09-06",
-   "tables": 23
+   "harvest": "2026-09-07",
+   "tables": 17
   },
   "26-0827": {
    "batch_number": "26-0827",
    "variety": "Sungari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Red",
-   "trays": 171,
-   "seed_requirement": 47880,
+   "trays": 175,
+   "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-11",
-   "tp1": "2026-08-21",
+   "tp1": "2026-08-22",
    "tp2": null,
-   "harvest": "2026-09-06",
+   "harvest": "2026-09-07",
    "tables": 14
   },
   "26-0828": {
@@ -20101,51 +20644,51 @@
    "variety": "Cristabel",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 176,
-   "seed_requirement": 49280,
+   "trays": 264,
+   "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-11",
-   "tp1": "2026-08-21",
+   "tp1": "2026-08-22",
    "tp2": null,
-   "harvest": "2026-09-04",
-   "tables": 14
+   "harvest": "2026-09-05",
+   "tables": 21
   },
   "26-0829": {
    "batch_number": "26-0829",
    "variety": "Crismari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 96,
-   "seed_requirement": 26880,
+   "trays": 113,
+   "seed_requirement": 31640,
    "planned_seeding_date": "2026-08-11",
-   "tp1": "2026-08-21",
+   "tp1": "2026-08-22",
    "tp2": null,
-   "harvest": "2026-09-06",
-   "tables": 8
+   "harvest": "2026-09-07",
+   "tables": 9
   },
   "26-0830": {
    "batch_number": "26-0830",
    "variety": "Crispyano",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 281,
-   "seed_requirement": 78680,
+   "trays": 219,
+   "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-12",
-   "tp1": "2026-08-22",
+   "tp1": "2026-08-23",
    "tp2": null,
-   "harvest": "2026-09-07",
-   "tables": 22
+   "harvest": "2026-09-08",
+   "tables": 18
   },
   "26-0831": {
    "batch_number": "26-0831",
    "variety": "Sungari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Red",
-   "trays": 171,
-   "seed_requirement": 47880,
+   "trays": 175,
+   "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-12",
-   "tp1": "2026-08-22",
+   "tp1": "2026-08-23",
    "tp2": null,
-   "harvest": "2026-09-07",
+   "harvest": "2026-09-08",
    "tables": 14
   },
   "26-0832": {
@@ -20153,13 +20696,13 @@
    "variety": "Cristabel",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 176,
-   "seed_requirement": 49280,
+   "trays": 251,
+   "seed_requirement": 70280,
    "planned_seeding_date": "2026-08-12",
-   "tp1": "2026-08-22",
+   "tp1": "2026-08-23",
    "tp2": null,
-   "harvest": "2026-09-05",
-   "tables": 14
+   "harvest": "2026-09-06",
+   "tables": 20
   },
   "26-0833": {
    "batch_number": "26-0833",
@@ -20169,9 +20712,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-08-12",
-   "tp1": "2026-08-22",
+   "tp1": "2026-08-23",
    "tp2": null,
-   "harvest": "2026-09-05",
+   "harvest": "2026-09-06",
    "tables": 2
   },
   "26-0834": {
@@ -20179,38 +20722,38 @@
    "variety": "Crismari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 96,
-   "seed_requirement": 26880,
+   "trays": 113,
+   "seed_requirement": 31640,
    "planned_seeding_date": "2026-08-12",
-   "tp1": "2026-08-22",
+   "tp1": "2026-08-23",
    "tp2": null,
-   "harvest": "2026-09-07",
-   "tables": 8
+   "harvest": "2026-09-08",
+   "tables": 9
   },
   "26-0835": {
    "batch_number": "26-0835",
    "variety": "Crispyano",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 280,
-   "seed_requirement": 78400,
+   "trays": 205,
+   "seed_requirement": 57400,
    "planned_seeding_date": "2026-08-13",
-   "tp1": "2026-08-23",
+   "tp1": "2026-08-24",
    "tp2": null,
-   "harvest": "2026-09-08",
-   "tables": 22
+   "harvest": "2026-09-09",
+   "tables": 17
   },
   "26-0836": {
    "batch_number": "26-0836",
    "variety": "Sungari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Red",
-   "trays": 171,
-   "seed_requirement": 47880,
+   "trays": 175,
+   "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-13",
-   "tp1": "2026-08-23",
+   "tp1": "2026-08-24",
    "tp2": null,
-   "harvest": "2026-09-08",
+   "harvest": "2026-09-09",
    "tables": 14
   },
   "26-0837": {
@@ -20218,26 +20761,26 @@
    "variety": "Cristabel",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 176,
-   "seed_requirement": 49280,
+   "trays": 264,
+   "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-13",
-   "tp1": "2026-08-23",
+   "tp1": "2026-08-24",
    "tp2": null,
-   "harvest": "2026-09-06",
-   "tables": 14
+   "harvest": "2026-09-07",
+   "tables": 21
   },
   "26-0838": {
    "batch_number": "26-0838",
    "variety": "Crismari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 96,
-   "seed_requirement": 26880,
+   "trays": 113,
+   "seed_requirement": 31640,
    "planned_seeding_date": "2026-08-13",
-   "tp1": "2026-08-23",
+   "tp1": "2026-08-24",
    "tp2": null,
-   "harvest": "2026-09-08",
-   "tables": 8
+   "harvest": "2026-09-09",
+   "tables": 9
   },
   "26-0839": {
    "batch_number": "26-0839",
@@ -20260,9 +20803,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-08-13",
-   "tp1": "2026-08-23",
+   "tp1": "2026-08-24",
    "tp2": null,
-   "harvest": "2026-09-06",
+   "harvest": "2026-09-07",
    "tables": 1
   },
   "26-0841": {
@@ -20296,25 +20839,25 @@
    "variety": "Crispyano",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 281,
-   "seed_requirement": 78680,
+   "trays": 205,
+   "seed_requirement": 57400,
    "planned_seeding_date": "2026-08-14",
-   "tp1": "2026-08-24",
+   "tp1": "2026-08-25",
    "tp2": null,
-   "harvest": "2026-09-09",
-   "tables": 22
+   "harvest": "2026-09-10",
+   "tables": 17
   },
   "26-0844": {
    "batch_number": "26-0844",
    "variety": "Sungari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Red",
-   "trays": 171,
-   "seed_requirement": 47880,
+   "trays": 175,
+   "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-14",
-   "tp1": "2026-08-24",
+   "tp1": "2026-08-25",
    "tp2": null,
-   "harvest": "2026-09-09",
+   "harvest": "2026-09-10",
    "tables": 14
   },
   "26-0845": {
@@ -20322,91 +20865,147 @@
    "variety": "Cristabel",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 176,
-   "seed_requirement": 49280,
+   "trays": 264,
+   "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-14",
-   "tp1": "2026-08-24",
+   "tp1": "2026-08-25",
    "tp2": null,
-   "harvest": "2026-09-07",
-   "tables": 14
+   "harvest": "2026-09-08",
+   "tables": 21
   },
   "26-0846": {
    "batch_number": "26-0846",
    "variety": "Rabello Baby",
    "crop": "Babyleaf",
    "type": "Babyleaf Romaine",
-   "trays": 13,
-   "seed_requirement": 3640,
+   "trays": 113,
+   "seed_requirement": 31640,
    "planned_seeding_date": "2026-08-14",
-   "tp1": "2026-08-24",
+   "tp1": "2026-08-25",
    "tp2": null,
-   "harvest": "2026-09-07",
-   "tables": 2
+   "harvest": "2026-09-08",
+   "tables": 9
   },
   "26-0847": {
    "batch_number": "26-0847",
    "variety": "Crismari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 96,
-   "seed_requirement": 26880,
+   "trays": 219,
+   "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-14",
-   "tp1": "2026-08-24",
+   "tp1": "2026-08-25",
    "tp2": null,
-   "harvest": "2026-09-09",
-   "tables": 8
+   "harvest": "2026-09-10",
+   "tables": 18
   },
   "26-0848": {
    "batch_number": "26-0848",
    "variety": "Crispyano",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 294,
-   "seed_requirement": 82320,
+   "trays": 175,
+   "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-15",
-   "tp1": "2026-08-25",
+   "tp1": "2026-08-26",
    "tp2": null,
-   "harvest": "2026-09-10",
-   "tables": 23
+   "harvest": "2026-09-11",
+   "tables": 14
   },
   "26-0849": {
    "batch_number": "26-0849",
    "variety": "Sungari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Red",
-   "trays": 171,
-   "seed_requirement": 47880,
+   "trays": 251,
+   "seed_requirement": 70280,
    "planned_seeding_date": "2026-08-15",
-   "tp1": "2026-08-25",
+   "tp1": "2026-08-26",
    "tp2": null,
-   "harvest": "2026-09-10",
-   "tables": 14
+   "harvest": "2026-09-11",
+   "tables": 20
   },
   "26-0850": {
    "batch_number": "26-0850",
    "variety": "Cristabel",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 176,
-   "seed_requirement": 49280,
+   "trays": 13,
+   "seed_requirement": 3640,
    "planned_seeding_date": "2026-08-15",
-   "tp1": "2026-08-25",
+   "tp1": "2026-08-26",
    "tp2": null,
-   "harvest": "2026-09-08",
-   "tables": 14
+   "harvest": "2026-09-09",
+   "tables": 2
   },
   "26-0851": {
    "batch_number": "26-0851",
    "variety": "Crismari",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 96,
-   "seed_requirement": 26880,
+   "trays": 113,
+   "seed_requirement": 31640,
    "planned_seeding_date": "2026-08-15",
-   "tp1": "2026-08-25",
+   "tp1": "2026-08-26",
    "tp2": null,
-   "harvest": "2026-09-10",
-   "tables": 8
+   "harvest": "2026-09-11",
+   "tables": 9
+  },
+  "26-0852": {
+   "batch_number": "26-0852",
+   "variety": "Crispyano",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Green",
+   "trays": 219,
+   "seed_requirement": 61320,
+   "planned_seeding_date": "2026-08-02",
+   "tp1": "2026-08-13",
+   "tp2": null,
+   "harvest": "2026-08-29",
+   "tables": 18,
+   "stage": "Seeded"
+  },
+  "26-0853": {
+   "batch_number": "26-0853",
+   "variety": "Sungari",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Red",
+   "trays": 175,
+   "seed_requirement": 49000,
+   "planned_seeding_date": "2026-08-02",
+   "tp1": "2026-08-13",
+   "tp2": null,
+   "harvest": "2026-08-29",
+   "tables": 14,
+   "stage": "Seeded"
+  },
+  "26-0854": {
+   "batch_number": "26-0854",
+   "variety": "Cristabel",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Green",
+   "trays": 264,
+   "seed_requirement": 73920,
+   "planned_seeding_date": "2026-08-02",
+   "tp1": "2026-08-13",
+   "tp2": null,
+   "harvest": "2026-08-27",
+   "tables": 21,
+   "stage": "Seeded"
+  },
+  "26-0855": {
+   "batch_number": "26-0855",
+   "variety": "Crismari",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Green",
+   "trays": 113,
+   "seed_requirement": 31640,
+   "planned_seeding_date": "2026-08-02",
+   "tp1": "2026-08-13",
+   "tp2": null,
+   "harvest": "2026-08-29",
+   "tables": 9,
+   "stage": "Seeded"
   }
  }
 }
