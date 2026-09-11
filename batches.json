@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-07 04:35",
- "source": "Seeding_List.xlsx (planned data refreshed) + Batch Traceability Dashboard as of 2026-09-03 11:24",
+ "generated": "2026-09-11 13:01",
+ "source": "Seeding_List.xlsx (planned data refreshed) + Batch Traceability Dashboard as of 2026-09-07 04:35",
  "batches": {
   "26-0045": {
    "batch_number": "26-0045",
@@ -25147,6 +25147,32 @@
    "tp2": null,
    "harvest": "2026-10-04",
    "tables": 4
+  },
+  "26-0983": {
+   "batch_number": "26-0983",
+   "variety": "Crispyano",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Green",
+   "trays": 10,
+   "seed_requirement": 2800,
+   "planned_seeding_date": "2026-09-11",
+   "tp1": "2026-09-22",
+   "tp2": null,
+   "harvest": "2026-10-08",
+   "tables": 1
+  },
+  "26-0984": {
+   "batch_number": "26-0984",
+   "variety": "Crispyano",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Green",
+   "trays": 10,
+   "seed_requirement": 2800,
+   "planned_seeding_date": "2026-09-11",
+   "tp1": "2026-09-22",
+   "tp2": null,
+   "harvest": "2026-10-08",
+   "tables": 1
   }
  }
 }
