@@ -136,6 +136,24 @@
   .status-pill.done{background:rgba(10,10,10,0.08);color:var(--ink-soft);}
   .status-pill.notyet{background:rgba(10,10,10,0.05);color:var(--ink-soft);}
 
+  .pill-row{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    margin-bottom:20px;
+  }
+  .pill-row .status-pill{margin-bottom:0;}
+  .age-pill{
+    display:inline-block;
+    font-size:12px;
+    font-weight:700;
+    letter-spacing:0.3px;
+    padding:6px 12px;
+    border-radius:999px;
+    background:rgba(10,10,10,0.06);
+    color:var(--ink-soft);
+  }
+
   /* ---- timeline ---- */
   .timeline{
     display:flex;
@@ -283,7 +301,10 @@
     <p class="batch-number" id="f-batch"></p>
     <p class="variety-line"><b id="f-variety"></b> · <span id="f-type"></span></p>
 
-    <div id="status" class="status-pill">—</div>
+    <div class="pill-row">
+      <div id="status" class="status-pill">—</div>
+      <div id="age-pill" class="age-pill" style="display:none;"></div>
+    </div>
 
     <div class="timeline" id="timeline"></div>
 
@@ -474,6 +495,27 @@ async function init(){
   const statusEl = document.getElementById('status');
   statusEl.textContent = statusText;
   statusEl.className = 'status-pill' + (statusClass ? ' '+statusClass : '');
+
+  // ---- Age, calculated fresh every time the label is scanned ----
+  // Age counts from 2 days after seeding, not the seeding date itself.
+  const agePill = document.getElementById('age-pill');
+  if(isDateStr(rec.planned_seeding_date)){
+    const seedDate = new Date(rec.planned_seeding_date);
+    const ageStart = new Date(seedDate.getTime() + 2 * 86400000);
+    const ageDays = Math.round((today - ageStart) / 86400000);
+    if(ageDays === 0){
+      agePill.textContent = '0 days old';
+      agePill.style.display = 'inline-block';
+    } else if(ageDays > 0){
+      agePill.textContent = `${ageDays} day${ageDays === 1 ? '' : 's'} old`;
+      agePill.style.display = 'inline-block';
+    } else {
+      agePill.textContent = `Ages in ${Math.abs(ageDays)} day${ageDays === -1 ? '' : 's'}`;
+      agePill.style.display = 'inline-block';
+    }
+  } else {
+    agePill.style.display = 'none';
+  }
 
   // ---- Recorded (actual) data, when available ----
   let hasActual = false;
