@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-27 13:40",
- "source": "Seeding_List.xlsx (partial export, batches 26-0825\u20131238, merged additively) + all other batches carried forward unchanged",
+ "generated": "2026-10-27 14:05",
+ "source": "Seeding_List.xlsx (partial export, batches 26-0825\u20131240, merged additively) + all other batches carried forward unchanged",
  "batches": {
   "26-0045": {
    "batch_number": "26-0045",
@@ -27204,9 +27204,9 @@
   },
   "26-1141": {
    "batch_number": "26-1141",
-   "variety": "Rabello Baby",
+   "variety": "Pensacola (3 Seed)",
    "crop": "Babyleaf",
-   "type": "Babyleaf Romaine",
+   "type": "Bablyleaf Romaine",
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-10-10",
@@ -27269,9 +27269,9 @@
   },
   "26-1146": {
    "batch_number": "26-1146",
-   "variety": "Rabello Baby",
+   "variety": "Pensacola (3 Seed)",
    "crop": "Babyleaf",
-   "type": "Babyleaf Romaine",
+   "type": "Bablyleaf Romaine",
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-10-11",
@@ -27334,9 +27334,9 @@
   },
   "26-1151": {
    "batch_number": "26-1151",
-   "variety": "Rabello Baby",
+   "variety": "Pensacola (3 Seed)",
    "crop": "Babyleaf",
-   "type": "Babyleaf Romaine",
+   "type": "Bablyleaf Romaine",
    "trays": 52,
    "seed_requirement": 14560,
    "planned_seeding_date": "2026-10-12",
@@ -27412,9 +27412,9 @@
   },
   "26-1157": {
    "batch_number": "26-1157",
-   "variety": "Rabello Baby",
+   "variety": "Pensacola (3 Seed)",
    "crop": "Babyleaf",
-   "type": "Babyleaf Romaine",
+   "type": "Bablyleaf Romaine",
    "trays": 52,
    "seed_requirement": 14560,
    "planned_seeding_date": "2026-10-13",
@@ -27490,9 +27490,9 @@
   },
   "26-1163": {
    "batch_number": "26-1163",
-   "variety": "Rabello Baby",
+   "variety": "Pensacola (3 Seed)",
    "crop": "Babyleaf",
-   "type": "Babyleaf Romaine",
+   "type": "Bablyleaf Romaine",
    "trays": 52,
    "seed_requirement": 14560,
    "planned_seeding_date": "2026-10-14",
@@ -27568,9 +27568,9 @@
   },
   "26-1169": {
    "batch_number": "26-1169",
-   "variety": "Rabello Baby",
+   "variety": "Pensacola (3 Seed)",
    "crop": "Babyleaf",
-   "type": "Babyleaf Romaine",
+   "type": "Bablyleaf Romaine",
    "trays": 52,
    "seed_requirement": 14560,
    "planned_seeding_date": "2026-10-15",
@@ -28474,6 +28474,32 @@
    "tp1": "2026-11-11",
    "tp2": null,
    "harvest": "2026-11-25",
+   "tables": 7
+  },
+  "26-1239": {
+   "batch_number": "26-1239",
+   "variety": "Sungari",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Red",
+   "trays": 90,
+   "seed_requirement": 25200,
+   "planned_seeding_date": "2026-10-27",
+   "tp1": "2026-11-06",
+   "tp2": null,
+   "harvest": "2026-11-22",
+   "tables": 8
+  },
+  "26-1240": {
+   "batch_number": "26-1240",
+   "variety": "Mazired",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Red",
+   "trays": 83,
+   "seed_requirement": 23240,
+   "planned_seeding_date": "2026-10-27",
+   "tp1": "2026-11-06",
+   "tp2": null,
+   "harvest": "2026-11-20",
    "tables": 7
   }
  }
