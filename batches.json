@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-06 12:35",
- "source": "Seeding_List.xlsx (partial export, batches 26-0825\u20131306, merged additively) + all other batches carried forward unchanged",
+ "generated": "2026-11-16 09:53",
+ "source": "Seeding_List.xlsx (partial export, batches 26-0825\u20131339, merged additively) + all other batches carried forward unchanged",
  "batches": {
   "26-0045": {
    "batch_number": "26-0045",
@@ -22474,7 +22474,7 @@
    "planned_seeding_date": "2026-08-10",
    "tp1": "2026-08-20",
    "tp2": null,
-   "harvest": "2026-09-03",
+   "harvest": "2026-09-05",
    "tables": 9,
    "stage": "Transplanted",
    "seed_lots": [
@@ -22500,9 +22500,9 @@
    "trays": 205,
    "seed_requirement": 57400,
    "planned_seeding_date": "2026-08-11",
-   "tp1": "2026-08-21",
+   "tp1": "2026-08-22",
    "tp2": null,
-   "harvest": "2026-09-06",
+   "harvest": "2026-09-09",
    "tables": 17,
    "stage": "Out of germ",
    "seed_lots": [
@@ -22520,9 +22520,9 @@
    "trays": 175,
    "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-11",
-   "tp1": "2026-08-21",
+   "tp1": "2026-08-22",
    "tp2": null,
-   "harvest": "2026-09-06",
+   "harvest": "2026-09-09",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -22548,9 +22548,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-11",
-   "tp1": "2026-08-21",
+   "tp1": "2026-08-22",
    "tp2": null,
-   "harvest": "2026-09-04",
+   "harvest": "2026-09-07",
    "tables": 21,
    "stage": "Out of germ",
    "seed_lots": [
@@ -22570,7 +22570,7 @@
    "planned_seeding_date": "2026-08-11",
    "tp1": "2026-08-21",
    "tp2": null,
-   "harvest": "2026-09-04",
+   "harvest": "2026-09-06",
    "tables": 9,
    "stage": "Out of germ",
    "seed_lots": [
@@ -22588,9 +22588,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-12",
-   "tp1": "2026-08-22",
+   "tp1": "2026-08-23",
    "tp2": null,
-   "harvest": "2026-09-07",
+   "harvest": "2026-09-10",
    "tables": 18,
    "stage": "Transplanted",
    "seed_lots": [
@@ -22617,9 +22617,9 @@
    "trays": 175,
    "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-12",
-   "tp1": "2026-08-22",
+   "tp1": "2026-08-23",
    "tp2": null,
-   "harvest": "2026-09-07",
+   "harvest": "2026-09-10",
    "tables": 14,
    "stage": "Out of germ"
   },
@@ -22631,9 +22631,9 @@
    "trays": 251,
    "seed_requirement": 70280,
    "planned_seeding_date": "2026-08-12",
-   "tp1": "2026-08-22",
+   "tp1": "2026-08-23",
    "tp2": null,
-   "harvest": "2026-09-05",
+   "harvest": "2026-09-08",
    "tables": 20,
    "stage": "Transplanted",
    "transplant_actual": {
@@ -22653,9 +22653,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-08-12",
-   "tp1": "2026-08-21",
+   "tp1": "2026-08-23",
    "tp2": null,
-   "harvest": "2026-09-02",
+   "harvest": "2026-09-07",
    "tables": 2,
    "stage": "Out of germ"
   },
@@ -22669,7 +22669,7 @@
    "planned_seeding_date": "2026-08-12",
    "tp1": "2026-08-22",
    "tp2": null,
-   "harvest": "2026-09-05",
+   "harvest": "2026-09-07",
    "tables": 9,
    "stage": "Transplanted",
    "seed_lots": [
@@ -22696,9 +22696,9 @@
    "trays": 205,
    "seed_requirement": 57400,
    "planned_seeding_date": "2026-08-13",
-   "tp1": "2026-08-23",
+   "tp1": "2026-08-24",
    "tp2": null,
-   "harvest": "2026-09-08",
+   "harvest": "2026-09-11",
    "tables": 17,
    "stage": "Transplanted",
    "seed_lots": [
@@ -22725,9 +22725,9 @@
    "trays": 175,
    "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-13",
-   "tp1": "2026-08-23",
+   "tp1": "2026-08-24",
    "tp2": null,
-   "harvest": "2026-09-08",
+   "harvest": "2026-09-11",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -22754,9 +22754,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-13",
-   "tp1": "2026-08-23",
+   "tp1": "2026-08-24",
    "tp2": null,
-   "harvest": "2026-09-06",
+   "harvest": "2026-09-09",
    "tables": 21,
    "stage": "Transplanted",
    "transplant_actual": {
@@ -22779,7 +22779,7 @@
    "planned_seeding_date": "2026-08-13",
    "tp1": "2026-08-23",
    "tp2": null,
-   "harvest": "2026-09-06",
+   "harvest": "2026-09-08",
    "tables": 9,
    "stage": "Transplanted",
    "seed_lots": [
@@ -22805,9 +22805,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-08-13",
-   "tp1": "2026-08-27",
+   "tp1": "2026-08-23",
    "tp2": null,
-   "harvest": "2026-09-10",
+   "harvest": "2026-09-06",
    "tables": 1
   },
   "26-0840": {
@@ -22846,9 +22846,9 @@
    "trays": 5,
    "seed_requirement": 1400,
    "planned_seeding_date": "2026-08-13",
-   "tp1": "2026-08-25",
+   "tp1": "2026-08-23",
    "tp2": null,
-   "harvest": "2026-09-10",
+   "harvest": "2026-09-08",
    "tables": 1
   },
   "26-0842": {
@@ -22859,9 +22859,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-08-13",
-   "tp1": "2026-08-25",
+   "tp1": "2026-08-24",
    "tp2": null,
-   "harvest": "2026-09-10",
+   "harvest": "2026-09-11",
    "tables": 1,
    "stage": "Seeded",
    "seed_lots": [
@@ -22879,9 +22879,9 @@
    "trays": 205,
    "seed_requirement": 57400,
    "planned_seeding_date": "2026-08-14",
-   "tp1": "2026-08-24",
+   "tp1": "2026-08-25",
    "tp2": null,
-   "harvest": "2026-09-09",
+   "harvest": "2026-09-12",
    "tables": 17,
    "stage": "Transplanted",
    "seed_lots": [
@@ -22908,9 +22908,9 @@
    "trays": 175,
    "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-14",
-   "tp1": "2026-08-24",
+   "tp1": "2026-08-25",
    "tp2": null,
-   "harvest": "2026-09-09",
+   "harvest": "2026-09-12",
    "tables": 14
   },
   "26-0845": {
@@ -22921,9 +22921,9 @@
    "trays": 251,
    "seed_requirement": 70280,
    "planned_seeding_date": "2026-08-14",
-   "tp1": "2026-08-24",
+   "tp1": "2026-08-25",
    "tp2": null,
-   "harvest": "2026-09-07",
+   "harvest": "2026-09-10",
    "tables": 20,
    "stage": "Transplanted",
    "seed_lots": [
@@ -22950,9 +22950,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-08-14",
-   "tp1": "2026-08-23",
+   "tp1": "2026-08-25",
    "tp2": null,
-   "harvest": "2026-09-04",
+   "harvest": "2026-09-09",
    "tables": 2
   },
   "26-0847": {
@@ -22965,7 +22965,7 @@
    "planned_seeding_date": "2026-08-14",
    "tp1": "2026-08-24",
    "tp2": null,
-   "harvest": "2026-09-07",
+   "harvest": "2026-09-09",
    "tables": 9,
    "stage": "Out of germ"
   },
@@ -22977,9 +22977,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-15",
-   "tp1": "2026-08-25",
+   "tp1": "2026-08-26",
    "tp2": null,
-   "harvest": "2026-09-10",
+   "harvest": "2026-09-13",
    "tables": 18
   },
   "26-0849": {
@@ -22990,9 +22990,9 @@
    "trays": 175,
    "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-15",
-   "tp1": "2026-08-25",
+   "tp1": "2026-08-26",
    "tp2": null,
-   "harvest": "2026-09-10",
+   "harvest": "2026-09-13",
    "tables": 14
   },
   "26-0850": {
@@ -23003,9 +23003,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-15",
-   "tp1": "2026-08-25",
+   "tp1": "2026-08-26",
    "tp2": null,
-   "harvest": "2026-09-08",
+   "harvest": "2026-09-11",
    "tables": 21
   },
   "26-0851": {
@@ -23018,7 +23018,7 @@
    "planned_seeding_date": "2026-08-15",
    "tp1": "2026-08-25",
    "tp2": null,
-   "harvest": "2026-09-08",
+   "harvest": "2026-09-10",
    "tables": 9
   },
   "26-0852": {
@@ -23029,9 +23029,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-02",
-   "tp1": "2026-08-12",
+   "tp1": "2026-08-13",
    "tp2": null,
-   "harvest": "2026-08-28",
+   "harvest": "2026-08-31",
    "tables": 18,
    "stage": "Out of germ",
    "seed_lots": [
@@ -23049,9 +23049,9 @@
    "trays": 175,
    "seed_requirement": 49000,
    "planned_seeding_date": "2026-08-02",
-   "tp1": "2026-08-12",
+   "tp1": "2026-08-13",
    "tp2": null,
-   "harvest": "2026-08-28",
+   "harvest": "2026-08-31",
    "tables": 14,
    "stage": "Out of germ",
    "seed_lots": [
@@ -23069,9 +23069,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-02",
-   "tp1": "2026-08-12",
+   "tp1": "2026-08-13",
    "tp2": null,
-   "harvest": "2026-08-26",
+   "harvest": "2026-08-29",
    "tables": 21,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23096,7 +23096,7 @@
    "planned_seeding_date": "2026-08-02",
    "tp1": "2026-08-12",
    "tp2": null,
-   "harvest": "2026-08-26",
+   "harvest": "2026-08-28",
    "tables": 9,
    "stage": "Harvesting",
    "seed_lots": [
@@ -23122,9 +23122,9 @@
    "trays": 438,
    "seed_requirement": 122640,
    "planned_seeding_date": "2026-08-17",
-   "tp1": "2026-08-27",
+   "tp1": "2026-08-28",
    "tp2": null,
-   "harvest": "2026-09-12",
+   "harvest": "2026-09-15",
    "tables": 35,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23150,9 +23150,9 @@
    "trays": 342,
    "seed_requirement": 95760,
    "planned_seeding_date": "2026-08-17",
-   "tp1": "2026-08-27",
+   "tp1": "2026-08-28",
    "tp2": null,
-   "harvest": "2026-09-12",
+   "harvest": "2026-09-15",
    "tables": 27,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23179,9 +23179,9 @@
    "trays": 515,
    "seed_requirement": 144200,
    "planned_seeding_date": "2026-08-17",
-   "tp1": "2026-08-27",
+   "tp1": "2026-08-28",
    "tp2": null,
-   "harvest": "2026-09-10",
+   "harvest": "2026-09-13",
    "tables": 41,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23207,9 +23207,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-08-17",
-   "tp1": "2026-08-26",
+   "tp1": "2026-08-28",
    "tp2": null,
-   "harvest": "2026-09-07",
+   "harvest": "2026-09-12",
    "tables": 2,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23238,7 +23238,7 @@
    "planned_seeding_date": "2026-08-17",
    "tp1": "2026-08-27",
    "tp2": null,
-   "harvest": "2026-09-10",
+   "harvest": "2026-09-12",
    "tables": 18,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23265,9 +23265,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-18",
-   "tp1": "2026-08-28",
+   "tp1": "2026-08-29",
    "tp2": null,
-   "harvest": "2026-09-13",
+   "harvest": "2026-09-16",
    "tables": 18,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23293,9 +23293,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-08-18",
-   "tp1": "2026-08-28",
+   "tp1": "2026-08-29",
    "tp2": null,
-   "harvest": "2026-09-13",
+   "harvest": "2026-09-16",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23322,9 +23322,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-18",
-   "tp1": "2026-08-28",
+   "tp1": "2026-08-29",
    "tp2": null,
-   "harvest": "2026-09-11",
+   "harvest": "2026-09-14",
    "tables": 21,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23352,7 +23352,7 @@
    "planned_seeding_date": "2026-08-18",
    "tp1": "2026-08-28",
    "tp2": null,
-   "harvest": "2026-09-11",
+   "harvest": "2026-09-13",
    "tables": 9,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23378,9 +23378,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-19",
-   "tp1": "2026-08-29",
+   "tp1": "2026-08-30",
    "tp2": null,
-   "harvest": "2026-09-14",
+   "harvest": "2026-09-17",
    "tables": 18,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23406,9 +23406,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-08-19",
-   "tp1": "2026-08-29",
+   "tp1": "2026-08-30",
    "tp2": null,
-   "harvest": "2026-09-14",
+   "harvest": "2026-09-17",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23434,9 +23434,9 @@
    "trays": 251,
    "seed_requirement": 70280,
    "planned_seeding_date": "2026-08-19",
-   "tp1": "2026-08-29",
+   "tp1": "2026-08-30",
    "tp2": null,
-   "harvest": "2026-09-12",
+   "harvest": "2026-09-15",
    "tables": 20,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23462,9 +23462,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-08-19",
-   "tp1": "2026-08-28",
+   "tp1": "2026-08-30",
    "tp2": null,
-   "harvest": "2026-09-09",
+   "harvest": "2026-09-14",
    "tables": 2,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23492,7 +23492,7 @@
    "planned_seeding_date": "2026-08-19",
    "tp1": "2026-08-29",
    "tp2": null,
-   "harvest": "2026-09-12",
+   "harvest": "2026-09-14",
    "tables": 9,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23519,9 +23519,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-20",
-   "tp1": "2026-08-30",
+   "tp1": "2026-08-31",
    "tp2": null,
-   "harvest": "2026-09-15",
+   "harvest": "2026-09-18",
    "tables": 18,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23547,9 +23547,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-08-20",
-   "tp1": "2026-08-30",
+   "tp1": "2026-08-31",
    "tp2": null,
-   "harvest": "2026-09-15",
+   "harvest": "2026-09-18",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23575,9 +23575,9 @@
    "trays": 250,
    "seed_requirement": 70000,
    "planned_seeding_date": "2026-08-20",
-   "tp1": "2026-08-30",
+   "tp1": "2026-08-31",
    "tp2": null,
-   "harvest": "2026-09-13",
+   "harvest": "2026-09-16",
    "tables": 20,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23605,7 +23605,7 @@
    "planned_seeding_date": "2026-08-20",
    "tp1": "2026-08-30",
    "tp2": null,
-   "harvest": "2026-09-13",
+   "harvest": "2026-09-15",
    "tables": 9,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23631,9 +23631,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-08-20",
-   "tp1": "2026-09-03",
+   "tp1": "2026-08-30",
    "tp2": null,
-   "harvest": "2026-09-17",
+   "harvest": "2026-09-13",
    "tables": 1
   },
   "26-0875": {
@@ -23657,9 +23657,9 @@
    "trays": 5,
    "seed_requirement": 1400,
    "planned_seeding_date": "2026-08-20",
-   "tp1": "2026-09-01",
+   "tp1": "2026-08-30",
    "tp2": null,
-   "harvest": "2026-09-17",
+   "harvest": "2026-09-15",
    "tables": 1
   },
   "26-0877": {
@@ -23670,9 +23670,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-08-20",
-   "tp1": "2026-09-01",
+   "tp1": "2026-08-31",
    "tp2": null,
-   "harvest": "2026-09-17",
+   "harvest": "2026-09-18",
    "tables": 1
   },
   "26-0878": {
@@ -23683,9 +23683,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-21",
-   "tp1": "2026-08-31",
+   "tp1": "2026-09-01",
    "tp2": null,
-   "harvest": "2026-09-16",
+   "harvest": "2026-09-19",
    "tables": 18,
    "stage": "Out of germ",
    "seed_lots": [
@@ -23703,9 +23703,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-08-21",
-   "tp1": "2026-08-31",
+   "tp1": "2026-09-01",
    "tp2": null,
-   "harvest": "2026-09-16",
+   "harvest": "2026-09-19",
    "tables": 14,
    "stage": "Transplanted",
    "seed_lots": [
@@ -23731,9 +23731,9 @@
    "trays": 502,
    "seed_requirement": 140560,
    "planned_seeding_date": "2026-08-21",
-   "tp1": "2026-08-31",
+   "tp1": "2026-09-01",
    "tp2": null,
-   "harvest": "2026-09-14",
+   "harvest": "2026-09-17",
    "tables": 40,
    "stage": "Out of germ",
    "seed_lots": [
@@ -23751,9 +23751,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-08-21",
-   "tp1": "2026-08-30",
+   "tp1": "2026-09-01",
    "tp2": null,
-   "harvest": "2026-09-11",
+   "harvest": "2026-09-16",
    "tables": 2,
    "stage": "Out of germ",
    "seed_lots": [
@@ -23773,7 +23773,7 @@
    "planned_seeding_date": "2026-08-21",
    "tp1": "2026-08-31",
    "tp2": null,
-   "harvest": "2026-09-14",
+   "harvest": "2026-09-16",
    "tables": 9,
    "stage": "Out of germ",
    "seed_lots": [
@@ -23791,9 +23791,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-22",
-   "tp1": "2026-09-01",
+   "tp1": "2026-09-02",
    "tp2": null,
-   "harvest": "2026-09-17",
+   "harvest": "2026-09-20",
    "tables": 18,
    "stage": "Out of germ",
    "seed_lots": [
@@ -23811,9 +23811,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-08-22",
-   "tp1": "2026-09-01",
+   "tp1": "2026-09-02",
    "tp2": null,
-   "harvest": "2026-09-17",
+   "harvest": "2026-09-20",
    "tables": 14,
    "stage": "Out of germ",
    "seed_lots": [
@@ -23831,9 +23831,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-22",
-   "tp1": "2026-09-01",
+   "tp1": "2026-09-02",
    "tp2": null,
-   "harvest": "2026-09-15",
+   "harvest": "2026-09-18",
    "tables": 21,
    "stage": "Out of germ",
    "seed_lots": [
@@ -23853,7 +23853,7 @@
    "planned_seeding_date": "2026-08-22",
    "tp1": "2026-09-01",
    "tp2": null,
-   "harvest": "2026-09-15",
+   "harvest": "2026-09-17",
    "tables": 9,
    "stage": "Out of germ",
    "seed_lots": [
@@ -23871,9 +23871,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-24",
-   "tp1": "2026-09-03",
+   "tp1": "2026-09-04",
    "tp2": null,
-   "harvest": "2026-09-19",
+   "harvest": "2026-09-22",
    "tables": 18,
    "stage": "Out of germ"
   },
@@ -23885,9 +23885,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-08-24",
-   "tp1": "2026-09-03",
+   "tp1": "2026-09-04",
    "tp2": null,
-   "harvest": "2026-09-19",
+   "harvest": "2026-09-22",
    "tables": 14,
    "stage": "Out of germ"
   },
@@ -23899,9 +23899,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-24",
-   "tp1": "2026-09-03",
+   "tp1": "2026-09-04",
    "tp2": null,
-   "harvest": "2026-09-17",
+   "harvest": "2026-09-20",
    "tables": 21,
    "stage": "Out of germ"
   },
@@ -23913,9 +23913,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-08-24",
-   "tp1": "2026-09-02",
+   "tp1": "2026-09-04",
    "tp2": null,
-   "harvest": "2026-09-14",
+   "harvest": "2026-09-19",
    "tables": 2,
    "stage": "Harvesting",
    "harvest_actual": {
@@ -23937,7 +23937,7 @@
    "planned_seeding_date": "2026-08-24",
    "tp1": "2026-09-03",
    "tp2": null,
-   "harvest": "2026-09-17",
+   "harvest": "2026-09-19",
    "tables": 9,
    "stage": "Out of germ"
   },
@@ -23949,9 +23949,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-25",
-   "tp1": "2026-09-04",
+   "tp1": "2026-09-05",
    "tp2": null,
-   "harvest": "2026-09-20",
+   "harvest": "2026-09-23",
    "tables": 18,
    "stage": "Out of germ"
   },
@@ -23963,9 +23963,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-08-25",
-   "tp1": "2026-09-04",
+   "tp1": "2026-09-05",
    "tp2": null,
-   "harvest": "2026-09-20",
+   "harvest": "2026-09-23",
    "tables": 14,
    "stage": "Out of germ"
   },
@@ -23977,9 +23977,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-25",
-   "tp1": "2026-09-04",
+   "tp1": "2026-09-05",
    "tp2": null,
-   "harvest": "2026-09-18",
+   "harvest": "2026-09-21",
    "tables": 21,
    "stage": "Out of germ"
   },
@@ -23993,7 +23993,7 @@
    "planned_seeding_date": "2026-08-25",
    "tp1": "2026-09-04",
    "tp2": null,
-   "harvest": "2026-09-18",
+   "harvest": "2026-09-20",
    "tables": 9,
    "stage": "Out of germ"
   },
@@ -24005,9 +24005,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-26",
-   "tp1": "2026-09-05",
+   "tp1": "2026-09-06",
    "tp2": null,
-   "harvest": "2026-09-21",
+   "harvest": "2026-09-24",
    "tables": 18,
    "stage": "Out of germ"
   },
@@ -24019,9 +24019,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-08-26",
-   "tp1": "2026-09-05",
+   "tp1": "2026-09-06",
    "tp2": null,
-   "harvest": "2026-09-21",
+   "harvest": "2026-09-24",
    "tables": 14,
    "stage": "Out of germ"
   },
@@ -24033,9 +24033,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-26",
-   "tp1": "2026-09-05",
+   "tp1": "2026-09-06",
    "tp2": null,
-   "harvest": "2026-09-19",
+   "harvest": "2026-09-22",
    "tables": 21,
    "stage": "Out of germ"
   },
@@ -24047,9 +24047,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-08-26",
-   "tp1": "2026-09-04",
+   "tp1": "2026-09-06",
    "tp2": null,
-   "harvest": "2026-09-16",
+   "harvest": "2026-09-21",
    "tables": 2,
    "stage": "Out of germ"
   },
@@ -24063,7 +24063,7 @@
    "planned_seeding_date": "2026-08-26",
    "tp1": "2026-09-05",
    "tp2": null,
-   "harvest": "2026-09-19",
+   "harvest": "2026-09-21",
    "tables": 9,
    "stage": "Out of germ"
   },
@@ -24075,9 +24075,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-27",
-   "tp1": "2026-09-06",
+   "tp1": "2026-09-07",
    "tp2": null,
-   "harvest": "2026-09-22",
+   "harvest": "2026-09-25",
    "tables": 18,
    "stage": "Seeded"
   },
@@ -24089,9 +24089,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-08-27",
-   "tp1": "2026-09-06",
+   "tp1": "2026-09-07",
    "tp2": null,
-   "harvest": "2026-09-22",
+   "harvest": "2026-09-25",
    "tables": 14,
    "stage": "Seeded"
   },
@@ -24103,9 +24103,9 @@
    "trays": 250,
    "seed_requirement": 70000,
    "planned_seeding_date": "2026-08-27",
-   "tp1": "2026-09-06",
+   "tp1": "2026-09-07",
    "tp2": null,
-   "harvest": "2026-09-20",
+   "harvest": "2026-09-23",
    "tables": 20,
    "stage": "Seeded"
   },
@@ -24119,7 +24119,7 @@
    "planned_seeding_date": "2026-08-27",
    "tp1": "2026-09-06",
    "tp2": null,
-   "harvest": "2026-09-20",
+   "harvest": "2026-09-22",
    "tables": 9,
    "stage": "Seeded"
   },
@@ -24131,9 +24131,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-08-27",
-   "tp1": "2026-09-10",
+   "tp1": "2026-09-06",
    "tp2": null,
-   "harvest": "2026-09-24",
+   "harvest": "2026-09-20",
    "tables": 1
   },
   "26-0906": {
@@ -24157,9 +24157,9 @@
    "trays": 5,
    "seed_requirement": 1400,
    "planned_seeding_date": "2026-08-27",
-   "tp1": "2026-09-08",
+   "tp1": "2026-09-06",
    "tp2": null,
-   "harvest": "2026-09-24",
+   "harvest": "2026-09-22",
    "tables": 1
   },
   "26-0908": {
@@ -24170,9 +24170,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-08-27",
-   "tp1": "2026-09-08",
+   "tp1": "2026-09-07",
    "tp2": null,
-   "harvest": "2026-09-24",
+   "harvest": "2026-09-25",
    "tables": 1,
    "stage": "Seeded"
   },
@@ -24184,9 +24184,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-28",
-   "tp1": "2026-09-07",
+   "tp1": "2026-09-08",
    "tp2": null,
-   "harvest": "2026-09-23",
+   "harvest": "2026-09-26",
    "tables": 18,
    "stage": "Out of germ"
   },
@@ -24198,9 +24198,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-08-28",
-   "tp1": "2026-09-07",
+   "tp1": "2026-09-08",
    "tp2": null,
-   "harvest": "2026-09-23",
+   "harvest": "2026-09-26",
    "tables": 14,
    "stage": "Out of germ"
   },
@@ -24212,9 +24212,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-28",
-   "tp1": "2026-09-07",
+   "tp1": "2026-09-08",
    "tp2": null,
-   "harvest": "2026-09-21",
+   "harvest": "2026-09-24",
    "tables": 21,
    "stage": "Out of germ"
   },
@@ -24226,9 +24226,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-08-28",
-   "tp1": "2026-09-06",
+   "tp1": "2026-09-08",
    "tp2": null,
-   "harvest": "2026-09-18",
+   "harvest": "2026-09-23",
    "tables": 2,
    "stage": "Out of germ"
   },
@@ -24242,7 +24242,7 @@
    "planned_seeding_date": "2026-08-28",
    "tp1": "2026-09-07",
    "tp2": null,
-   "harvest": "2026-09-21",
+   "harvest": "2026-09-23",
    "tables": 9,
    "stage": "Out of germ"
   },
@@ -24254,9 +24254,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-29",
-   "tp1": "2026-09-08",
+   "tp1": "2026-09-09",
    "tp2": null,
-   "harvest": "2026-09-24",
+   "harvest": "2026-09-27",
    "tables": 18,
    "stage": "Out of germ"
   },
@@ -24268,9 +24268,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-08-29",
-   "tp1": "2026-09-08",
+   "tp1": "2026-09-09",
    "tp2": null,
-   "harvest": "2026-09-24",
+   "harvest": "2026-09-27",
    "tables": 14,
    "stage": "Out of germ"
   },
@@ -24282,9 +24282,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-29",
-   "tp1": "2026-09-08",
+   "tp1": "2026-09-09",
    "tp2": null,
-   "harvest": "2026-09-22",
+   "harvest": "2026-09-25",
    "tables": 21,
    "stage": "Out of germ"
   },
@@ -24298,7 +24298,7 @@
    "planned_seeding_date": "2026-08-29",
    "tp1": "2026-09-08",
    "tp2": null,
-   "harvest": "2026-09-22",
+   "harvest": "2026-09-24",
    "tables": 9,
    "stage": "Out of germ"
   },
@@ -24310,9 +24310,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-08-31",
-   "tp1": "2026-09-10",
+   "tp1": "2026-09-11",
    "tp2": null,
-   "harvest": "2026-09-26",
+   "harvest": "2026-09-29",
    "tables": 18,
    "stage": "Seeded"
   },
@@ -24324,9 +24324,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-08-31",
-   "tp1": "2026-09-10",
+   "tp1": "2026-09-11",
    "tp2": null,
-   "harvest": "2026-09-26",
+   "harvest": "2026-09-29",
    "tables": 14
   },
   "26-0920": {
@@ -24337,9 +24337,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-08-31",
-   "tp1": "2026-09-10",
+   "tp1": "2026-09-11",
    "tp2": null,
-   "harvest": "2026-09-24",
+   "harvest": "2026-09-27",
    "tables": 21
   },
   "26-0921": {
@@ -24350,9 +24350,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-08-31",
-   "tp1": "2026-09-09",
+   "tp1": "2026-09-11",
    "tp2": null,
-   "harvest": "2026-09-21",
+   "harvest": "2026-09-26",
    "tables": 2
   },
   "26-0922": {
@@ -24365,7 +24365,7 @@
    "planned_seeding_date": "2026-08-31",
    "tp1": "2026-09-10",
    "tp2": null,
-   "harvest": "2026-09-24",
+   "harvest": "2026-09-26",
    "tables": 9
   },
   "26-0923": {
@@ -24376,9 +24376,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-09-01",
-   "tp1": "2026-09-11",
+   "tp1": "2026-09-12",
    "tp2": null,
-   "harvest": "2026-09-27",
+   "harvest": "2026-09-30",
    "tables": 18
   },
   "26-0924": {
@@ -24389,9 +24389,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-09-01",
-   "tp1": "2026-09-11",
+   "tp1": "2026-09-12",
    "tp2": null,
-   "harvest": "2026-09-27",
+   "harvest": "2026-09-30",
    "tables": 14
   },
   "26-0925": {
@@ -24402,9 +24402,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-09-01",
-   "tp1": "2026-09-11",
+   "tp1": "2026-09-12",
    "tp2": null,
-   "harvest": "2026-09-25",
+   "harvest": "2026-09-28",
    "tables": 21
   },
   "26-0926": {
@@ -24417,7 +24417,7 @@
    "planned_seeding_date": "2026-09-01",
    "tp1": "2026-09-11",
    "tp2": null,
-   "harvest": "2026-09-25",
+   "harvest": "2026-09-27",
    "tables": 9
   },
   "26-0927": {
@@ -24428,9 +24428,9 @@
    "trays": 219,
    "seed_requirement": 61320,
    "planned_seeding_date": "2026-09-02",
-   "tp1": "2026-09-12",
+   "tp1": "2026-09-13",
    "tp2": null,
-   "harvest": "2026-09-28",
+   "harvest": "2026-10-01",
    "tables": 18
   },
   "26-0928": {
@@ -24441,9 +24441,9 @@
    "trays": 171,
    "seed_requirement": 47880,
    "planned_seeding_date": "2026-09-02",
-   "tp1": "2026-09-12",
+   "tp1": "2026-09-13",
    "tp2": null,
-   "harvest": "2026-09-28",
+   "harvest": "2026-10-01",
    "tables": 14
   },
   "26-0929": {
@@ -24454,9 +24454,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-09-02",
-   "tp1": "2026-09-12",
+   "tp1": "2026-09-13",
    "tp2": null,
-   "harvest": "2026-09-26",
+   "harvest": "2026-09-29",
    "tables": 21
   },
   "26-0930": {
@@ -24467,9 +24467,9 @@
    "trays": 13,
    "seed_requirement": 3640,
    "planned_seeding_date": "2026-09-02",
-   "tp1": "2026-09-11",
+   "tp1": "2026-09-13",
    "tp2": null,
-   "harvest": "2026-09-23",
+   "harvest": "2026-09-28",
    "tables": 2
   },
   "26-0931": {
@@ -24482,7 +24482,7 @@
    "planned_seeding_date": "2026-09-02",
    "tp1": "2026-09-12",
    "tp2": null,
-   "harvest": "2026-09-26",
+   "harvest": "2026-09-28",
    "tables": 9
   },
   "26-0932": {
@@ -24493,9 +24493,9 @@
    "trays": 263,
    "seed_requirement": 73640,
    "planned_seeding_date": "2026-09-03",
-   "tp1": "2026-09-13",
+   "tp1": "2026-09-14",
    "tp2": null,
-   "harvest": "2026-09-29",
+   "harvest": "2026-10-02",
    "tables": 21
   },
   "26-0933": {
@@ -24506,9 +24506,9 @@
    "trays": 150,
    "seed_requirement": 42000,
    "planned_seeding_date": "2026-09-03",
-   "tp1": "2026-09-13",
+   "tp1": "2026-09-14",
    "tp2": null,
-   "harvest": "2026-09-29",
+   "harvest": "2026-10-02",
    "tables": 12
   },
   "26-0934": {
@@ -24519,9 +24519,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-09-03",
-   "tp1": "2026-09-13",
+   "tp1": "2026-09-14",
    "tp2": null,
-   "harvest": "2026-09-27",
+   "harvest": "2026-09-30",
    "tables": 21
   },
   "26-0935": {
@@ -24534,7 +24534,7 @@
    "planned_seeding_date": "2026-09-03",
    "tp1": "2026-09-13",
    "tp2": null,
-   "harvest": "2026-09-27",
+   "harvest": "2026-09-29",
    "tables": 14
   },
   "26-0936": {
@@ -24545,9 +24545,9 @@
    "trays": 56,
    "seed_requirement": 15680,
    "planned_seeding_date": "2026-09-03",
-   "tp1": "2026-09-12",
+   "tp1": "2026-09-14",
    "tp2": null,
-   "harvest": "2026-09-24",
+   "harvest": "2026-09-29",
    "tables": 5
   },
   "26-0937": {
@@ -24571,9 +24571,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-09-03",
-   "tp1": "2026-09-12",
+   "tp1": "2026-09-14",
    "tp2": null,
-   "harvest": "2026-09-24",
+   "harvest": "2026-09-29",
    "tables": 1
   },
   "26-0939": {
@@ -24584,9 +24584,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-09-03",
-   "tp1": "2026-09-15",
+   "tp1": "2026-09-14",
    "tp2": null,
-   "harvest": "2026-10-01",
+   "harvest": "2026-10-02",
    "tables": 1
   },
   "26-0940": {
@@ -24597,9 +24597,9 @@
    "trays": 150,
    "seed_requirement": 42000,
    "planned_seeding_date": "2026-09-04",
-   "tp1": "2026-09-14",
+   "tp1": "2026-09-15",
    "tp2": null,
-   "harvest": "2026-09-30",
+   "harvest": "2026-10-03",
    "tables": 12
   },
   "26-0941": {
@@ -24610,9 +24610,9 @@
    "trays": 150,
    "seed_requirement": 42000,
    "planned_seeding_date": "2026-09-04",
-   "tp1": "2026-09-14",
+   "tp1": "2026-09-15",
    "tp2": null,
-   "harvest": "2026-09-30",
+   "harvest": "2026-10-03",
    "tables": 12
   },
   "26-0942": {
@@ -24623,9 +24623,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-09-04",
-   "tp1": "2026-09-14",
+   "tp1": "2026-09-15",
    "tp2": null,
-   "harvest": "2026-09-28",
+   "harvest": "2026-10-01",
    "tables": 21
   },
   "26-0943": {
@@ -24636,9 +24636,9 @@
    "trays": 56,
    "seed_requirement": 15680,
    "planned_seeding_date": "2026-09-04",
-   "tp1": "2026-09-13",
+   "tp1": "2026-09-15",
    "tp2": null,
-   "harvest": "2026-09-25",
+   "harvest": "2026-09-30",
    "tables": 5
   },
   "26-0944": {
@@ -24651,7 +24651,7 @@
    "planned_seeding_date": "2026-09-04",
    "tp1": "2026-09-14",
    "tp2": null,
-   "harvest": "2026-09-28",
+   "harvest": "2026-09-30",
    "tables": 14
   },
   "26-0945": {
@@ -24662,9 +24662,9 @@
    "trays": 150,
    "seed_requirement": 42000,
    "planned_seeding_date": "2026-09-05",
-   "tp1": "2026-09-15",
+   "tp1": "2026-09-16",
    "tp2": null,
-   "harvest": "2026-10-01",
+   "harvest": "2026-10-04",
    "tables": 12
   },
   "26-0946": {
@@ -24675,9 +24675,9 @@
    "trays": 150,
    "seed_requirement": 42000,
    "planned_seeding_date": "2026-09-05",
-   "tp1": "2026-09-15",
+   "tp1": "2026-09-16",
    "tp2": null,
-   "harvest": "2026-10-01",
+   "harvest": "2026-10-04",
    "tables": 12
   },
   "26-0947": {
@@ -24688,9 +24688,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-09-05",
-   "tp1": "2026-09-15",
+   "tp1": "2026-09-16",
    "tp2": null,
-   "harvest": "2026-09-29",
+   "harvest": "2026-10-02",
    "tables": 21
   },
   "26-0948": {
@@ -24703,7 +24703,7 @@
    "planned_seeding_date": "2026-09-05",
    "tp1": "2026-09-15",
    "tp2": null,
-   "harvest": "2026-09-29",
+   "harvest": "2026-10-01",
    "tables": 14
   },
   "26-0949": {
@@ -24714,9 +24714,9 @@
    "trays": 56,
    "seed_requirement": 15680,
    "planned_seeding_date": "2026-09-05",
-   "tp1": "2026-09-14",
+   "tp1": "2026-09-16",
    "tp2": null,
-   "harvest": "2026-09-26",
+   "harvest": "2026-10-01",
    "tables": 5
   },
   "26-0950": {
@@ -24727,9 +24727,9 @@
    "trays": 150,
    "seed_requirement": 42000,
    "planned_seeding_date": "2026-09-07",
-   "tp1": "2026-09-17",
+   "tp1": "2026-09-18",
    "tp2": null,
-   "harvest": "2026-10-03",
+   "harvest": "2026-10-06",
    "tables": 12
   },
   "26-0951": {
@@ -24740,9 +24740,9 @@
    "trays": 144,
    "seed_requirement": 40320,
    "planned_seeding_date": "2026-09-07",
-   "tp1": "2026-09-17",
+   "tp1": "2026-09-18",
    "tp2": null,
-   "harvest": "2026-10-03",
+   "harvest": "2026-10-06",
    "tables": 12
   },
   "26-0952": {
@@ -24753,9 +24753,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-09-07",
-   "tp1": "2026-09-17",
+   "tp1": "2026-09-18",
    "tp2": null,
-   "harvest": "2026-10-01",
+   "harvest": "2026-10-04",
    "tables": 21
   },
   "26-0953": {
@@ -24768,7 +24768,7 @@
    "planned_seeding_date": "2026-09-07",
    "tp1": "2026-09-17",
    "tp2": null,
-   "harvest": "2026-10-01",
+   "harvest": "2026-10-03",
    "tables": 14
   },
   "26-0954": {
@@ -24779,9 +24779,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-09-07",
-   "tp1": "2026-09-16",
+   "tp1": "2026-09-18",
    "tp2": null,
-   "harvest": "2026-09-28",
+   "harvest": "2026-10-03",
    "tables": 4
   },
   "26-0955": {
@@ -24792,9 +24792,9 @@
    "trays": 150,
    "seed_requirement": 42000,
    "planned_seeding_date": "2026-09-08",
-   "tp1": "2026-09-18",
+   "tp1": "2026-09-19",
    "tp2": null,
-   "harvest": "2026-10-04",
+   "harvest": "2026-10-07",
    "tables": 12
   },
   "26-0956": {
@@ -24805,9 +24805,9 @@
    "trays": 144,
    "seed_requirement": 40320,
    "planned_seeding_date": "2026-09-08",
-   "tp1": "2026-09-18",
+   "tp1": "2026-09-19",
    "tp2": null,
-   "harvest": "2026-10-04",
+   "harvest": "2026-10-07",
    "tables": 12
   },
   "26-0957": {
@@ -24818,9 +24818,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-09-08",
-   "tp1": "2026-09-18",
+   "tp1": "2026-09-19",
    "tp2": null,
-   "harvest": "2026-10-02",
+   "harvest": "2026-10-05",
    "tables": 21
   },
   "26-0958": {
@@ -24833,7 +24833,7 @@
    "planned_seeding_date": "2026-09-08",
    "tp1": "2026-09-18",
    "tp2": null,
-   "harvest": "2026-10-02",
+   "harvest": "2026-10-04",
    "tables": 14
   },
   "26-0959": {
@@ -24844,9 +24844,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-09-08",
-   "tp1": "2026-09-17",
+   "tp1": "2026-09-19",
    "tp2": null,
-   "harvest": "2026-09-29",
+   "harvest": "2026-10-04",
    "tables": 4
   },
   "26-0960": {
@@ -24857,9 +24857,9 @@
    "trays": 150,
    "seed_requirement": 42000,
    "planned_seeding_date": "2026-09-09",
-   "tp1": "2026-09-19",
+   "tp1": "2026-09-20",
    "tp2": null,
-   "harvest": "2026-10-05",
+   "harvest": "2026-10-08",
    "tables": 12
   },
   "26-0961": {
@@ -24870,9 +24870,9 @@
    "trays": 144,
    "seed_requirement": 40320,
    "planned_seeding_date": "2026-09-09",
-   "tp1": "2026-09-19",
+   "tp1": "2026-09-20",
    "tp2": null,
-   "harvest": "2026-10-05",
+   "harvest": "2026-10-08",
    "tables": 12
   },
   "26-0962": {
@@ -24883,9 +24883,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-09-09",
-   "tp1": "2026-09-19",
+   "tp1": "2026-09-20",
    "tp2": null,
-   "harvest": "2026-10-03",
+   "harvest": "2026-10-06",
    "tables": 21
   },
   "26-0963": {
@@ -24898,7 +24898,7 @@
    "planned_seeding_date": "2026-09-09",
    "tp1": "2026-09-19",
    "tp2": null,
-   "harvest": "2026-10-03",
+   "harvest": "2026-10-05",
    "tables": 14
   },
   "26-0964": {
@@ -24909,9 +24909,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-09-09",
-   "tp1": "2026-09-18",
+   "tp1": "2026-09-20",
    "tp2": null,
-   "harvest": "2026-09-30",
+   "harvest": "2026-10-05",
    "tables": 4
   },
   "26-0965": {
@@ -24922,9 +24922,9 @@
    "trays": 150,
    "seed_requirement": 42000,
    "planned_seeding_date": "2026-09-10",
-   "tp1": "2026-09-20",
+   "tp1": "2026-09-21",
    "tp2": null,
-   "harvest": "2026-10-06",
+   "harvest": "2026-10-09",
    "tables": 12
   },
   "26-0966": {
@@ -24935,9 +24935,9 @@
    "trays": 144,
    "seed_requirement": 40320,
    "planned_seeding_date": "2026-09-10",
-   "tp1": "2026-09-20",
+   "tp1": "2026-09-21",
    "tp2": null,
-   "harvest": "2026-10-06",
+   "harvest": "2026-10-09",
    "tables": 12
   },
   "26-0967": {
@@ -24948,9 +24948,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-09-10",
-   "tp1": "2026-09-20",
+   "tp1": "2026-09-21",
    "tp2": null,
-   "harvest": "2026-10-04",
+   "harvest": "2026-10-07",
    "tables": 21
   },
   "26-0968": {
@@ -24963,7 +24963,7 @@
    "planned_seeding_date": "2026-09-10",
    "tp1": "2026-09-20",
    "tp2": null,
-   "harvest": "2026-10-04",
+   "harvest": "2026-10-06",
    "tables": 14
   },
   "26-0969": {
@@ -24974,9 +24974,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-09-10",
-   "tp1": "2026-09-19",
+   "tp1": "2026-09-21",
    "tp2": null,
-   "harvest": "2026-10-01",
+   "harvest": "2026-10-06",
    "tables": 4
   },
   "26-0970": {
@@ -25000,9 +25000,9 @@
    "trays": 4,
    "seed_requirement": 1120,
    "planned_seeding_date": "2026-09-10",
-   "tp1": "2026-09-19",
+   "tp1": "2026-09-21",
    "tp2": null,
-   "harvest": "2026-10-01",
+   "harvest": "2026-10-06",
    "tables": 1
   },
   "26-0972": {
@@ -25013,9 +25013,9 @@
    "trays": 4,
    "seed_requirement": 1120,
    "planned_seeding_date": "2026-09-10",
-   "tp1": "2026-09-22",
+   "tp1": "2026-09-21",
    "tp2": null,
-   "harvest": "2026-10-08",
+   "harvest": "2026-10-09",
    "tables": 1
   },
   "26-0973": {
@@ -25026,9 +25026,9 @@
    "trays": 150,
    "seed_requirement": 42000,
    "planned_seeding_date": "2026-09-11",
-   "tp1": "2026-09-21",
+   "tp1": "2026-09-22",
    "tp2": null,
-   "harvest": "2026-10-07",
+   "harvest": "2026-10-10",
    "tables": 12
   },
   "26-0974": {
@@ -25039,9 +25039,9 @@
    "trays": 144,
    "seed_requirement": 40320,
    "planned_seeding_date": "2026-09-11",
-   "tp1": "2026-09-21",
+   "tp1": "2026-09-22",
    "tp2": null,
-   "harvest": "2026-10-07",
+   "harvest": "2026-10-10",
    "tables": 12
   },
   "26-0975": {
@@ -25052,9 +25052,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-09-11",
-   "tp1": "2026-09-21",
+   "tp1": "2026-09-22",
    "tp2": null,
-   "harvest": "2026-10-05",
+   "harvest": "2026-10-08",
    "tables": 21
   },
   "26-0976": {
@@ -25067,7 +25067,7 @@
    "planned_seeding_date": "2026-09-11",
    "tp1": "2026-09-21",
    "tp2": null,
-   "harvest": "2026-10-05",
+   "harvest": "2026-10-07",
    "tables": 14
   },
   "26-0977": {
@@ -25078,9 +25078,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-09-11",
-   "tp1": "2026-09-20",
+   "tp1": "2026-09-22",
    "tp2": null,
-   "harvest": "2026-10-02",
+   "harvest": "2026-10-07",
    "tables": 4
   },
   "26-0978": {
@@ -25091,9 +25091,9 @@
    "trays": 150,
    "seed_requirement": 42000,
    "planned_seeding_date": "2026-09-12",
-   "tp1": "2026-09-22",
+   "tp1": "2026-09-23",
    "tp2": null,
-   "harvest": "2026-10-08",
+   "harvest": "2026-10-11",
    "tables": 12
   },
   "26-0979": {
@@ -25104,9 +25104,9 @@
    "trays": 144,
    "seed_requirement": 40320,
    "planned_seeding_date": "2026-09-12",
-   "tp1": "2026-09-22",
+   "tp1": "2026-09-23",
    "tp2": null,
-   "harvest": "2026-10-08",
+   "harvest": "2026-10-11",
    "tables": 12
   },
   "26-0980": {
@@ -25117,9 +25117,9 @@
    "trays": 264,
    "seed_requirement": 73920,
    "planned_seeding_date": "2026-09-12",
-   "tp1": "2026-09-22",
+   "tp1": "2026-09-23",
    "tp2": null,
-   "harvest": "2026-10-06",
+   "harvest": "2026-10-09",
    "tables": 21
   },
   "26-0981": {
@@ -25132,7 +25132,7 @@
    "planned_seeding_date": "2026-09-12",
    "tp1": "2026-09-22",
    "tp2": null,
-   "harvest": "2026-10-06",
+   "harvest": "2026-10-08",
    "tables": 14
   },
   "26-0982": {
@@ -25143,9 +25143,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-09-12",
-   "tp1": "2026-09-21",
+   "tp1": "2026-09-23",
    "tp2": null,
-   "harvest": "2026-10-03",
+   "harvest": "2026-10-08",
    "tables": 4
   },
   "26-0983": {
@@ -25156,9 +25156,9 @@
    "trays": 10,
    "seed_requirement": 2800,
    "planned_seeding_date": "2026-09-11",
-   "tp1": "2026-09-21",
+   "tp1": "2026-09-22",
    "tp2": null,
-   "harvest": "2026-10-07",
+   "harvest": "2026-10-10",
    "tables": 1
   },
   "26-0984": {
@@ -25169,9 +25169,9 @@
    "trays": 10,
    "seed_requirement": 2800,
    "planned_seeding_date": "2026-09-11",
-   "tp1": "2026-09-21",
+   "tp1": "2026-09-22",
    "tp2": null,
-   "harvest": "2026-10-07",
+   "harvest": "2026-10-10",
    "tables": 1
   },
   "26-0985": {
@@ -25182,9 +25182,9 @@
    "trays": 150,
    "seed_requirement": 42000,
    "planned_seeding_date": "2026-09-13",
-   "tp1": "2026-09-23",
+   "tp1": "2026-09-24",
    "tp2": null,
-   "harvest": "2026-10-09",
+   "harvest": "2026-10-12",
    "tables": 12
   },
   "26-0986": {
@@ -25195,9 +25195,9 @@
    "trays": 144,
    "seed_requirement": 40320,
    "planned_seeding_date": "2026-09-13",
-   "tp1": "2026-09-23",
+   "tp1": "2026-09-24",
    "tp2": null,
-   "harvest": "2026-10-09",
+   "harvest": "2026-10-12",
    "tables": 12
   },
   "26-0987": {
@@ -25210,7 +25210,7 @@
    "planned_seeding_date": "2026-09-13",
    "tp1": "2026-09-23",
    "tp2": null,
-   "harvest": "2026-10-07",
+   "harvest": "2026-10-09",
    "tables": 14
   },
   "26-0988": {
@@ -25221,9 +25221,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-09-13",
-   "tp1": "2026-09-22",
+   "tp1": "2026-09-24",
    "tp2": null,
-   "harvest": "2026-10-04",
+   "harvest": "2026-10-09",
    "tables": 4
   },
   "26-0989": {
@@ -25234,9 +25234,9 @@
    "trays": 126,
    "seed_requirement": 35280,
    "planned_seeding_date": "2026-09-14",
-   "tp1": "2026-09-24",
+   "tp1": "2026-09-25",
    "tp2": null,
-   "harvest": "2026-10-10",
+   "harvest": "2026-10-13",
    "tables": 10
   },
   "26-0990": {
@@ -25247,9 +25247,9 @@
    "trays": 121,
    "seed_requirement": 33880,
    "planned_seeding_date": "2026-09-14",
-   "tp1": "2026-09-24",
+   "tp1": "2026-09-25",
    "tp2": null,
-   "harvest": "2026-10-10",
+   "harvest": "2026-10-13",
    "tables": 10
   },
   "26-0991": {
@@ -25260,9 +25260,9 @@
    "trays": 216,
    "seed_requirement": 60480,
    "planned_seeding_date": "2026-09-14",
-   "tp1": "2026-09-24",
+   "tp1": "2026-09-25",
    "tp2": null,
-   "harvest": "2026-10-08",
+   "harvest": "2026-10-11",
    "tables": 17
   },
   "26-0992": {
@@ -25275,7 +25275,7 @@
    "planned_seeding_date": "2026-09-14",
    "tp1": "2026-09-24",
    "tp2": null,
-   "harvest": "2026-10-08",
+   "harvest": "2026-10-10",
    "tables": 12
   },
   "26-0993": {
@@ -25286,9 +25286,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-09-14",
-   "tp1": "2026-09-23",
+   "tp1": "2026-09-25",
    "tp2": null,
-   "harvest": "2026-10-05",
+   "harvest": "2026-10-10",
    "tables": 4
   },
   "26-0994": {
@@ -25299,9 +25299,9 @@
    "trays": 126,
    "seed_requirement": 35280,
    "planned_seeding_date": "2026-09-15",
-   "tp1": "2026-09-25",
+   "tp1": "2026-09-26",
    "tp2": null,
-   "harvest": "2026-10-11",
+   "harvest": "2026-10-14",
    "tables": 10
   },
   "26-0995": {
@@ -25312,9 +25312,9 @@
    "trays": 121,
    "seed_requirement": 33880,
    "planned_seeding_date": "2026-09-15",
-   "tp1": "2026-09-25",
+   "tp1": "2026-09-26",
    "tp2": null,
-   "harvest": "2026-10-11",
+   "harvest": "2026-10-14",
    "tables": 10
   },
   "26-0996": {
@@ -25325,9 +25325,9 @@
    "trays": 216,
    "seed_requirement": 60480,
    "planned_seeding_date": "2026-09-15",
-   "tp1": "2026-09-25",
+   "tp1": "2026-09-26",
    "tp2": null,
-   "harvest": "2026-10-09",
+   "harvest": "2026-10-12",
    "tables": 17
   },
   "26-0997": {
@@ -25340,7 +25340,7 @@
    "planned_seeding_date": "2026-09-15",
    "tp1": "2026-09-25",
    "tp2": null,
-   "harvest": "2026-10-09",
+   "harvest": "2026-10-11",
    "tables": 12
   },
   "26-0998": {
@@ -25351,9 +25351,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-09-15",
-   "tp1": "2026-09-24",
+   "tp1": "2026-09-26",
    "tp2": null,
-   "harvest": "2026-10-06",
+   "harvest": "2026-10-11",
    "tables": 4
   },
   "26-0999": {
@@ -25364,9 +25364,9 @@
    "trays": 126,
    "seed_requirement": 35280,
    "planned_seeding_date": "2026-09-16",
-   "tp1": "2026-09-26",
+   "tp1": "2026-09-27",
    "tp2": null,
-   "harvest": "2026-10-12",
+   "harvest": "2026-10-15",
    "tables": 10
   },
   "26-1000": {
@@ -25377,9 +25377,9 @@
    "trays": 121,
    "seed_requirement": 33880,
    "planned_seeding_date": "2026-09-16",
-   "tp1": "2026-09-26",
+   "tp1": "2026-09-27",
    "tp2": null,
-   "harvest": "2026-10-12",
+   "harvest": "2026-10-15",
    "tables": 10
   },
   "26-1001": {
@@ -25390,9 +25390,9 @@
    "trays": 216,
    "seed_requirement": 60480,
    "planned_seeding_date": "2026-09-16",
-   "tp1": "2026-09-26",
+   "tp1": "2026-09-27",
    "tp2": null,
-   "harvest": "2026-10-10",
+   "harvest": "2026-10-13",
    "tables": 17
   },
   "26-1002": {
@@ -25405,7 +25405,7 @@
    "planned_seeding_date": "2026-09-16",
    "tp1": "2026-09-26",
    "tp2": null,
-   "harvest": "2026-10-10",
+   "harvest": "2026-10-12",
    "tables": 12
   },
   "26-1003": {
@@ -25416,9 +25416,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-09-16",
-   "tp1": "2026-09-25",
+   "tp1": "2026-09-27",
    "tp2": null,
-   "harvest": "2026-10-07",
+   "harvest": "2026-10-12",
    "tables": 4
   },
   "26-1004": {
@@ -25429,9 +25429,9 @@
    "trays": 126,
    "seed_requirement": 35280,
    "planned_seeding_date": "2026-09-17",
-   "tp1": "2026-09-27",
+   "tp1": "2026-09-28",
    "tp2": null,
-   "harvest": "2026-10-13",
+   "harvest": "2026-10-16",
    "tables": 10
   },
   "26-1005": {
@@ -25442,9 +25442,9 @@
    "trays": 121,
    "seed_requirement": 33880,
    "planned_seeding_date": "2026-09-17",
-   "tp1": "2026-09-27",
+   "tp1": "2026-09-28",
    "tp2": null,
-   "harvest": "2026-10-13",
+   "harvest": "2026-10-16",
    "tables": 10
   },
   "26-1006": {
@@ -25455,9 +25455,9 @@
    "trays": 216,
    "seed_requirement": 60480,
    "planned_seeding_date": "2026-09-17",
-   "tp1": "2026-09-27",
+   "tp1": "2026-09-28",
    "tp2": null,
-   "harvest": "2026-10-11",
+   "harvest": "2026-10-14",
    "tables": 17
   },
   "26-1007": {
@@ -25470,7 +25470,7 @@
    "planned_seeding_date": "2026-09-17",
    "tp1": "2026-09-27",
    "tp2": null,
-   "harvest": "2026-10-11",
+   "harvest": "2026-10-13",
    "tables": 12
   },
   "26-1008": {
@@ -25481,9 +25481,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-09-17",
-   "tp1": "2026-09-26",
+   "tp1": "2026-09-28",
    "tp2": null,
-   "harvest": "2026-10-08",
+   "harvest": "2026-10-13",
    "tables": 4
   },
   "26-1009": {
@@ -25494,9 +25494,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-09-17",
-   "tp1": "2026-09-29",
+   "tp1": "2026-09-28",
    "tp2": null,
-   "harvest": "2026-10-15",
+   "harvest": "2026-10-16",
    "tables": 1
   },
   "26-1010": {
@@ -25507,9 +25507,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-09-17",
-   "tp1": "2026-10-01",
+   "tp1": "2026-09-27",
    "tp2": null,
-   "harvest": "2026-10-15",
+   "harvest": "2026-10-11",
    "tables": 1
   },
   "26-1011": {
@@ -25533,9 +25533,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-09-17",
-   "tp1": "2026-09-26",
+   "tp1": "2026-09-28",
    "tp2": null,
-   "harvest": "2026-10-08",
+   "harvest": "2026-10-13",
    "tables": 1
   },
   "26-1013": {
@@ -25546,9 +25546,9 @@
    "trays": 126,
    "seed_requirement": 35280,
    "planned_seeding_date": "2026-09-18",
-   "tp1": "2026-09-28",
+   "tp1": "2026-09-29",
    "tp2": null,
-   "harvest": "2026-10-14",
+   "harvest": "2026-10-17",
    "tables": 10
   },
   "26-1014": {
@@ -25559,9 +25559,9 @@
    "trays": 121,
    "seed_requirement": 33880,
    "planned_seeding_date": "2026-09-18",
-   "tp1": "2026-09-28",
+   "tp1": "2026-09-29",
    "tp2": null,
-   "harvest": "2026-10-14",
+   "harvest": "2026-10-17",
    "tables": 10
   },
   "26-1015": {
@@ -25572,9 +25572,9 @@
    "trays": 216,
    "seed_requirement": 60480,
    "planned_seeding_date": "2026-09-18",
-   "tp1": "2026-09-28",
+   "tp1": "2026-09-29",
    "tp2": null,
-   "harvest": "2026-10-12",
+   "harvest": "2026-10-15",
    "tables": 17
   },
   "26-1016": {
@@ -25587,7 +25587,7 @@
    "planned_seeding_date": "2026-09-18",
    "tp1": "2026-09-28",
    "tp2": null,
-   "harvest": "2026-10-12",
+   "harvest": "2026-10-14",
    "tables": 12
   },
   "26-1017": {
@@ -25598,9 +25598,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-09-18",
-   "tp1": "2026-09-27",
+   "tp1": "2026-09-29",
    "tp2": null,
-   "harvest": "2026-10-09",
+   "harvest": "2026-10-14",
    "tables": 4
   },
   "26-1018": {
@@ -25611,9 +25611,9 @@
    "trays": 126,
    "seed_requirement": 35280,
    "planned_seeding_date": "2026-09-19",
-   "tp1": "2026-09-29",
+   "tp1": "2026-09-30",
    "tp2": null,
-   "harvest": "2026-10-15",
+   "harvest": "2026-10-18",
    "tables": 10
   },
   "26-1019": {
@@ -25624,9 +25624,9 @@
    "trays": 121,
    "seed_requirement": 33880,
    "planned_seeding_date": "2026-09-19",
-   "tp1": "2026-09-29",
+   "tp1": "2026-09-30",
    "tp2": null,
-   "harvest": "2026-10-15",
+   "harvest": "2026-10-18",
    "tables": 10
   },
   "26-1020": {
@@ -25637,9 +25637,9 @@
    "trays": 216,
    "seed_requirement": 60480,
    "planned_seeding_date": "2026-09-19",
-   "tp1": "2026-09-29",
+   "tp1": "2026-09-30",
    "tp2": null,
-   "harvest": "2026-10-13",
+   "harvest": "2026-10-16",
    "tables": 17
   },
   "26-1021": {
@@ -25652,7 +25652,7 @@
    "planned_seeding_date": "2026-09-19",
    "tp1": "2026-09-29",
    "tp2": null,
-   "harvest": "2026-10-13",
+   "harvest": "2026-10-15",
    "tables": 12
   },
   "26-1022": {
@@ -25663,9 +25663,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-09-19",
-   "tp1": "2026-09-28",
+   "tp1": "2026-09-30",
    "tp2": null,
-   "harvest": "2026-10-10",
+   "harvest": "2026-10-15",
    "tables": 4
   },
   "26-1023": {
@@ -25676,9 +25676,9 @@
    "trays": 126,
    "seed_requirement": 35280,
    "planned_seeding_date": "2026-09-20",
-   "tp1": "2026-09-30",
+   "tp1": "2026-10-01",
    "tp2": null,
-   "harvest": "2026-10-16",
+   "harvest": "2026-10-19",
    "tables": 10
   },
   "26-1024": {
@@ -25689,9 +25689,9 @@
    "trays": 121,
    "seed_requirement": 33880,
    "planned_seeding_date": "2026-09-20",
-   "tp1": "2026-09-30",
+   "tp1": "2026-10-01",
    "tp2": null,
-   "harvest": "2026-10-16",
+   "harvest": "2026-10-19",
    "tables": 10
   },
   "26-1025": {
@@ -25702,9 +25702,9 @@
    "trays": 216,
    "seed_requirement": 60480,
    "planned_seeding_date": "2026-09-20",
-   "tp1": "2026-09-30",
+   "tp1": "2026-10-01",
    "tp2": null,
-   "harvest": "2026-10-14",
+   "harvest": "2026-10-17",
    "tables": 17
   },
   "26-1026": {
@@ -25717,7 +25717,7 @@
    "planned_seeding_date": "2026-09-20",
    "tp1": "2026-09-30",
    "tp2": null,
-   "harvest": "2026-10-14",
+   "harvest": "2026-10-16",
    "tables": 12
   },
   "26-1027": {
@@ -25728,9 +25728,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-09-20",
-   "tp1": "2026-09-29",
+   "tp1": "2026-10-01",
    "tp2": null,
-   "harvest": "2026-10-11",
+   "harvest": "2026-10-16",
    "tables": 4
   },
   "26-1028": {
@@ -25741,9 +25741,9 @@
    "trays": 130,
    "seed_requirement": 36400,
    "planned_seeding_date": "2026-09-21",
-   "tp1": "2026-10-01",
+   "tp1": "2026-10-02",
    "tp2": null,
-   "harvest": "2026-10-17",
+   "harvest": "2026-10-20",
    "tables": 11
   },
   "26-1029": {
@@ -25754,9 +25754,9 @@
    "trays": 124,
    "seed_requirement": 34720,
    "planned_seeding_date": "2026-09-21",
-   "tp1": "2026-10-01",
+   "tp1": "2026-10-02",
    "tp2": null,
-   "harvest": "2026-10-17",
+   "harvest": "2026-10-20",
    "tables": 10
   },
   "26-1030": {
@@ -25767,9 +25767,9 @@
    "trays": 220,
    "seed_requirement": 61600,
    "planned_seeding_date": "2026-09-21",
-   "tp1": "2026-10-01",
+   "tp1": "2026-10-02",
    "tp2": null,
-   "harvest": "2026-10-15",
+   "harvest": "2026-10-18",
    "tables": 18
   },
   "26-1031": {
@@ -25782,7 +25782,7 @@
    "planned_seeding_date": "2026-09-21",
    "tp1": "2026-10-01",
    "tp2": null,
-   "harvest": "2026-10-15",
+   "harvest": "2026-10-17",
    "tables": 12
   },
   "26-1032": {
@@ -25793,9 +25793,9 @@
    "trays": 42,
    "seed_requirement": 11760,
    "planned_seeding_date": "2026-09-21",
-   "tp1": "2026-09-30",
+   "tp1": "2026-10-02",
    "tp2": null,
-   "harvest": "2026-10-12",
+   "harvest": "2026-10-17",
    "tables": 4
   },
   "26-1033": {
@@ -25806,9 +25806,9 @@
    "trays": 130,
    "seed_requirement": 36400,
    "planned_seeding_date": "2026-09-22",
-   "tp1": "2026-10-02",
+   "tp1": "2026-10-03",
    "tp2": null,
-   "harvest": "2026-10-18",
+   "harvest": "2026-10-21",
    "tables": 11
   },
   "26-1034": {
@@ -25819,9 +25819,9 @@
    "trays": 124,
    "seed_requirement": 34720,
    "planned_seeding_date": "2026-09-22",
-   "tp1": "2026-10-02",
+   "tp1": "2026-10-03",
    "tp2": null,
-   "harvest": "2026-10-18",
+   "harvest": "2026-10-21",
    "tables": 10
   },
   "26-1035": {
@@ -25832,9 +25832,9 @@
    "trays": 220,
    "seed_requirement": 61600,
    "planned_seeding_date": "2026-09-22",
-   "tp1": "2026-10-02",
+   "tp1": "2026-10-03",
    "tp2": null,
-   "harvest": "2026-10-16",
+   "harvest": "2026-10-19",
    "tables": 18
   },
   "26-1036": {
@@ -25847,7 +25847,7 @@
    "planned_seeding_date": "2026-09-22",
    "tp1": "2026-10-02",
    "tp2": null,
-   "harvest": "2026-10-16",
+   "harvest": "2026-10-18",
    "tables": 12
   },
   "26-1037": {
@@ -25858,9 +25858,9 @@
    "trays": 42,
    "seed_requirement": 11760,
    "planned_seeding_date": "2026-09-22",
-   "tp1": "2026-10-01",
+   "tp1": "2026-10-03",
    "tp2": null,
-   "harvest": "2026-10-13",
+   "harvest": "2026-10-18",
    "tables": 4
   },
   "26-1038": {
@@ -25871,9 +25871,9 @@
    "trays": 130,
    "seed_requirement": 36400,
    "planned_seeding_date": "2026-09-23",
-   "tp1": "2026-10-03",
+   "tp1": "2026-10-04",
    "tp2": null,
-   "harvest": "2026-10-19",
+   "harvest": "2026-10-22",
    "tables": 11
   },
   "26-1039": {
@@ -25884,9 +25884,9 @@
    "trays": 124,
    "seed_requirement": 34720,
    "planned_seeding_date": "2026-09-23",
-   "tp1": "2026-10-03",
+   "tp1": "2026-10-04",
    "tp2": null,
-   "harvest": "2026-10-19",
+   "harvest": "2026-10-22",
    "tables": 10
   },
   "26-1040": {
@@ -25897,9 +25897,9 @@
    "trays": 220,
    "seed_requirement": 61600,
    "planned_seeding_date": "2026-09-23",
-   "tp1": "2026-10-03",
+   "tp1": "2026-10-04",
    "tp2": null,
-   "harvest": "2026-10-17",
+   "harvest": "2026-10-20",
    "tables": 18
   },
   "26-1041": {
@@ -25912,7 +25912,7 @@
    "planned_seeding_date": "2026-09-23",
    "tp1": "2026-10-03",
    "tp2": null,
-   "harvest": "2026-10-17",
+   "harvest": "2026-10-19",
    "tables": 12
   },
   "26-1042": {
@@ -25923,9 +25923,9 @@
    "trays": 42,
    "seed_requirement": 11760,
    "planned_seeding_date": "2026-09-23",
-   "tp1": "2026-10-02",
+   "tp1": "2026-10-04",
    "tp2": null,
-   "harvest": "2026-10-14",
+   "harvest": "2026-10-19",
    "tables": 4
   },
   "26-1043": {
@@ -25936,9 +25936,9 @@
    "trays": 130,
    "seed_requirement": 36400,
    "planned_seeding_date": "2026-09-24",
-   "tp1": "2026-10-04",
+   "tp1": "2026-10-05",
    "tp2": null,
-   "harvest": "2026-10-20",
+   "harvest": "2026-10-23",
    "tables": 11
   },
   "26-1044": {
@@ -25949,9 +25949,9 @@
    "trays": 124,
    "seed_requirement": 34720,
    "planned_seeding_date": "2026-09-24",
-   "tp1": "2026-10-04",
+   "tp1": "2026-10-05",
    "tp2": null,
-   "harvest": "2026-10-20",
+   "harvest": "2026-10-23",
    "tables": 10
   },
   "26-1045": {
@@ -25962,9 +25962,9 @@
    "trays": 220,
    "seed_requirement": 61600,
    "planned_seeding_date": "2026-09-24",
-   "tp1": "2026-10-04",
+   "tp1": "2026-10-05",
    "tp2": null,
-   "harvest": "2026-10-18",
+   "harvest": "2026-10-21",
    "tables": 18
   },
   "26-1046": {
@@ -25977,7 +25977,7 @@
    "planned_seeding_date": "2026-09-24",
    "tp1": "2026-10-04",
    "tp2": null,
-   "harvest": "2026-10-18",
+   "harvest": "2026-10-20",
    "tables": 12
   },
   "26-1047": {
@@ -25988,9 +25988,9 @@
    "trays": 42,
    "seed_requirement": 11760,
    "planned_seeding_date": "2026-09-24",
-   "tp1": "2026-10-03",
+   "tp1": "2026-10-05",
    "tp2": null,
-   "harvest": "2026-10-15",
+   "harvest": "2026-10-20",
    "tables": 4
   },
   "26-1048": {
@@ -26001,9 +26001,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-09-24",
-   "tp1": "2026-10-06",
+   "tp1": "2026-10-05",
    "tp2": null,
-   "harvest": "2026-10-22",
+   "harvest": "2026-10-23",
    "tables": 1
   },
   "26-1049": {
@@ -26014,9 +26014,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-09-24",
-   "tp1": "2026-10-08",
+   "tp1": "2026-10-04",
    "tp2": null,
-   "harvest": "2026-10-22",
+   "harvest": "2026-10-18",
    "tables": 1
   },
   "26-1050": {
@@ -26040,9 +26040,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-09-24",
-   "tp1": "2026-10-03",
+   "tp1": "2026-10-05",
    "tp2": null,
-   "harvest": "2026-10-15",
+   "harvest": "2026-10-20",
    "tables": 1
   },
   "26-1052": {
@@ -26053,9 +26053,9 @@
    "trays": 130,
    "seed_requirement": 36400,
    "planned_seeding_date": "2026-09-25",
-   "tp1": "2026-10-05",
+   "tp1": "2026-10-06",
    "tp2": null,
-   "harvest": "2026-10-21",
+   "harvest": "2026-10-24",
    "tables": 11
   },
   "26-1053": {
@@ -26066,9 +26066,9 @@
    "trays": 124,
    "seed_requirement": 34720,
    "planned_seeding_date": "2026-09-25",
-   "tp1": "2026-10-05",
+   "tp1": "2026-10-06",
    "tp2": null,
-   "harvest": "2026-10-21",
+   "harvest": "2026-10-24",
    "tables": 10
   },
   "26-1054": {
@@ -26079,9 +26079,9 @@
    "trays": 220,
    "seed_requirement": 61600,
    "planned_seeding_date": "2026-09-25",
-   "tp1": "2026-10-05",
+   "tp1": "2026-10-06",
    "tp2": null,
-   "harvest": "2026-10-19",
+   "harvest": "2026-10-22",
    "tables": 18
   },
   "26-1055": {
@@ -26094,7 +26094,7 @@
    "planned_seeding_date": "2026-09-25",
    "tp1": "2026-10-05",
    "tp2": null,
-   "harvest": "2026-10-19",
+   "harvest": "2026-10-21",
    "tables": 12
   },
   "26-1056": {
@@ -26105,9 +26105,9 @@
    "trays": 42,
    "seed_requirement": 11760,
    "planned_seeding_date": "2026-09-25",
-   "tp1": "2026-10-04",
+   "tp1": "2026-10-06",
    "tp2": null,
-   "harvest": "2026-10-16",
+   "harvest": "2026-10-21",
    "tables": 4
   },
   "26-1057": {
@@ -26118,9 +26118,9 @@
    "trays": 130,
    "seed_requirement": 36400,
    "planned_seeding_date": "2026-09-26",
-   "tp1": "2026-10-06",
+   "tp1": "2026-10-07",
    "tp2": null,
-   "harvest": "2026-10-22",
+   "harvest": "2026-10-25",
    "tables": 11
   },
   "26-1058": {
@@ -26131,9 +26131,9 @@
    "trays": 124,
    "seed_requirement": 34720,
    "planned_seeding_date": "2026-09-26",
-   "tp1": "2026-10-06",
+   "tp1": "2026-10-07",
    "tp2": null,
-   "harvest": "2026-10-22",
+   "harvest": "2026-10-25",
    "tables": 10
   },
   "26-1059": {
@@ -26144,9 +26144,9 @@
    "trays": 220,
    "seed_requirement": 61600,
    "planned_seeding_date": "2026-09-26",
-   "tp1": "2026-10-06",
+   "tp1": "2026-10-07",
    "tp2": null,
-   "harvest": "2026-10-20",
+   "harvest": "2026-10-23",
    "tables": 18
   },
   "26-1060": {
@@ -26159,7 +26159,7 @@
    "planned_seeding_date": "2026-09-26",
    "tp1": "2026-10-06",
    "tp2": null,
-   "harvest": "2026-10-20",
+   "harvest": "2026-10-22",
    "tables": 12
   },
   "26-1061": {
@@ -26170,9 +26170,9 @@
    "trays": 42,
    "seed_requirement": 11760,
    "planned_seeding_date": "2026-09-26",
-   "tp1": "2026-10-05",
+   "tp1": "2026-10-07",
    "tp2": null,
-   "harvest": "2026-10-17",
+   "harvest": "2026-10-22",
    "tables": 4
   },
   "26-1062": {
@@ -26183,9 +26183,9 @@
    "trays": 130,
    "seed_requirement": 36400,
    "planned_seeding_date": "2026-09-27",
-   "tp1": "2026-10-07",
+   "tp1": "2026-10-08",
    "tp2": null,
-   "harvest": "2026-10-23",
+   "harvest": "2026-10-26",
    "tables": 11
   },
   "26-1063": {
@@ -26196,9 +26196,9 @@
    "trays": 124,
    "seed_requirement": 34720,
    "planned_seeding_date": "2026-09-27",
-   "tp1": "2026-10-07",
+   "tp1": "2026-10-08",
    "tp2": null,
-   "harvest": "2026-10-23",
+   "harvest": "2026-10-26",
    "tables": 10
   },
   "26-1064": {
@@ -26209,9 +26209,9 @@
    "trays": 220,
    "seed_requirement": 61600,
    "planned_seeding_date": "2026-09-27",
-   "tp1": "2026-10-07",
+   "tp1": "2026-10-08",
    "tp2": null,
-   "harvest": "2026-10-21",
+   "harvest": "2026-10-24",
    "tables": 18
   },
   "26-1065": {
@@ -26224,7 +26224,7 @@
    "planned_seeding_date": "2026-09-27",
    "tp1": "2026-10-07",
    "tp2": null,
-   "harvest": "2026-10-21",
+   "harvest": "2026-10-23",
    "tables": 12
   },
   "26-1066": {
@@ -26235,9 +26235,9 @@
    "trays": 42,
    "seed_requirement": 11760,
    "planned_seeding_date": "2026-09-27",
-   "tp1": "2026-10-06",
+   "tp1": "2026-10-08",
    "tp2": null,
-   "harvest": "2026-10-18",
+   "harvest": "2026-10-23",
    "tables": 4
   },
   "26-1067": {
@@ -26248,9 +26248,9 @@
    "trays": 6,
    "seed_requirement": 1680,
    "planned_seeding_date": "2026-09-27",
-   "tp1": "2026-10-07",
+   "tp1": "2026-10-08",
    "tp2": null,
-   "harvest": "2026-10-23",
+   "harvest": "2026-10-26",
    "tables": 1
   },
   "26-1068": {
@@ -26261,9 +26261,9 @@
    "trays": 6,
    "seed_requirement": 1680,
    "planned_seeding_date": "2026-09-27",
-   "tp1": "2026-10-07",
+   "tp1": "2026-10-08",
    "tp2": null,
-   "harvest": "2026-10-23",
+   "harvest": "2026-10-26",
    "tables": 1
   },
   "26-1069": {
@@ -26274,9 +26274,9 @@
    "trays": 132,
    "seed_requirement": 36960,
    "planned_seeding_date": "2026-09-28",
-   "tp1": "2026-10-08",
+   "tp1": "2026-10-09",
    "tp2": null,
-   "harvest": "2026-10-24",
+   "harvest": "2026-10-27",
    "tables": 11
   },
   "26-1070": {
@@ -26287,9 +26287,9 @@
    "trays": 127,
    "seed_requirement": 35560,
    "planned_seeding_date": "2026-09-28",
-   "tp1": "2026-10-08",
+   "tp1": "2026-10-09",
    "tp2": null,
-   "harvest": "2026-10-24",
+   "harvest": "2026-10-27",
    "tables": 10
   },
   "26-1071": {
@@ -26300,9 +26300,9 @@
    "trays": 228,
    "seed_requirement": 63840,
    "planned_seeding_date": "2026-09-28",
-   "tp1": "2026-10-08",
+   "tp1": "2026-10-09",
    "tp2": null,
-   "harvest": "2026-10-22",
+   "harvest": "2026-10-25",
    "tables": 18
   },
   "26-1072": {
@@ -26315,7 +26315,7 @@
    "planned_seeding_date": "2026-09-28",
    "tp1": "2026-10-08",
    "tp2": null,
-   "harvest": "2026-10-22",
+   "harvest": "2026-10-24",
    "tables": 12
   },
   "26-1073": {
@@ -26326,9 +26326,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-09-28",
-   "tp1": "2026-10-07",
+   "tp1": "2026-10-09",
    "tp2": null,
-   "harvest": "2026-10-19",
+   "harvest": "2026-10-24",
    "tables": 4
   },
   "26-1074": {
@@ -26339,9 +26339,9 @@
    "trays": 132,
    "seed_requirement": 36960,
    "planned_seeding_date": "2026-09-29",
-   "tp1": "2026-10-09",
+   "tp1": "2026-10-10",
    "tp2": null,
-   "harvest": "2026-10-25",
+   "harvest": "2026-10-28",
    "tables": 11
   },
   "26-1075": {
@@ -26352,9 +26352,9 @@
    "trays": 127,
    "seed_requirement": 35560,
    "planned_seeding_date": "2026-09-29",
-   "tp1": "2026-10-09",
+   "tp1": "2026-10-10",
    "tp2": null,
-   "harvest": "2026-10-25",
+   "harvest": "2026-10-28",
    "tables": 10
   },
   "26-1076": {
@@ -26365,9 +26365,9 @@
    "trays": 228,
    "seed_requirement": 63840,
    "planned_seeding_date": "2026-09-29",
-   "tp1": "2026-10-09",
+   "tp1": "2026-10-10",
    "tp2": null,
-   "harvest": "2026-10-23",
+   "harvest": "2026-10-26",
    "tables": 18
   },
   "26-1077": {
@@ -26380,7 +26380,7 @@
    "planned_seeding_date": "2026-09-29",
    "tp1": "2026-10-09",
    "tp2": null,
-   "harvest": "2026-10-23",
+   "harvest": "2026-10-25",
    "tables": 12
   },
   "26-1078": {
@@ -26391,9 +26391,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-09-29",
-   "tp1": "2026-10-08",
+   "tp1": "2026-10-10",
    "tp2": null,
-   "harvest": "2026-10-20",
+   "harvest": "2026-10-25",
    "tables": 4
   },
   "26-1079": {
@@ -26404,9 +26404,9 @@
    "trays": 132,
    "seed_requirement": 36960,
    "planned_seeding_date": "2026-09-30",
-   "tp1": "2026-10-10",
+   "tp1": "2026-10-11",
    "tp2": null,
-   "harvest": "2026-10-26",
+   "harvest": "2026-10-29",
    "tables": 11
   },
   "26-1080": {
@@ -26417,9 +26417,9 @@
    "trays": 127,
    "seed_requirement": 35560,
    "planned_seeding_date": "2026-09-30",
-   "tp1": "2026-10-10",
+   "tp1": "2026-10-11",
    "tp2": null,
-   "harvest": "2026-10-26",
+   "harvest": "2026-10-29",
    "tables": 10
   },
   "26-1081": {
@@ -26430,9 +26430,9 @@
    "trays": 228,
    "seed_requirement": 63840,
    "planned_seeding_date": "2026-09-30",
-   "tp1": "2026-10-10",
+   "tp1": "2026-10-11",
    "tp2": null,
-   "harvest": "2026-10-24",
+   "harvest": "2026-10-27",
    "tables": 18
   },
   "26-1082": {
@@ -26445,7 +26445,7 @@
    "planned_seeding_date": "2026-09-30",
    "tp1": "2026-10-10",
    "tp2": null,
-   "harvest": "2026-10-24",
+   "harvest": "2026-10-26",
    "tables": 12
   },
   "26-1083": {
@@ -26456,9 +26456,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-09-30",
-   "tp1": "2026-10-09",
+   "tp1": "2026-10-11",
    "tp2": null,
-   "harvest": "2026-10-21",
+   "harvest": "2026-10-26",
    "tables": 4
   },
   "26-1084": {
@@ -26469,9 +26469,9 @@
    "trays": 132,
    "seed_requirement": 36960,
    "planned_seeding_date": "2026-10-01",
-   "tp1": "2026-10-11",
+   "tp1": "2026-10-12",
    "tp2": null,
-   "harvest": "2026-10-27",
+   "harvest": "2026-10-30",
    "tables": 11
   },
   "26-1085": {
@@ -26482,9 +26482,9 @@
    "trays": 127,
    "seed_requirement": 35560,
    "planned_seeding_date": "2026-10-01",
-   "tp1": "2026-10-11",
+   "tp1": "2026-10-12",
    "tp2": null,
-   "harvest": "2026-10-27",
+   "harvest": "2026-10-30",
    "tables": 10
   },
   "26-1086": {
@@ -26495,9 +26495,9 @@
    "trays": 228,
    "seed_requirement": 63840,
    "planned_seeding_date": "2026-10-01",
-   "tp1": "2026-10-11",
+   "tp1": "2026-10-12",
    "tp2": null,
-   "harvest": "2026-10-25",
+   "harvest": "2026-10-28",
    "tables": 18
   },
   "26-1087": {
@@ -26510,7 +26510,7 @@
    "planned_seeding_date": "2026-10-01",
    "tp1": "2026-10-11",
    "tp2": null,
-   "harvest": "2026-10-25",
+   "harvest": "2026-10-27",
    "tables": 12
   },
   "26-1088": {
@@ -26521,9 +26521,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-10-01",
-   "tp1": "2026-10-10",
+   "tp1": "2026-10-12",
    "tp2": null,
-   "harvest": "2026-10-22",
+   "harvest": "2026-10-27",
    "tables": 4
   },
   "26-1089": {
@@ -26534,9 +26534,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-10-01",
-   "tp1": "2026-10-13",
+   "tp1": "2026-10-12",
    "tp2": null,
-   "harvest": "2026-10-29",
+   "harvest": "2026-10-30",
    "tables": 1
   },
   "26-1090": {
@@ -26547,9 +26547,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-10-01",
-   "tp1": "2026-10-15",
+   "tp1": "2026-10-11",
    "tp2": null,
-   "harvest": "2026-10-29",
+   "harvest": "2026-10-25",
    "tables": 1
   },
   "26-1091": {
@@ -26573,9 +26573,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-10-01",
-   "tp1": "2026-10-10",
+   "tp1": "2026-10-12",
    "tp2": null,
-   "harvest": "2026-10-22",
+   "harvest": "2026-10-27",
    "tables": 1
   },
   "26-1093": {
@@ -26586,9 +26586,9 @@
    "trays": 132,
    "seed_requirement": 36960,
    "planned_seeding_date": "2026-10-02",
-   "tp1": "2026-10-12",
+   "tp1": "2026-10-13",
    "tp2": null,
-   "harvest": "2026-10-28",
+   "harvest": "2026-10-31",
    "tables": 11
   },
   "26-1094": {
@@ -26599,9 +26599,9 @@
    "trays": 127,
    "seed_requirement": 35560,
    "planned_seeding_date": "2026-10-02",
-   "tp1": "2026-10-12",
+   "tp1": "2026-10-13",
    "tp2": null,
-   "harvest": "2026-10-28",
+   "harvest": "2026-10-31",
    "tables": 10
   },
   "26-1095": {
@@ -26612,9 +26612,9 @@
    "trays": 228,
    "seed_requirement": 63840,
    "planned_seeding_date": "2026-10-02",
-   "tp1": "2026-10-12",
+   "tp1": "2026-10-13",
    "tp2": null,
-   "harvest": "2026-10-26",
+   "harvest": "2026-10-29",
    "tables": 18
   },
   "26-1096": {
@@ -26627,7 +26627,7 @@
    "planned_seeding_date": "2026-10-02",
    "tp1": "2026-10-12",
    "tp2": null,
-   "harvest": "2026-10-26",
+   "harvest": "2026-10-28",
    "tables": 12
   },
   "26-1097": {
@@ -26638,9 +26638,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-10-02",
-   "tp1": "2026-10-11",
+   "tp1": "2026-10-13",
    "tp2": null,
-   "harvest": "2026-10-23",
+   "harvest": "2026-10-28",
    "tables": 4
   },
   "26-1098": {
@@ -26651,9 +26651,9 @@
    "trays": 132,
    "seed_requirement": 36960,
    "planned_seeding_date": "2026-10-03",
-   "tp1": "2026-10-13",
+   "tp1": "2026-10-14",
    "tp2": null,
-   "harvest": "2026-10-29",
+   "harvest": "2026-11-01",
    "tables": 11
   },
   "26-1099": {
@@ -26664,9 +26664,9 @@
    "trays": 127,
    "seed_requirement": 35560,
    "planned_seeding_date": "2026-10-03",
-   "tp1": "2026-10-13",
+   "tp1": "2026-10-14",
    "tp2": null,
-   "harvest": "2026-10-29",
+   "harvest": "2026-11-01",
    "tables": 10
   },
   "26-1100": {
@@ -26677,9 +26677,9 @@
    "trays": 228,
    "seed_requirement": 63840,
    "planned_seeding_date": "2026-10-03",
-   "tp1": "2026-10-13",
+   "tp1": "2026-10-14",
    "tp2": null,
-   "harvest": "2026-10-27",
+   "harvest": "2026-10-30",
    "tables": 18
   },
   "26-1101": {
@@ -26692,7 +26692,7 @@
    "planned_seeding_date": "2026-10-03",
    "tp1": "2026-10-13",
    "tp2": null,
-   "harvest": "2026-10-27",
+   "harvest": "2026-10-29",
    "tables": 12
   },
   "26-1102": {
@@ -26703,9 +26703,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-10-03",
-   "tp1": "2026-10-12",
+   "tp1": "2026-10-14",
    "tp2": null,
-   "harvest": "2026-10-24",
+   "harvest": "2026-10-29",
    "tables": 4
   },
   "26-1103": {
@@ -26716,9 +26716,9 @@
    "trays": 132,
    "seed_requirement": 36960,
    "planned_seeding_date": "2026-10-04",
-   "tp1": "2026-10-14",
+   "tp1": "2026-10-15",
    "tp2": null,
-   "harvest": "2026-10-30",
+   "harvest": "2026-11-02",
    "tables": 11
   },
   "26-1104": {
@@ -26729,9 +26729,9 @@
    "trays": 127,
    "seed_requirement": 35560,
    "planned_seeding_date": "2026-10-04",
-   "tp1": "2026-10-14",
+   "tp1": "2026-10-15",
    "tp2": null,
-   "harvest": "2026-10-30",
+   "harvest": "2026-11-02",
    "tables": 10
   },
   "26-1105": {
@@ -26742,9 +26742,9 @@
    "trays": 228,
    "seed_requirement": 63840,
    "planned_seeding_date": "2026-10-04",
-   "tp1": "2026-10-14",
+   "tp1": "2026-10-15",
    "tp2": null,
-   "harvest": "2026-10-28",
+   "harvest": "2026-10-31",
    "tables": 18
   },
   "26-1106": {
@@ -26757,7 +26757,7 @@
    "planned_seeding_date": "2026-10-04",
    "tp1": "2026-10-14",
    "tp2": null,
-   "harvest": "2026-10-28",
+   "harvest": "2026-10-30",
    "tables": 12
   },
   "26-1107": {
@@ -26768,9 +26768,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-10-04",
-   "tp1": "2026-10-13",
+   "tp1": "2026-10-15",
    "tp2": null,
-   "harvest": "2026-10-25",
+   "harvest": "2026-10-30",
    "tables": 4
   },
   "26-1108": {
@@ -26781,9 +26781,9 @@
    "trays": 132,
    "seed_requirement": 36960,
    "planned_seeding_date": "2026-10-05",
-   "tp1": "2026-10-15",
+   "tp1": "2026-10-16",
    "tp2": null,
-   "harvest": "2026-10-31",
+   "harvest": "2026-11-03",
    "tables": 11
   },
   "26-1109": {
@@ -26794,9 +26794,9 @@
    "trays": 127,
    "seed_requirement": 35560,
    "planned_seeding_date": "2026-10-05",
-   "tp1": "2026-10-15",
+   "tp1": "2026-10-16",
    "tp2": null,
-   "harvest": "2026-10-31",
+   "harvest": "2026-11-03",
    "tables": 10
   },
   "26-1110": {
@@ -26807,9 +26807,9 @@
    "trays": 228,
    "seed_requirement": 63840,
    "planned_seeding_date": "2026-10-05",
-   "tp1": "2026-10-15",
+   "tp1": "2026-10-16",
    "tp2": null,
-   "harvest": "2026-10-29",
+   "harvest": "2026-11-01",
    "tables": 18
   },
   "26-1111": {
@@ -26822,7 +26822,7 @@
    "planned_seeding_date": "2026-10-05",
    "tp1": "2026-10-15",
    "tp2": null,
-   "harvest": "2026-10-29",
+   "harvest": "2026-10-31",
    "tables": 12
   },
   "26-1112": {
@@ -26833,9 +26833,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-10-05",
-   "tp1": "2026-10-14",
+   "tp1": "2026-10-16",
    "tp2": null,
-   "harvest": "2026-10-26",
+   "harvest": "2026-10-31",
    "tables": 4
   },
   "26-1113": {
@@ -26846,9 +26846,9 @@
    "trays": 132,
    "seed_requirement": 36960,
    "planned_seeding_date": "2026-10-06",
-   "tp1": "2026-10-16",
+   "tp1": "2026-10-17",
    "tp2": null,
-   "harvest": "2026-11-01",
+   "harvest": "2026-11-04",
    "tables": 11
   },
   "26-1114": {
@@ -26859,9 +26859,9 @@
    "trays": 127,
    "seed_requirement": 35560,
    "planned_seeding_date": "2026-10-06",
-   "tp1": "2026-10-16",
+   "tp1": "2026-10-17",
    "tp2": null,
-   "harvest": "2026-11-01",
+   "harvest": "2026-11-04",
    "tables": 10
   },
   "26-1115": {
@@ -26872,9 +26872,9 @@
    "trays": 228,
    "seed_requirement": 63840,
    "planned_seeding_date": "2026-10-06",
-   "tp1": "2026-10-16",
+   "tp1": "2026-10-17",
    "tp2": null,
-   "harvest": "2026-10-30",
+   "harvest": "2026-11-02",
    "tables": 18
   },
   "26-1116": {
@@ -26887,7 +26887,7 @@
    "planned_seeding_date": "2026-10-06",
    "tp1": "2026-10-16",
    "tp2": null,
-   "harvest": "2026-10-30",
+   "harvest": "2026-11-01",
    "tables": 12
   },
   "26-1117": {
@@ -26898,9 +26898,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-10-06",
-   "tp1": "2026-10-15",
+   "tp1": "2026-10-17",
    "tp2": null,
-   "harvest": "2026-10-27",
+   "harvest": "2026-11-01",
    "tables": 4
   },
   "26-1118": {
@@ -26911,9 +26911,9 @@
    "trays": 132,
    "seed_requirement": 36960,
    "planned_seeding_date": "2026-10-07",
-   "tp1": "2026-10-17",
+   "tp1": "2026-10-18",
    "tp2": null,
-   "harvest": "2026-11-02",
+   "harvest": "2026-11-05",
    "tables": 11
   },
   "26-1119": {
@@ -26924,9 +26924,9 @@
    "trays": 127,
    "seed_requirement": 35560,
    "planned_seeding_date": "2026-10-07",
-   "tp1": "2026-10-17",
+   "tp1": "2026-10-18",
    "tp2": null,
-   "harvest": "2026-11-02",
+   "harvest": "2026-11-05",
    "tables": 10
   },
   "26-1120": {
@@ -26937,9 +26937,9 @@
    "trays": 228,
    "seed_requirement": 63840,
    "planned_seeding_date": "2026-10-07",
-   "tp1": "2026-10-17",
+   "tp1": "2026-10-18",
    "tp2": null,
-   "harvest": "2026-10-31",
+   "harvest": "2026-11-03",
    "tables": 18
   },
   "26-1121": {
@@ -26952,7 +26952,7 @@
    "planned_seeding_date": "2026-10-07",
    "tp1": "2026-10-17",
    "tp2": null,
-   "harvest": "2026-10-31",
+   "harvest": "2026-11-02",
    "tables": 12
   },
   "26-1122": {
@@ -26963,9 +26963,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-10-07",
-   "tp1": "2026-10-16",
+   "tp1": "2026-10-18",
    "tp2": null,
-   "harvest": "2026-10-28",
+   "harvest": "2026-11-02",
    "tables": 4
   },
   "26-1123": {
@@ -26976,9 +26976,9 @@
    "trays": 132,
    "seed_requirement": 36960,
    "planned_seeding_date": "2026-10-08",
-   "tp1": "2026-10-18",
+   "tp1": "2026-10-19",
    "tp2": null,
-   "harvest": "2026-11-03",
+   "harvest": "2026-11-06",
    "tables": 11
   },
   "26-1124": {
@@ -26989,9 +26989,9 @@
    "trays": 127,
    "seed_requirement": 35560,
    "planned_seeding_date": "2026-10-08",
-   "tp1": "2026-10-18",
+   "tp1": "2026-10-19",
    "tp2": null,
-   "harvest": "2026-11-03",
+   "harvest": "2026-11-06",
    "tables": 10
   },
   "26-1125": {
@@ -27002,9 +27002,9 @@
    "trays": 228,
    "seed_requirement": 63840,
    "planned_seeding_date": "2026-10-08",
-   "tp1": "2026-10-18",
+   "tp1": "2026-10-19",
    "tp2": null,
-   "harvest": "2026-11-01",
+   "harvest": "2026-11-04",
    "tables": 18
   },
   "26-1126": {
@@ -27017,7 +27017,7 @@
    "planned_seeding_date": "2026-10-08",
    "tp1": "2026-10-18",
    "tp2": null,
-   "harvest": "2026-11-01",
+   "harvest": "2026-11-03",
    "tables": 12
   },
   "26-1127": {
@@ -27028,9 +27028,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-10-08",
-   "tp1": "2026-10-17",
+   "tp1": "2026-10-19",
    "tp2": null,
-   "harvest": "2026-10-29",
+   "harvest": "2026-11-03",
    "tables": 4
   },
   "26-1128": {
@@ -27041,9 +27041,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-10-08",
-   "tp1": "2026-10-20",
+   "tp1": "2026-10-19",
    "tp2": null,
-   "harvest": "2026-11-05",
+   "harvest": "2026-11-06",
    "tables": 1
   },
   "26-1129": {
@@ -27054,9 +27054,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-10-08",
-   "tp1": "2026-10-22",
+   "tp1": "2026-10-18",
    "tp2": null,
-   "harvest": "2026-11-05",
+   "harvest": "2026-11-01",
    "tables": 1
   },
   "26-1130": {
@@ -27080,9 +27080,9 @@
    "trays": 3,
    "seed_requirement": 840,
    "planned_seeding_date": "2026-10-08",
-   "tp1": "2026-10-17",
+   "tp1": "2026-10-19",
    "tp2": null,
-   "harvest": "2026-10-29",
+   "harvest": "2026-11-03",
    "tables": 1
   },
   "26-1132": {
@@ -27093,9 +27093,9 @@
    "trays": 132,
    "seed_requirement": 36960,
    "planned_seeding_date": "2026-10-09",
-   "tp1": "2026-10-19",
+   "tp1": "2026-10-20",
    "tp2": null,
-   "harvest": "2026-11-04",
+   "harvest": "2026-11-07",
    "tables": 11
   },
   "26-1133": {
@@ -27106,9 +27106,9 @@
    "trays": 127,
    "seed_requirement": 35560,
    "planned_seeding_date": "2026-10-09",
-   "tp1": "2026-10-19",
+   "tp1": "2026-10-20",
    "tp2": null,
-   "harvest": "2026-11-04",
+   "harvest": "2026-11-07",
    "tables": 10
   },
   "26-1134": {
@@ -27119,9 +27119,9 @@
    "trays": 228,
    "seed_requirement": 63840,
    "planned_seeding_date": "2026-10-09",
-   "tp1": "2026-10-19",
+   "tp1": "2026-10-20",
    "tp2": null,
-   "harvest": "2026-11-02",
+   "harvest": "2026-11-05",
    "tables": 18
   },
   "26-1135": {
@@ -27134,7 +27134,7 @@
    "planned_seeding_date": "2026-10-09",
    "tp1": "2026-10-19",
    "tp2": null,
-   "harvest": "2026-11-02",
+   "harvest": "2026-11-04",
    "tables": 12
   },
   "26-1136": {
@@ -27145,9 +27145,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-10-09",
-   "tp1": "2026-10-18",
+   "tp1": "2026-10-20",
    "tp2": null,
-   "harvest": "2026-10-30",
+   "harvest": "2026-11-04",
    "tables": 4
   },
   "26-1137": {
@@ -27158,9 +27158,9 @@
    "trays": 132,
    "seed_requirement": 36960,
    "planned_seeding_date": "2026-10-10",
-   "tp1": "2026-10-20",
+   "tp1": "2026-10-21",
    "tp2": null,
-   "harvest": "2026-11-05",
+   "harvest": "2026-11-08",
    "tables": 11
   },
   "26-1138": {
@@ -27171,9 +27171,9 @@
    "trays": 127,
    "seed_requirement": 35560,
    "planned_seeding_date": "2026-10-10",
-   "tp1": "2026-10-20",
+   "tp1": "2026-10-21",
    "tp2": null,
-   "harvest": "2026-11-05",
+   "harvest": "2026-11-08",
    "tables": 10
   },
   "26-1139": {
@@ -27184,9 +27184,9 @@
    "trays": 228,
    "seed_requirement": 63840,
    "planned_seeding_date": "2026-10-10",
-   "tp1": "2026-10-20",
+   "tp1": "2026-10-21",
    "tp2": null,
-   "harvest": "2026-11-03",
+   "harvest": "2026-11-06",
    "tables": 18
   },
   "26-1140": {
@@ -27199,7 +27199,7 @@
    "planned_seeding_date": "2026-10-10",
    "tp1": "2026-10-20",
    "tp2": null,
-   "harvest": "2026-11-03",
+   "harvest": "2026-11-05",
    "tables": 12
   },
   "26-1141": {
@@ -27210,9 +27210,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-10-10",
-   "tp1": "2026-10-19",
+   "tp1": "2026-10-21",
    "tp2": null,
-   "harvest": "2026-10-31",
+   "harvest": "2026-11-05",
    "tables": 4
   },
   "26-1142": {
@@ -27223,9 +27223,9 @@
    "trays": 132,
    "seed_requirement": 36960,
    "planned_seeding_date": "2026-10-11",
-   "tp1": "2026-10-21",
+   "tp1": "2026-10-22",
    "tp2": null,
-   "harvest": "2026-11-06",
+   "harvest": "2026-11-09",
    "tables": 11
   },
   "26-1143": {
@@ -27236,9 +27236,9 @@
    "trays": 127,
    "seed_requirement": 35560,
    "planned_seeding_date": "2026-10-11",
-   "tp1": "2026-10-21",
+   "tp1": "2026-10-22",
    "tp2": null,
-   "harvest": "2026-11-06",
+   "harvest": "2026-11-09",
    "tables": 10
   },
   "26-1144": {
@@ -27249,9 +27249,9 @@
    "trays": 228,
    "seed_requirement": 63840,
    "planned_seeding_date": "2026-10-11",
-   "tp1": "2026-10-21",
+   "tp1": "2026-10-22",
    "tp2": null,
-   "harvest": "2026-11-04",
+   "harvest": "2026-11-07",
    "tables": 18
   },
   "26-1145": {
@@ -27264,7 +27264,7 @@
    "planned_seeding_date": "2026-10-11",
    "tp1": "2026-10-21",
    "tp2": null,
-   "harvest": "2026-11-04",
+   "harvest": "2026-11-06",
    "tables": 12
   },
   "26-1146": {
@@ -27275,9 +27275,9 @@
    "trays": 40,
    "seed_requirement": 11200,
    "planned_seeding_date": "2026-10-11",
-   "tp1": "2026-10-20",
+   "tp1": "2026-10-22",
    "tp2": null,
-   "harvest": "2026-11-01",
+   "harvest": "2026-11-06",
    "tables": 4
   },
   "26-1147": {
@@ -27288,9 +27288,9 @@
    "trays": 184,
    "seed_requirement": 51520,
    "planned_seeding_date": "2026-10-12",
-   "tp1": "2026-10-22",
+   "tp1": "2026-10-23",
    "tp2": null,
-   "harvest": "2026-11-07",
+   "harvest": "2026-11-10",
    "tables": 15
   },
   "26-1148": {
@@ -27301,9 +27301,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-10-12",
-   "tp1": "2026-10-22",
+   "tp1": "2026-10-23",
    "tp2": null,
-   "harvest": "2026-11-07",
+   "harvest": "2026-11-10",
    "tables": 14
   },
   "26-1149": {
@@ -27314,9 +27314,9 @@
    "trays": 214,
    "seed_requirement": 59920,
    "planned_seeding_date": "2026-10-12",
-   "tp1": "2026-10-22",
+   "tp1": "2026-10-23",
    "tp2": null,
-   "harvest": "2026-11-05",
+   "harvest": "2026-11-08",
    "tables": 17
   },
   "26-1150": {
@@ -27329,7 +27329,7 @@
    "planned_seeding_date": "2026-10-12",
    "tp1": "2026-10-22",
    "tp2": null,
-   "harvest": "2026-11-05",
+   "harvest": "2026-11-07",
    "tables": 17
   },
   "26-1151": {
@@ -27340,9 +27340,9 @@
    "trays": 52,
    "seed_requirement": 14560,
    "planned_seeding_date": "2026-10-12",
-   "tp1": "2026-10-21",
+   "tp1": "2026-10-23",
    "tp2": null,
-   "harvest": "2026-11-02",
+   "harvest": "2026-11-07",
    "tables": 5
   },
   "26-1152": {
@@ -27353,9 +27353,9 @@
    "trays": 108,
    "seed_requirement": 30240,
    "planned_seeding_date": "2026-10-12",
-   "tp1": "2026-10-24",
+   "tp1": "2026-10-23",
    "tp2": null,
-   "harvest": "2026-11-09",
+   "harvest": "2026-11-10",
    "tables": 9
   },
   "26-1153": {
@@ -27366,9 +27366,9 @@
    "trays": 184,
    "seed_requirement": 51520,
    "planned_seeding_date": "2026-10-13",
-   "tp1": "2026-10-23",
+   "tp1": "2026-10-24",
    "tp2": null,
-   "harvest": "2026-11-08",
+   "harvest": "2026-11-11",
    "tables": 15
   },
   "26-1154": {
@@ -27379,9 +27379,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-10-13",
-   "tp1": "2026-10-23",
+   "tp1": "2026-10-24",
    "tp2": null,
-   "harvest": "2026-11-08",
+   "harvest": "2026-11-11",
    "tables": 14
   },
   "26-1155": {
@@ -27392,9 +27392,9 @@
    "trays": 214,
    "seed_requirement": 59920,
    "planned_seeding_date": "2026-10-13",
-   "tp1": "2026-10-23",
+   "tp1": "2026-10-24",
    "tp2": null,
-   "harvest": "2026-11-06",
+   "harvest": "2026-11-09",
    "tables": 17
   },
   "26-1156": {
@@ -27407,7 +27407,7 @@
    "planned_seeding_date": "2026-10-13",
    "tp1": "2026-10-23",
    "tp2": null,
-   "harvest": "2026-11-06",
+   "harvest": "2026-11-08",
    "tables": 17
   },
   "26-1157": {
@@ -27418,9 +27418,9 @@
    "trays": 52,
    "seed_requirement": 14560,
    "planned_seeding_date": "2026-10-13",
-   "tp1": "2026-10-22",
+   "tp1": "2026-10-24",
    "tp2": null,
-   "harvest": "2026-11-03",
+   "harvest": "2026-11-08",
    "tables": 5
   },
   "26-1158": {
@@ -27431,9 +27431,9 @@
    "trays": 108,
    "seed_requirement": 30240,
    "planned_seeding_date": "2026-10-13",
-   "tp1": "2026-10-25",
+   "tp1": "2026-10-24",
    "tp2": null,
-   "harvest": "2026-11-10",
+   "harvest": "2026-11-11",
    "tables": 9
   },
   "26-1159": {
@@ -27444,9 +27444,9 @@
    "trays": 184,
    "seed_requirement": 51520,
    "planned_seeding_date": "2026-10-14",
-   "tp1": "2026-10-24",
+   "tp1": "2026-10-25",
    "tp2": null,
-   "harvest": "2026-11-09",
+   "harvest": "2026-11-12",
    "tables": 15
   },
   "26-1160": {
@@ -27457,9 +27457,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-10-14",
-   "tp1": "2026-10-24",
+   "tp1": "2026-10-25",
    "tp2": null,
-   "harvest": "2026-11-09",
+   "harvest": "2026-11-12",
    "tables": 14
   },
   "26-1161": {
@@ -27470,9 +27470,9 @@
    "trays": 214,
    "seed_requirement": 59920,
    "planned_seeding_date": "2026-10-14",
-   "tp1": "2026-10-24",
+   "tp1": "2026-10-25",
    "tp2": null,
-   "harvest": "2026-11-07",
+   "harvest": "2026-11-10",
    "tables": 17
   },
   "26-1162": {
@@ -27485,7 +27485,7 @@
    "planned_seeding_date": "2026-10-14",
    "tp1": "2026-10-24",
    "tp2": null,
-   "harvest": "2026-11-07",
+   "harvest": "2026-11-09",
    "tables": 17
   },
   "26-1163": {
@@ -27496,9 +27496,9 @@
    "trays": 52,
    "seed_requirement": 14560,
    "planned_seeding_date": "2026-10-14",
-   "tp1": "2026-10-23",
+   "tp1": "2026-10-25",
    "tp2": null,
-   "harvest": "2026-11-04",
+   "harvest": "2026-11-09",
    "tables": 5
   },
   "26-1164": {
@@ -27509,9 +27509,9 @@
    "trays": 108,
    "seed_requirement": 30240,
    "planned_seeding_date": "2026-10-14",
-   "tp1": "2026-10-26",
+   "tp1": "2026-10-25",
    "tp2": null,
-   "harvest": "2026-11-11",
+   "harvest": "2026-11-12",
    "tables": 9
   },
   "26-1165": {
@@ -27522,9 +27522,9 @@
    "trays": 184,
    "seed_requirement": 51520,
    "planned_seeding_date": "2026-10-15",
-   "tp1": "2026-10-25",
+   "tp1": "2026-10-26",
    "tp2": null,
-   "harvest": "2026-11-10",
+   "harvest": "2026-11-13",
    "tables": 15
   },
   "26-1166": {
@@ -27535,9 +27535,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-10-19",
-   "tp1": "2026-10-29",
+   "tp1": "2026-10-30",
    "tp2": null,
-   "harvest": "2026-11-14",
+   "harvest": "2026-11-17",
    "tables": 14
   },
   "26-1167": {
@@ -27548,9 +27548,9 @@
    "trays": 214,
    "seed_requirement": 59920,
    "planned_seeding_date": "2026-10-15",
-   "tp1": "2026-10-25",
+   "tp1": "2026-10-26",
    "tp2": null,
-   "harvest": "2026-11-08",
+   "harvest": "2026-11-11",
    "tables": 17
   },
   "26-1168": {
@@ -27563,7 +27563,7 @@
    "planned_seeding_date": "2026-10-15",
    "tp1": "2026-10-25",
    "tp2": null,
-   "harvest": "2026-11-08",
+   "harvest": "2026-11-10",
    "tables": 17
   },
   "26-1169": {
@@ -27574,9 +27574,9 @@
    "trays": 52,
    "seed_requirement": 14560,
    "planned_seeding_date": "2026-10-15",
-   "tp1": "2026-10-24",
+   "tp1": "2026-10-26",
    "tp2": null,
-   "harvest": "2026-11-05",
+   "harvest": "2026-11-10",
    "tables": 5
   },
   "26-1170": {
@@ -27587,9 +27587,9 @@
    "trays": 108,
    "seed_requirement": 30240,
    "planned_seeding_date": "2026-10-15",
-   "tp1": "2026-10-27",
+   "tp1": "2026-10-26",
    "tp2": null,
-   "harvest": "2026-11-12",
+   "harvest": "2026-11-13",
    "tables": 9
   },
   "26-1171": {
@@ -27613,9 +27613,9 @@
    "trays": 184,
    "seed_requirement": 51520,
    "planned_seeding_date": "2026-10-16",
-   "tp1": "2026-10-26",
+   "tp1": "2026-10-27",
    "tp2": null,
-   "harvest": "2026-11-11",
+   "harvest": "2026-11-14",
    "tables": 15
   },
   "26-1173": {
@@ -27626,9 +27626,9 @@
    "trays": 176,
    "seed_requirement": 49280,
    "planned_seeding_date": "2026-10-16",
-   "tp1": "2026-10-26",
+   "tp1": "2026-10-27",
    "tp2": null,
-   "harvest": "2026-11-11",
+   "harvest": "2026-11-14",
    "tables": 14
   },
   "26-1174": {
@@ -27639,9 +27639,9 @@
    "trays": 214,
    "seed_requirement": 59920,
    "planned_seeding_date": "2026-10-16",
-   "tp1": "2026-10-26",
+   "tp1": "2026-10-27",
    "tp2": null,
-   "harvest": "2026-11-09",
+   "harvest": "2026-11-12",
    "tables": 17
   },
   "26-1175": {
@@ -27654,7 +27654,7 @@
    "planned_seeding_date": "2026-10-16",
    "tp1": "2026-10-26",
    "tp2": null,
-   "harvest": "2026-11-09",
+   "harvest": "2026-11-11",
    "tables": 17
   },
   "26-1176": {
@@ -27665,9 +27665,9 @@
    "trays": 52,
    "seed_requirement": 14560,
    "planned_seeding_date": "2026-10-16",
-   "tp1": "2026-10-25",
+   "tp1": "2026-10-27",
    "tp2": null,
-   "harvest": "2026-11-06",
+   "harvest": "2026-11-11",
    "tables": 5
   },
   "26-1177": {
@@ -27678,9 +27678,9 @@
    "trays": 108,
    "seed_requirement": 30240,
    "planned_seeding_date": "2026-10-16",
-   "tp1": "2026-10-28",
+   "tp1": "2026-10-27",
    "tp2": null,
-   "harvest": "2026-11-13",
+   "harvest": "2026-11-14",
    "tables": 9
   },
   "26-1178": {
@@ -27691,9 +27691,9 @@
    "trays": 188,
    "seed_requirement": 52640,
    "planned_seeding_date": "2026-10-19",
-   "tp1": "2026-10-29",
+   "tp1": "2026-10-30",
    "tp2": null,
-   "harvest": "2026-11-12",
+   "harvest": "2026-11-15",
    "tables": 15
   },
   "26-1179": {
@@ -27704,9 +27704,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-10-19",
-   "tp1": "2026-10-29",
+   "tp1": "2026-10-30",
    "tp2": null,
-   "harvest": "2026-11-14",
+   "harvest": "2026-11-17",
    "tables": 21
   },
   "26-1180": {
@@ -27717,9 +27717,9 @@
    "trays": 172,
    "seed_requirement": 48160,
    "planned_seeding_date": "2026-10-19",
-   "tp1": "2026-10-29",
+   "tp1": "2026-10-30",
    "tp2": null,
-   "harvest": "2026-11-14",
+   "harvest": "2026-11-17",
    "tables": 14
   },
   "26-1181": {
@@ -27730,9 +27730,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-10-19",
-   "tp1": "2026-10-29",
+   "tp1": "2026-10-30",
    "tp2": null,
-   "harvest": "2026-11-12",
+   "harvest": "2026-11-15",
    "tables": 15
   },
   "26-1182": {
@@ -27743,9 +27743,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-10-19",
-   "tp1": "2026-10-28",
+   "tp1": "2026-10-30",
    "tp2": null,
-   "harvest": "2026-11-09",
+   "harvest": "2026-11-14",
    "tables": 4
   },
   "26-1183": {
@@ -27756,9 +27756,9 @@
    "trays": 179,
    "seed_requirement": 50120,
    "planned_seeding_date": "2026-10-19",
-   "tp1": "2026-10-31",
+   "tp1": "2026-10-30",
    "tp2": null,
-   "harvest": "2026-11-16",
+   "harvest": "2026-11-17",
    "tables": 14
   },
   "26-1184": {
@@ -27769,9 +27769,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-10-21",
-   "tp1": "2026-10-31",
+   "tp1": "2026-11-01",
    "tp2": null,
-   "harvest": "2026-11-16",
+   "harvest": "2026-11-19",
    "tables": 21
   },
   "26-1185": {
@@ -27782,9 +27782,9 @@
    "trays": 172,
    "seed_requirement": 48160,
    "planned_seeding_date": "2026-10-21",
-   "tp1": "2026-10-31",
+   "tp1": "2026-11-01",
    "tp2": null,
-   "harvest": "2026-11-16",
+   "harvest": "2026-11-19",
    "tables": 14
   },
   "26-1186": {
@@ -27795,9 +27795,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-10-21",
-   "tp1": "2026-10-31",
+   "tp1": "2026-11-01",
    "tp2": null,
-   "harvest": "2026-11-14",
+   "harvest": "2026-11-17",
    "tables": 15
   },
   "26-1187": {
@@ -27808,9 +27808,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-10-21",
-   "tp1": "2026-10-30",
+   "tp1": "2026-11-01",
    "tp2": null,
-   "harvest": "2026-11-11",
+   "harvest": "2026-11-16",
    "tables": 4
   },
   "26-1188": {
@@ -27821,9 +27821,9 @@
    "trays": 179,
    "seed_requirement": 50120,
    "planned_seeding_date": "2026-10-21",
-   "tp1": "2026-11-02",
+   "tp1": "2026-11-01",
    "tp2": null,
-   "harvest": "2026-11-18",
+   "harvest": "2026-11-19",
    "tables": 14
   },
   "26-1189": {
@@ -27834,9 +27834,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-10-22",
-   "tp1": "2026-11-01",
+   "tp1": "2026-11-02",
    "tp2": null,
-   "harvest": "2026-11-17",
+   "harvest": "2026-11-20",
    "tables": 21
   },
   "26-1190": {
@@ -27847,9 +27847,9 @@
    "trays": 172,
    "seed_requirement": 48160,
    "planned_seeding_date": "2026-10-22",
-   "tp1": "2026-11-01",
+   "tp1": "2026-11-02",
    "tp2": null,
-   "harvest": "2026-11-17",
+   "harvest": "2026-11-20",
    "tables": 14
   },
   "26-1191": {
@@ -27860,9 +27860,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-10-22",
-   "tp1": "2026-11-01",
+   "tp1": "2026-11-02",
    "tp2": null,
-   "harvest": "2026-11-15",
+   "harvest": "2026-11-18",
    "tables": 15
   },
   "26-1192": {
@@ -27873,9 +27873,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-10-22",
-   "tp1": "2026-10-31",
+   "tp1": "2026-11-02",
    "tp2": null,
-   "harvest": "2026-11-12",
+   "harvest": "2026-11-17",
    "tables": 4
   },
   "26-1193": {
@@ -27886,9 +27886,9 @@
    "trays": 179,
    "seed_requirement": 50120,
    "planned_seeding_date": "2026-10-22",
-   "tp1": "2026-11-03",
+   "tp1": "2026-11-02",
    "tp2": null,
-   "harvest": "2026-11-19",
+   "harvest": "2026-11-20",
    "tables": 14
   },
   "26-1194": {
@@ -27899,9 +27899,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-10-23",
-   "tp1": "2026-11-02",
+   "tp1": "2026-11-03",
    "tp2": null,
-   "harvest": "2026-11-18",
+   "harvest": "2026-11-21",
    "tables": 21
   },
   "26-1195": {
@@ -27912,9 +27912,9 @@
    "trays": 172,
    "seed_requirement": 48160,
    "planned_seeding_date": "2026-10-23",
-   "tp1": "2026-11-02",
+   "tp1": "2026-11-03",
    "tp2": null,
-   "harvest": "2026-11-18",
+   "harvest": "2026-11-21",
    "tables": 14
   },
   "26-1196": {
@@ -27925,9 +27925,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-10-23",
-   "tp1": "2026-11-02",
+   "tp1": "2026-11-03",
    "tp2": null,
-   "harvest": "2026-11-16",
+   "harvest": "2026-11-19",
    "tables": 15
   },
   "26-1197": {
@@ -27938,9 +27938,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-10-23",
-   "tp1": "2026-11-01",
+   "tp1": "2026-11-03",
    "tp2": null,
-   "harvest": "2026-11-13",
+   "harvest": "2026-11-18",
    "tables": 4
   },
   "26-1198": {
@@ -27951,9 +27951,9 @@
    "trays": 179,
    "seed_requirement": 50120,
    "planned_seeding_date": "2026-10-23",
-   "tp1": "2026-11-04",
+   "tp1": "2026-11-03",
    "tp2": null,
-   "harvest": "2026-11-20",
+   "harvest": "2026-11-21",
    "tables": 14
   },
   "26-1199": {
@@ -27964,9 +27964,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-10-24",
-   "tp1": "2026-11-03",
+   "tp1": "2026-11-04",
    "tp2": null,
-   "harvest": "2026-11-19",
+   "harvest": "2026-11-22",
    "tables": 21
   },
   "26-1200": {
@@ -27977,9 +27977,9 @@
    "trays": 172,
    "seed_requirement": 48160,
    "planned_seeding_date": "2026-10-24",
-   "tp1": "2026-11-03",
+   "tp1": "2026-11-04",
    "tp2": null,
-   "harvest": "2026-11-19",
+   "harvest": "2026-11-22",
    "tables": 14
   },
   "26-1201": {
@@ -27990,9 +27990,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-10-24",
-   "tp1": "2026-11-03",
+   "tp1": "2026-11-04",
    "tp2": null,
-   "harvest": "2026-11-17",
+   "harvest": "2026-11-20",
    "tables": 15
   },
   "26-1202": {
@@ -28003,9 +28003,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-10-24",
-   "tp1": "2026-11-02",
+   "tp1": "2026-11-04",
    "tp2": null,
-   "harvest": "2026-11-14",
+   "harvest": "2026-11-19",
    "tables": 4
   },
   "26-1203": {
@@ -28016,9 +28016,9 @@
    "trays": 179,
    "seed_requirement": 50120,
    "planned_seeding_date": "2026-10-24",
-   "tp1": "2026-11-05",
+   "tp1": "2026-11-04",
    "tp2": null,
-   "harvest": "2026-11-21",
+   "harvest": "2026-11-22",
    "tables": 14
   },
   "26-1204": {
@@ -28029,9 +28029,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-10-25",
-   "tp1": "2026-11-04",
+   "tp1": "2026-11-05",
    "tp2": null,
-   "harvest": "2026-11-20",
+   "harvest": "2026-11-23",
    "tables": 21
   },
   "26-1205": {
@@ -28042,9 +28042,9 @@
    "trays": 172,
    "seed_requirement": 48160,
    "planned_seeding_date": "2026-10-26",
-   "tp1": "2026-11-05",
+   "tp1": "2026-11-06",
    "tp2": null,
-   "harvest": "2026-11-21",
+   "harvest": "2026-11-24",
    "tables": 14
   },
   "26-1206": {
@@ -28055,9 +28055,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-10-25",
-   "tp1": "2026-11-04",
+   "tp1": "2026-11-05",
    "tp2": null,
-   "harvest": "2026-11-18",
+   "harvest": "2026-11-21",
    "tables": 15
   },
   "26-1207": {
@@ -28068,9 +28068,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-10-25",
-   "tp1": "2026-11-03",
+   "tp1": "2026-11-05",
    "tp2": null,
-   "harvest": "2026-11-15",
+   "harvest": "2026-11-20",
    "tables": 4
   },
   "26-1208": {
@@ -28081,9 +28081,9 @@
    "trays": 179,
    "seed_requirement": 50120,
    "planned_seeding_date": "2026-10-26",
-   "tp1": "2026-11-07",
+   "tp1": "2026-11-06",
    "tp2": null,
-   "harvest": "2026-11-23",
+   "harvest": "2026-11-24",
    "tables": 14
   },
   "26-1209": {
@@ -28094,9 +28094,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-10-28",
-   "tp1": "2026-11-07",
+   "tp1": "2026-11-08",
    "tp2": null,
-   "harvest": "2026-11-23",
+   "harvest": "2026-11-26",
    "tables": 21
   },
   "26-1210": {
@@ -28107,9 +28107,9 @@
    "trays": 90,
    "seed_requirement": 25200,
    "planned_seeding_date": "2026-10-28",
-   "tp1": "2026-11-07",
+   "tp1": "2026-11-08",
    "tp2": null,
-   "harvest": "2026-11-23",
+   "harvest": "2026-11-26",
    "tables": 8
   },
   "26-1211": {
@@ -28120,9 +28120,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-10-28",
-   "tp1": "2026-11-07",
+   "tp1": "2026-11-08",
    "tp2": null,
-   "harvest": "2026-11-21",
+   "harvest": "2026-11-24",
    "tables": 15
   },
   "26-1212": {
@@ -28133,9 +28133,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-10-28",
-   "tp1": "2026-11-06",
+   "tp1": "2026-11-08",
    "tp2": null,
-   "harvest": "2026-11-18",
+   "harvest": "2026-11-23",
    "tables": 4
   },
   "26-1213": {
@@ -28146,9 +28146,9 @@
    "trays": 179,
    "seed_requirement": 50120,
    "planned_seeding_date": "2026-10-28",
-   "tp1": "2026-11-09",
+   "tp1": "2026-11-08",
    "tp2": null,
-   "harvest": "2026-11-25",
+   "harvest": "2026-11-26",
    "tables": 14
   },
   "26-1214": {
@@ -28159,9 +28159,9 @@
    "trays": 83,
    "seed_requirement": 23240,
    "planned_seeding_date": "2026-10-28",
-   "tp1": "2026-11-07",
+   "tp1": "2026-11-08",
    "tp2": null,
-   "harvest": "2026-11-21",
+   "harvest": "2026-11-26",
    "tables": 7
   },
   "26-1215": {
@@ -28172,9 +28172,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-10-29",
-   "tp1": "2026-11-08",
+   "tp1": "2026-11-09",
    "tp2": null,
-   "harvest": "2026-11-24",
+   "harvest": "2026-11-27",
    "tables": 21
   },
   "26-1216": {
@@ -28185,9 +28185,9 @@
    "trays": 90,
    "seed_requirement": 25200,
    "planned_seeding_date": "2026-10-29",
-   "tp1": "2026-11-08",
+   "tp1": "2026-11-09",
    "tp2": null,
-   "harvest": "2026-11-24",
+   "harvest": "2026-11-27",
    "tables": 8
   },
   "26-1217": {
@@ -28198,9 +28198,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-10-29",
-   "tp1": "2026-11-08",
+   "tp1": "2026-11-09",
    "tp2": null,
-   "harvest": "2026-11-22",
+   "harvest": "2026-11-25",
    "tables": 15
   },
   "26-1218": {
@@ -28211,9 +28211,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-10-29",
-   "tp1": "2026-11-07",
+   "tp1": "2026-11-09",
    "tp2": null,
-   "harvest": "2026-11-19",
+   "harvest": "2026-11-24",
    "tables": 4
   },
   "26-1219": {
@@ -28224,9 +28224,9 @@
    "trays": 179,
    "seed_requirement": 50120,
    "planned_seeding_date": "2026-10-29",
-   "tp1": "2026-11-10",
+   "tp1": "2026-11-09",
    "tp2": null,
-   "harvest": "2026-11-26",
+   "harvest": "2026-11-27",
    "tables": 14
   },
   "26-1220": {
@@ -28237,9 +28237,9 @@
    "trays": 83,
    "seed_requirement": 23240,
    "planned_seeding_date": "2026-10-29",
-   "tp1": "2026-11-08",
+   "tp1": "2026-11-09",
    "tp2": null,
-   "harvest": "2026-11-22",
+   "harvest": "2026-11-27",
    "tables": 7
   },
   "26-1221": {
@@ -28250,9 +28250,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-10-30",
-   "tp1": "2026-11-09",
+   "tp1": "2026-11-10",
    "tp2": null,
-   "harvest": "2026-11-25",
+   "harvest": "2026-11-28",
    "tables": 21
   },
   "26-1222": {
@@ -28263,9 +28263,9 @@
    "trays": 90,
    "seed_requirement": 25200,
    "planned_seeding_date": "2026-10-30",
-   "tp1": "2026-11-09",
+   "tp1": "2026-11-10",
    "tp2": null,
-   "harvest": "2026-11-25",
+   "harvest": "2026-11-28",
    "tables": 8
   },
   "26-1223": {
@@ -28276,9 +28276,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-10-30",
-   "tp1": "2026-11-09",
+   "tp1": "2026-11-10",
    "tp2": null,
-   "harvest": "2026-11-23",
+   "harvest": "2026-11-26",
    "tables": 15
   },
   "26-1224": {
@@ -28289,9 +28289,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-10-30",
-   "tp1": "2026-11-08",
+   "tp1": "2026-11-10",
    "tp2": null,
-   "harvest": "2026-11-20",
+   "harvest": "2026-11-25",
    "tables": 4
   },
   "26-1225": {
@@ -28302,9 +28302,9 @@
    "trays": 179,
    "seed_requirement": 50120,
    "planned_seeding_date": "2026-10-30",
-   "tp1": "2026-11-11",
+   "tp1": "2026-11-10",
    "tp2": null,
-   "harvest": "2026-11-27",
+   "harvest": "2026-11-28",
    "tables": 14
   },
   "26-1226": {
@@ -28315,9 +28315,9 @@
    "trays": 83,
    "seed_requirement": 23240,
    "planned_seeding_date": "2026-10-30",
-   "tp1": "2026-11-09",
+   "tp1": "2026-11-10",
    "tp2": null,
-   "harvest": "2026-11-23",
+   "harvest": "2026-11-28",
    "tables": 7
   },
   "26-1227": {
@@ -28328,9 +28328,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-10-31",
-   "tp1": "2026-11-10",
+   "tp1": "2026-11-11",
    "tp2": null,
-   "harvest": "2026-11-26",
+   "harvest": "2026-11-29",
    "tables": 21
   },
   "26-1228": {
@@ -28341,9 +28341,9 @@
    "trays": 90,
    "seed_requirement": 25200,
    "planned_seeding_date": "2026-10-31",
-   "tp1": "2026-11-10",
+   "tp1": "2026-11-11",
    "tp2": null,
-   "harvest": "2026-11-26",
+   "harvest": "2026-11-29",
    "tables": 8
   },
   "26-1229": {
@@ -28354,9 +28354,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-10-31",
-   "tp1": "2026-11-10",
+   "tp1": "2026-11-11",
    "tp2": null,
-   "harvest": "2026-11-24",
+   "harvest": "2026-11-27",
    "tables": 15
   },
   "26-1230": {
@@ -28367,9 +28367,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-10-31",
-   "tp1": "2026-11-09",
+   "tp1": "2026-11-11",
    "tp2": null,
-   "harvest": "2026-11-21",
+   "harvest": "2026-11-26",
    "tables": 4
   },
   "26-1231": {
@@ -28379,10 +28379,10 @@
    "type": "Babyleaf Crispy Green",
    "trays": 179,
    "seed_requirement": 50120,
-   "planned_seeding_date": "2026-10-31",
+   "planned_seeding_date": "2026-11-01",
    "tp1": "2026-11-12",
    "tp2": null,
-   "harvest": "2026-11-28",
+   "harvest": "2026-11-30",
    "tables": 14
   },
   "26-1232": {
@@ -28392,10 +28392,10 @@
    "type": "Babyleaf Crispy Red",
    "trays": 83,
    "seed_requirement": 23240,
-   "planned_seeding_date": "2026-10-31",
-   "tp1": "2026-11-10",
+   "planned_seeding_date": "2026-11-01",
+   "tp1": "2026-11-12",
    "tp2": null,
-   "harvest": "2026-11-24",
+   "harvest": "2026-11-30",
    "tables": 7
   },
   "26-1233": {
@@ -28406,9 +28406,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-11-01",
-   "tp1": "2026-11-11",
+   "tp1": "2026-11-12",
    "tp2": null,
-   "harvest": "2026-11-27",
+   "harvest": "2026-11-30",
    "tables": 21
   },
   "26-1234": {
@@ -28418,10 +28418,10 @@
    "type": "Babyleaf Crispy Red",
    "trays": 90,
    "seed_requirement": 25200,
-   "planned_seeding_date": "2026-11-01",
-   "tp1": "2026-11-11",
+   "planned_seeding_date": "2026-11-03",
+   "tp1": "2026-11-14",
    "tp2": null,
-   "harvest": "2026-11-27",
+   "harvest": "2026-12-02",
    "tables": 8
   },
   "26-1235": {
@@ -28432,9 +28432,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-11-01",
-   "tp1": "2026-11-11",
+   "tp1": "2026-11-12",
    "tp2": null,
-   "harvest": "2026-11-25",
+   "harvest": "2026-11-28",
    "tables": 15
   },
   "26-1236": {
@@ -28445,9 +28445,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-11-01",
-   "tp1": "2026-11-10",
+   "tp1": "2026-11-12",
    "tp2": null,
-   "harvest": "2026-11-22",
+   "harvest": "2026-11-27",
    "tables": 4
   },
   "26-1237": {
@@ -28457,10 +28457,10 @@
    "type": "Babyleaf Crispy Green",
    "trays": 179,
    "seed_requirement": 50120,
-   "planned_seeding_date": "2026-11-01",
-   "tp1": "2026-11-13",
+   "planned_seeding_date": "2026-11-03",
+   "tp1": "2026-11-14",
    "tp2": null,
-   "harvest": "2026-11-29",
+   "harvest": "2026-12-02",
    "tables": 14
   },
   "26-1238": {
@@ -28470,10 +28470,10 @@
    "type": "Babyleaf Crispy Red",
    "trays": 83,
    "seed_requirement": 23240,
-   "planned_seeding_date": "2026-11-01",
-   "tp1": "2026-11-11",
+   "planned_seeding_date": "2026-11-03",
+   "tp1": "2026-11-14",
    "tp2": null,
-   "harvest": "2026-11-25",
+   "harvest": "2026-12-02",
    "tables": 7
   },
   "26-1239": {
@@ -28484,9 +28484,9 @@
    "trays": 90,
    "seed_requirement": 25200,
    "planned_seeding_date": "2026-10-27",
-   "tp1": "2026-11-06",
+   "tp1": "2026-11-07",
    "tp2": null,
-   "harvest": "2026-11-22",
+   "harvest": "2026-11-25",
    "tables": 8
   },
   "26-1240": {
@@ -28497,9 +28497,9 @@
    "trays": 83,
    "seed_requirement": 23240,
    "planned_seeding_date": "2026-10-27",
-   "tp1": "2026-11-06",
+   "tp1": "2026-11-07",
    "tp2": null,
-   "harvest": "2026-11-20",
+   "harvest": "2026-11-25",
    "tables": 7
   },
   "26-1241": {
@@ -28509,10 +28509,10 @@
    "type": "Babyleaf Crispy Green",
    "trays": 267,
    "seed_requirement": 74760,
-   "planned_seeding_date": "2026-11-02",
-   "tp1": "2026-11-12",
+   "planned_seeding_date": "2026-11-03",
+   "tp1": "2026-11-14",
    "tp2": null,
-   "harvest": "2026-11-28",
+   "harvest": "2026-12-02",
    "tables": 21
   },
   "26-1242": {
@@ -28522,10 +28522,10 @@
    "type": "Babyleaf Crispy Green",
    "trays": 179,
    "seed_requirement": 50120,
-   "planned_seeding_date": "2026-11-02",
+   "planned_seeding_date": "2026-11-03",
    "tp1": "2026-11-14",
    "tp2": null,
-   "harvest": "2026-11-30",
+   "harvest": "2026-12-02",
    "tables": 14
   },
   "26-1243": {
@@ -28535,10 +28535,10 @@
    "type": "Babyleaf Romaine",
    "trays": 48,
    "seed_requirement": 13440,
-   "planned_seeding_date": "2026-11-02",
-   "tp1": "2026-11-11",
+   "planned_seeding_date": "2026-11-03",
+   "tp1": "2026-11-14",
    "tp2": null,
-   "harvest": "2026-11-23",
+   "harvest": "2026-11-29",
    "tables": 4
   },
   "26-1244": {
@@ -28549,9 +28549,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-11-04",
-   "tp1": "2026-11-14",
+   "tp1": "2026-11-15",
    "tp2": null,
-   "harvest": "2026-11-30",
+   "harvest": "2026-12-03",
    "tables": 21
   },
   "26-1245": {
@@ -28562,9 +28562,9 @@
    "trays": 90,
    "seed_requirement": 25200,
    "planned_seeding_date": "2026-11-04",
-   "tp1": "2026-11-14",
+   "tp1": "2026-11-15",
    "tp2": null,
-   "harvest": "2026-11-30",
+   "harvest": "2026-12-03",
    "tables": 8
   },
   "26-1246": {
@@ -28575,9 +28575,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-11-04",
-   "tp1": "2026-11-14",
+   "tp1": "2026-11-15",
    "tp2": null,
-   "harvest": "2026-11-28",
+   "harvest": "2026-12-01",
    "tables": 15
   },
   "26-1247": {
@@ -28588,9 +28588,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-11-04",
-   "tp1": "2026-11-13",
+   "tp1": "2026-11-15",
    "tp2": null,
-   "harvest": "2026-11-25",
+   "harvest": "2026-11-30",
    "tables": 4
   },
   "26-1248": {
@@ -28601,9 +28601,9 @@
    "trays": 179,
    "seed_requirement": 50120,
    "planned_seeding_date": "2026-11-04",
-   "tp1": "2026-11-16",
+   "tp1": "2026-11-15",
    "tp2": null,
-   "harvest": "2026-12-02",
+   "harvest": "2026-12-03",
    "tables": 14
   },
   "26-1249": {
@@ -28614,9 +28614,9 @@
    "trays": 83,
    "seed_requirement": 23240,
    "planned_seeding_date": "2026-11-04",
-   "tp1": "2026-11-14",
+   "tp1": "2026-11-15",
    "tp2": null,
-   "harvest": "2026-11-28",
+   "harvest": "2026-12-03",
    "tables": 7
   },
   "26-1250": {
@@ -28627,9 +28627,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-11-05",
-   "tp1": "2026-11-15",
+   "tp1": "2026-11-16",
    "tp2": null,
-   "harvest": "2026-12-01",
+   "harvest": "2026-12-04",
    "tables": 21
   },
   "26-1251": {
@@ -28640,9 +28640,9 @@
    "trays": 90,
    "seed_requirement": 25200,
    "planned_seeding_date": "2026-11-05",
-   "tp1": "2026-11-15",
+   "tp1": "2026-11-16",
    "tp2": null,
-   "harvest": "2026-12-01",
+   "harvest": "2026-12-04",
    "tables": 8
   },
   "26-1252": {
@@ -28653,9 +28653,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-11-05",
-   "tp1": "2026-11-15",
+   "tp1": "2026-11-16",
    "tp2": null,
-   "harvest": "2026-11-29",
+   "harvest": "2026-12-02",
    "tables": 15
   },
   "26-1253": {
@@ -28666,9 +28666,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-11-05",
-   "tp1": "2026-11-14",
+   "tp1": "2026-11-16",
    "tp2": null,
-   "harvest": "2026-11-26",
+   "harvest": "2026-12-01",
    "tables": 4
   },
   "26-1254": {
@@ -28679,9 +28679,9 @@
    "trays": 179,
    "seed_requirement": 50120,
    "planned_seeding_date": "2026-11-05",
-   "tp1": "2026-11-17",
+   "tp1": "2026-11-16",
    "tp2": null,
-   "harvest": "2026-12-03",
+   "harvest": "2026-12-04",
    "tables": 14
   },
   "26-1255": {
@@ -28692,9 +28692,9 @@
    "trays": 83,
    "seed_requirement": 23240,
    "planned_seeding_date": "2026-11-05",
-   "tp1": "2026-11-15",
+   "tp1": "2026-11-16",
    "tp2": null,
-   "harvest": "2026-11-29",
+   "harvest": "2026-12-04",
    "tables": 7
   },
   "26-1256": {
@@ -28705,9 +28705,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-11-06",
-   "tp1": "2026-11-16",
+   "tp1": "2026-11-17",
    "tp2": null,
-   "harvest": "2026-12-02",
+   "harvest": "2026-12-05",
    "tables": 21
   },
   "26-1257": {
@@ -28718,9 +28718,9 @@
    "trays": 90,
    "seed_requirement": 25200,
    "planned_seeding_date": "2026-11-06",
-   "tp1": "2026-11-16",
+   "tp1": "2026-11-17",
    "tp2": null,
-   "harvest": "2026-12-02",
+   "harvest": "2026-12-05",
    "tables": 8
   },
   "26-1258": {
@@ -28731,9 +28731,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-11-06",
-   "tp1": "2026-11-16",
+   "tp1": "2026-11-17",
    "tp2": null,
-   "harvest": "2026-11-30",
+   "harvest": "2026-12-03",
    "tables": 15
   },
   "26-1259": {
@@ -28744,9 +28744,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-11-06",
-   "tp1": "2026-11-15",
+   "tp1": "2026-11-17",
    "tp2": null,
-   "harvest": "2026-11-27",
+   "harvest": "2026-12-02",
    "tables": 4
   },
   "26-1260": {
@@ -28757,9 +28757,9 @@
    "trays": 179,
    "seed_requirement": 50120,
    "planned_seeding_date": "2026-11-06",
-   "tp1": "2026-11-18",
+   "tp1": "2026-11-17",
    "tp2": null,
-   "harvest": "2026-12-04",
+   "harvest": "2026-12-05",
    "tables": 14
   },
   "26-1261": {
@@ -28770,9 +28770,9 @@
    "trays": 83,
    "seed_requirement": 23240,
    "planned_seeding_date": "2026-11-06",
-   "tp1": "2026-11-16",
+   "tp1": "2026-11-17",
    "tp2": null,
-   "harvest": "2026-11-30",
+   "harvest": "2026-12-05",
    "tables": 7
   },
   "26-1262": {
@@ -28783,9 +28783,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-11-06",
-   "tp1": "2026-11-16",
+   "tp1": "2026-11-17",
    "tp2": null,
-   "harvest": "2026-12-02",
+   "harvest": "2026-12-05",
    "tables": 21
   },
   "26-1263": {
@@ -28796,9 +28796,9 @@
    "trays": 90,
    "seed_requirement": 25200,
    "planned_seeding_date": "2026-11-06",
-   "tp1": "2026-11-16",
+   "tp1": "2026-11-17",
    "tp2": null,
-   "harvest": "2026-12-02",
+   "harvest": "2026-12-05",
    "tables": 8
   },
   "26-1264": {
@@ -28809,9 +28809,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-11-06",
-   "tp1": "2026-11-16",
+   "tp1": "2026-11-17",
    "tp2": null,
-   "harvest": "2026-11-30",
+   "harvest": "2026-12-03",
    "tables": 15
   },
   "26-1265": {
@@ -28822,9 +28822,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-11-06",
-   "tp1": "2026-11-15",
+   "tp1": "2026-11-17",
    "tp2": null,
-   "harvest": "2026-11-27",
+   "harvest": "2026-12-02",
    "tables": 4
   },
   "26-1266": {
@@ -28835,9 +28835,9 @@
    "trays": 179,
    "seed_requirement": 50120,
    "planned_seeding_date": "2026-11-06",
-   "tp1": "2026-11-18",
+   "tp1": "2026-11-17",
    "tp2": null,
-   "harvest": "2026-12-04",
+   "harvest": "2026-12-05",
    "tables": 14
   },
   "26-1267": {
@@ -28848,9 +28848,9 @@
    "trays": 83,
    "seed_requirement": 23240,
    "planned_seeding_date": "2026-11-06",
-   "tp1": "2026-11-16",
+   "tp1": "2026-11-17",
    "tp2": null,
-   "harvest": "2026-11-30",
+   "harvest": "2026-12-05",
    "tables": 7
   },
   "26-1268": {
@@ -28861,9 +28861,9 @@
    "trays": 267,
    "seed_requirement": 74760,
    "planned_seeding_date": "2026-11-09",
-   "tp1": "2026-11-19",
+   "tp1": "2026-11-20",
    "tp2": null,
-   "harvest": "2026-12-05",
+   "harvest": "2026-12-08",
    "tables": 21
   },
   "26-1269": {
@@ -28874,9 +28874,9 @@
    "trays": 90,
    "seed_requirement": 25200,
    "planned_seeding_date": "2026-11-09",
-   "tp1": "2026-11-19",
+   "tp1": "2026-11-20",
    "tp2": null,
-   "harvest": "2026-12-05",
+   "harvest": "2026-12-08",
    "tables": 8
   },
   "26-1270": {
@@ -28887,9 +28887,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-11-09",
-   "tp1": "2026-11-19",
+   "tp1": "2026-11-20",
    "tp2": null,
-   "harvest": "2026-12-03",
+   "harvest": "2026-12-06",
    "tables": 15
   },
   "26-1271": {
@@ -28900,9 +28900,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-11-09",
-   "tp1": "2026-11-18",
+   "tp1": "2026-11-20",
    "tp2": null,
-   "harvest": "2026-11-30",
+   "harvest": "2026-12-05",
    "tables": 4
   },
   "26-1272": {
@@ -28913,9 +28913,9 @@
    "trays": 179,
    "seed_requirement": 50120,
    "planned_seeding_date": "2026-11-09",
-   "tp1": "2026-11-21",
+   "tp1": "2026-11-20",
    "tp2": null,
-   "harvest": "2026-12-07",
+   "harvest": "2026-12-08",
    "tables": 14
   },
   "26-1273": {
@@ -28926,9 +28926,9 @@
    "trays": 83,
    "seed_requirement": 23240,
    "planned_seeding_date": "2026-11-09",
-   "tp1": "2026-11-19",
+   "tp1": "2026-11-20",
    "tp2": null,
-   "harvest": "2026-12-03",
+   "harvest": "2026-12-08",
    "tables": 7
   },
   "26-1274": {
@@ -28939,9 +28939,9 @@
    "trays": 249,
    "seed_requirement": 69720,
    "planned_seeding_date": "2026-11-10",
-   "tp1": "2026-11-20",
+   "tp1": "2026-11-21",
    "tp2": null,
-   "harvest": "2026-12-06",
+   "harvest": "2026-12-09",
    "tables": 20
   },
   "26-1275": {
@@ -28952,9 +28952,9 @@
    "trays": 85,
    "seed_requirement": 23800,
    "planned_seeding_date": "2026-11-10",
-   "tp1": "2026-11-20",
+   "tp1": "2026-11-21",
    "tp2": null,
-   "harvest": "2026-12-06",
+   "harvest": "2026-12-09",
    "tables": 7
   },
   "26-1276": {
@@ -28965,9 +28965,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-11-10",
-   "tp1": "2026-11-20",
+   "tp1": "2026-11-21",
    "tp2": null,
-   "harvest": "2026-12-04",
+   "harvest": "2026-12-07",
    "tables": 15
   },
   "26-1277": {
@@ -28978,9 +28978,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-11-10",
-   "tp1": "2026-11-19",
+   "tp1": "2026-11-21",
    "tp2": null,
-   "harvest": "2026-12-01",
+   "harvest": "2026-12-06",
    "tables": 4
   },
   "26-1278": {
@@ -28991,9 +28991,9 @@
    "trays": 167,
    "seed_requirement": 46760,
    "planned_seeding_date": "2026-11-10",
-   "tp1": "2026-11-22",
+   "tp1": "2026-11-21",
    "tp2": null,
-   "harvest": "2026-12-08",
+   "harvest": "2026-12-09",
    "tables": 14
   },
   "26-1279": {
@@ -29004,9 +29004,9 @@
    "trays": 77,
    "seed_requirement": 21560,
    "planned_seeding_date": "2026-11-10",
-   "tp1": "2026-11-20",
+   "tp1": "2026-11-21",
    "tp2": null,
-   "harvest": "2026-12-04",
+   "harvest": "2026-12-09",
    "tables": 7
   },
   "26-1280": {
@@ -29017,9 +29017,9 @@
    "trays": 249,
    "seed_requirement": 69720,
    "planned_seeding_date": "2026-11-11",
-   "tp1": "2026-11-21",
+   "tp1": "2026-11-22",
    "tp2": null,
-   "harvest": "2026-12-07",
+   "harvest": "2026-12-10",
    "tables": 20
   },
   "26-1281": {
@@ -29030,9 +29030,9 @@
    "trays": 85,
    "seed_requirement": 23800,
    "planned_seeding_date": "2026-11-11",
-   "tp1": "2026-11-21",
+   "tp1": "2026-11-22",
    "tp2": null,
-   "harvest": "2026-12-07",
+   "harvest": "2026-12-10",
    "tables": 7
   },
   "26-1282": {
@@ -29043,9 +29043,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-11-11",
-   "tp1": "2026-11-21",
+   "tp1": "2026-11-22",
    "tp2": null,
-   "harvest": "2026-12-05",
+   "harvest": "2026-12-08",
    "tables": 15
   },
   "26-1283": {
@@ -29056,9 +29056,9 @@
    "trays": 48,
    "seed_requirement": 13440,
    "planned_seeding_date": "2026-11-11",
-   "tp1": "2026-11-20",
+   "tp1": "2026-11-22",
    "tp2": null,
-   "harvest": "2026-12-02",
+   "harvest": "2026-12-07",
    "tables": 4
   },
   "26-1284": {
@@ -29069,9 +29069,9 @@
    "trays": 167,
    "seed_requirement": 46760,
    "planned_seeding_date": "2026-11-11",
-   "tp1": "2026-11-23",
+   "tp1": "2026-11-22",
    "tp2": null,
-   "harvest": "2026-12-09",
+   "harvest": "2026-12-10",
    "tables": 14
   },
   "26-1285": {
@@ -29082,9 +29082,9 @@
    "trays": 77,
    "seed_requirement": 21560,
    "planned_seeding_date": "2026-11-11",
-   "tp1": "2026-11-21",
+   "tp1": "2026-11-22",
    "tp2": null,
-   "harvest": "2026-12-05",
+   "harvest": "2026-12-10",
    "tables": 7
   },
   "26-1286": {
@@ -29095,9 +29095,9 @@
    "trays": 249,
    "seed_requirement": 69720,
    "planned_seeding_date": "2026-11-12",
-   "tp1": "2026-11-22",
+   "tp1": "2026-11-23",
    "tp2": null,
-   "harvest": "2026-12-08",
+   "harvest": "2026-12-11",
    "tables": 20
   },
   "26-1287": {
@@ -29108,9 +29108,9 @@
    "trays": 85,
    "seed_requirement": 23800,
    "planned_seeding_date": "2026-11-12",
-   "tp1": "2026-11-22",
+   "tp1": "2026-11-23",
    "tp2": null,
-   "harvest": "2026-12-08",
+   "harvest": "2026-12-11",
    "tables": 7
   },
   "26-1288": {
@@ -29121,9 +29121,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-11-12",
-   "tp1": "2026-11-22",
+   "tp1": "2026-11-23",
    "tp2": null,
-   "harvest": "2026-12-06",
+   "harvest": "2026-12-09",
    "tables": 15
   },
   "26-1289": {
@@ -29131,13 +29131,13 @@
    "variety": "Rabello Baby",
    "crop": "Babyleaf",
    "type": "Babyleaf Romaine",
-   "trays": 48,
-   "seed_requirement": 13440,
+   "trays": 96,
+   "seed_requirement": 26880,
    "planned_seeding_date": "2026-11-12",
-   "tp1": "2026-11-21",
+   "tp1": "2026-11-23",
    "tp2": null,
-   "harvest": "2026-12-03",
-   "tables": 4
+   "harvest": "2026-12-08",
+   "tables": 8
   },
   "26-1290": {
    "batch_number": "26-1290",
@@ -29147,9 +29147,9 @@
    "trays": 167,
    "seed_requirement": 46760,
    "planned_seeding_date": "2026-11-12",
-   "tp1": "2026-11-24",
+   "tp1": "2026-11-23",
    "tp2": null,
-   "harvest": "2026-12-10",
+   "harvest": "2026-12-11",
    "tables": 14
   },
   "26-1291": {
@@ -29160,9 +29160,9 @@
    "trays": 77,
    "seed_requirement": 21560,
    "planned_seeding_date": "2026-11-12",
-   "tp1": "2026-11-22",
+   "tp1": "2026-11-23",
    "tp2": null,
-   "harvest": "2026-12-06",
+   "harvest": "2026-12-11",
    "tables": 7
   },
   "26-1292": {
@@ -29173,9 +29173,9 @@
    "trays": 249,
    "seed_requirement": 69720,
    "planned_seeding_date": "2026-11-13",
-   "tp1": "2026-11-23",
+   "tp1": "2026-11-24",
    "tp2": null,
-   "harvest": "2026-12-09",
+   "harvest": "2026-12-12",
    "tables": 20
   },
   "26-1293": {
@@ -29186,9 +29186,9 @@
    "trays": 85,
    "seed_requirement": 23800,
    "planned_seeding_date": "2026-11-13",
-   "tp1": "2026-11-23",
+   "tp1": "2026-11-24",
    "tp2": null,
-   "harvest": "2026-12-09",
+   "harvest": "2026-12-12",
    "tables": 7
   },
   "26-1294": {
@@ -29199,9 +29199,9 @@
    "trays": 190,
    "seed_requirement": 53200,
    "planned_seeding_date": "2026-11-13",
-   "tp1": "2026-11-23",
+   "tp1": "2026-11-24",
    "tp2": null,
-   "harvest": "2026-12-07",
+   "harvest": "2026-12-10",
    "tables": 15
   },
   "26-1295": {
@@ -29209,13 +29209,13 @@
    "variety": "Rabello Baby",
    "crop": "Babyleaf",
    "type": "Babyleaf Romaine",
-   "trays": 48,
-   "seed_requirement": 13440,
+   "trays": 96,
+   "seed_requirement": 26880,
    "planned_seeding_date": "2026-11-13",
-   "tp1": "2026-11-22",
+   "tp1": "2026-11-24",
    "tp2": null,
-   "harvest": "2026-12-04",
-   "tables": 4
+   "harvest": "2026-12-09",
+   "tables": 8
   },
   "26-1296": {
    "batch_number": "26-1296",
@@ -29225,9 +29225,9 @@
    "trays": 167,
    "seed_requirement": 46760,
    "planned_seeding_date": "2026-11-13",
-   "tp1": "2026-11-25",
+   "tp1": "2026-11-24",
    "tp2": null,
-   "harvest": "2026-12-11",
+   "harvest": "2026-12-12",
    "tables": 14
   },
   "26-1297": {
@@ -29238,9 +29238,9 @@
    "trays": 77,
    "seed_requirement": 21560,
    "planned_seeding_date": "2026-11-13",
-   "tp1": "2026-11-23",
+   "tp1": "2026-11-24",
    "tp2": null,
-   "harvest": "2026-12-07",
+   "harvest": "2026-12-12",
    "tables": 7
   },
   "26-1298": {
@@ -29248,13 +29248,13 @@
    "variety": "Crispyano",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
-   "trays": 249,
-   "seed_requirement": 69720,
+   "trays": 416,
+   "seed_requirement": 116480,
    "planned_seeding_date": "2026-11-16",
-   "tp1": "2026-11-26",
+   "tp1": "2026-11-27",
    "tp2": null,
-   "harvest": "2026-12-12",
-   "tables": 20
+   "harvest": "2026-12-15",
+   "tables": 33
   },
   "26-1299": {
    "batch_number": "26-1299",
@@ -29264,78 +29264,286 @@
    "trays": 85,
    "seed_requirement": 23800,
    "planned_seeding_date": "2026-11-16",
-   "tp1": "2026-11-26",
+   "tp1": "2026-11-27",
    "tp2": null,
-   "harvest": "2026-12-12",
+   "harvest": "2026-12-15",
    "tables": 7
   },
   "26-1300": {
    "batch_number": "26-1300",
-   "variety": "Cristabel",
-   "crop": "Babyleaf",
-   "type": "Babyleaf Crispy Green",
-   "trays": 190,
-   "seed_requirement": 53200,
-   "planned_seeding_date": "2026-11-16",
-   "tp1": "2026-11-26",
-   "tp2": null,
-   "harvest": "2026-12-10",
-   "tables": 15
-  },
-  "26-1301": {
-   "batch_number": "26-1301",
    "variety": "Rabello Baby",
    "crop": "Babyleaf",
    "type": "Babyleaf Romaine",
-   "trays": 48,
-   "seed_requirement": 13440,
+   "trays": 96,
+   "seed_requirement": 26880,
    "planned_seeding_date": "2026-11-16",
-   "tp1": "2026-11-25",
+   "tp1": "2026-11-27",
    "tp2": null,
-   "harvest": "2026-12-07",
-   "tables": 4
+   "harvest": "2026-12-12",
+   "tables": 8
   },
-  "26-1302": {
-   "batch_number": "26-1302",
+  "26-1301": {
+   "batch_number": "26-1301",
    "variety": "FjellStar",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Green",
    "trays": 167,
    "seed_requirement": 46760,
    "planned_seeding_date": "2026-11-16",
-   "tp1": "2026-11-28",
+   "tp1": "2026-11-27",
    "tp2": null,
-   "harvest": "2026-12-14",
+   "harvest": "2026-12-15",
    "tables": 14
   },
-  "26-1303": {
-   "batch_number": "26-1303",
+  "26-1302": {
+   "batch_number": "26-1302",
    "variety": "Mazired",
    "crop": "Babyleaf",
    "type": "Babyleaf Crispy Red",
    "trays": 77,
    "seed_requirement": 21560,
    "planned_seeding_date": "2026-11-16",
-   "tp1": "2026-11-26",
+   "tp1": "2026-11-27",
    "tp2": null,
-   "harvest": "2026-12-10",
+   "harvest": "2026-12-15",
    "tables": 7
+  },
+  "26-1303": {
+   "batch_number": "26-1303",
+   "variety": "Crispyano",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Green",
+   "trays": 416,
+   "seed_requirement": 116480,
+   "planned_seeding_date": "2026-11-17",
+   "tp1": "2026-11-28",
+   "tp2": null,
+   "harvest": "2026-12-16",
+   "tables": 33
   },
   "26-1304": {
    "batch_number": "26-1304",
-   "variety": 0,
-   "crop": null,
-   "type": null,
-   "trays": 0,
-   "seed_requirement": null,
-   "planned_seeding_date": "00:00:00",
-   "tp1": null,
+   "variety": "Sungari",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Red",
+   "trays": 85,
+   "seed_requirement": 23800,
+   "planned_seeding_date": "2026-11-17",
+   "tp1": "2026-11-28",
    "tp2": null,
-   "harvest": null,
-   "tables": 0
+   "harvest": "2026-12-16",
+   "tables": 7
   },
   "26-1305": {
    "batch_number": "26-1305",
+   "variety": "FjellStar",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Green",
+   "trays": 167,
+   "seed_requirement": 46760,
+   "planned_seeding_date": "2026-11-17",
+   "tp1": "2026-11-28",
+   "tp2": null,
+   "harvest": "2026-12-16",
+   "tables": 14
+  },
+  "26-1306": {
+   "batch_number": "26-1306",
+   "variety": "Mazired",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Red",
+   "trays": 85,
+   "seed_requirement": 23800,
+   "planned_seeding_date": "2026-11-17",
+   "tp1": "2026-11-28",
+   "tp2": null,
+   "harvest": "2026-12-16",
+   "tables": 7
+  },
+  "26-1307": {
+   "batch_number": "26-1307",
+   "variety": "Crispyano",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Green",
+   "trays": 416,
+   "seed_requirement": 116480,
+   "planned_seeding_date": "2026-11-18",
+   "tp1": "2026-11-29",
+   "tp2": null,
+   "harvest": "2026-12-17",
+   "tables": 33
+  },
+  "26-1308": {
+   "batch_number": "26-1308",
+   "variety": "Sungari",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Red",
+   "trays": 85,
+   "seed_requirement": 23800,
+   "planned_seeding_date": "2026-11-18",
+   "tp1": "2026-11-29",
+   "tp2": null,
+   "harvest": "2026-12-17",
+   "tables": 7
+  },
+  "26-1309": {
+   "batch_number": "26-1309",
+   "variety": "Rabello Baby",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Romaine",
+   "trays": 96,
+   "seed_requirement": 26880,
+   "planned_seeding_date": "2026-11-18",
+   "tp1": "2026-11-29",
+   "tp2": null,
+   "harvest": "2026-12-14",
+   "tables": 8
+  },
+  "26-1310": {
+   "batch_number": "26-1310",
+   "variety": "FjellStar",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Green",
+   "trays": 167,
+   "seed_requirement": 46760,
+   "planned_seeding_date": "2026-11-18",
+   "tp1": "2026-11-29",
+   "tp2": null,
+   "harvest": "2026-12-17",
+   "tables": 14
+  },
+  "26-1311": {
+   "batch_number": "26-1311",
+   "variety": "Mazired",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Red",
+   "trays": 77,
+   "seed_requirement": 21560,
+   "planned_seeding_date": "2026-11-18",
+   "tp1": "2026-11-29",
+   "tp2": null,
+   "harvest": "2026-12-17",
+   "tables": 7
+  },
+  "26-1312": {
+   "batch_number": "26-1312",
+   "variety": "Crispyano",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Green",
+   "trays": 416,
+   "seed_requirement": 116480,
+   "planned_seeding_date": "2026-11-19",
+   "tp1": "2026-11-30",
+   "tp2": null,
+   "harvest": "2026-12-18",
+   "tables": 33
+  },
+  "26-1313": {
+   "batch_number": "26-1313",
+   "variety": "Sungari",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Red",
+   "trays": 85,
+   "seed_requirement": 23800,
+   "planned_seeding_date": "2026-11-19",
+   "tp1": "2026-11-30",
+   "tp2": null,
+   "harvest": "2026-12-18",
+   "tables": 7
+  },
+  "26-1314": {
+   "batch_number": "26-1314",
+   "variety": "FjellStar",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Green",
+   "trays": 167,
+   "seed_requirement": 46760,
+   "planned_seeding_date": "2026-11-19",
+   "tp1": "2026-11-30",
+   "tp2": null,
+   "harvest": "2026-12-18",
+   "tables": 14
+  },
+  "26-1315": {
+   "batch_number": "26-1315",
+   "variety": "Mazired",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Red",
+   "trays": 85,
+   "seed_requirement": 23800,
+   "planned_seeding_date": "2026-11-19",
+   "tp1": "2026-11-30",
+   "tp2": null,
+   "harvest": "2026-12-18",
+   "tables": 7
+  },
+  "26-1316": {
+   "batch_number": "26-1316",
+   "variety": "Crispyano",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Green",
+   "trays": 416,
+   "seed_requirement": 116480,
+   "planned_seeding_date": "2026-11-20",
+   "tp1": "2026-12-01",
+   "tp2": null,
+   "harvest": "2026-12-19",
+   "tables": 33
+  },
+  "26-1317": {
+   "batch_number": "26-1317",
+   "variety": "Sungari",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Red",
+   "trays": 85,
+   "seed_requirement": 23800,
+   "planned_seeding_date": "2026-11-20",
+   "tp1": "2026-12-01",
+   "tp2": null,
+   "harvest": "2026-12-19",
+   "tables": 7
+  },
+  "26-1318": {
+   "batch_number": "26-1318",
+   "variety": "Rabello Baby",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Romaine",
+   "trays": 96,
+   "seed_requirement": 26880,
+   "planned_seeding_date": "2026-11-20",
+   "tp1": "2026-12-01",
+   "tp2": null,
+   "harvest": "2026-12-16",
+   "tables": 8
+  },
+  "26-1319": {
+   "batch_number": "26-1319",
+   "variety": "FjellStar",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Green",
+   "trays": 167,
+   "seed_requirement": 46760,
+   "planned_seeding_date": "2026-11-20",
+   "tp1": "2026-12-01",
+   "tp2": null,
+   "harvest": "2026-12-19",
+   "tables": 14
+  },
+  "26-1320": {
+   "batch_number": "26-1320",
+   "variety": "Mazired",
+   "crop": "Babyleaf",
+   "type": "Babyleaf Crispy Red",
+   "trays": 85,
+   "seed_requirement": 23800,
+   "planned_seeding_date": "2026-11-20",
+   "tp1": "2026-12-01",
+   "tp2": null,
+   "harvest": "2026-12-19",
+   "tables": 7
+  },
+  "26-1321": {
+   "batch_number": "26-1321",
    "variety": 0,
    "crop": null,
    "type": null,
@@ -29347,8 +29555,229 @@
    "harvest": null,
    "tables": 0
   },
-  "26-1306": {
-   "batch_number": "26-1306",
+  "26-1322": {
+   "batch_number": "26-1322",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1323": {
+   "batch_number": "26-1323",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1324": {
+   "batch_number": "26-1324",
+   "variety": 0,
+   "crop": 0,
+   "type": 0,
+   "trays": 0,
+   "seed_requirement": 0,
+   "planned_seeding_date": "00:00:00",
+   "tp1": "00:00:00",
+   "tp2": null,
+   "harvest": "00:00:00",
+   "tables": 0
+  },
+  "26-1325": {
+   "batch_number": "26-1325",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1326": {
+   "batch_number": "26-1326",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1327": {
+   "batch_number": "26-1327",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1328": {
+   "batch_number": "26-1328",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1329": {
+   "batch_number": "26-1329",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1330": {
+   "batch_number": "26-1330",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1331": {
+   "batch_number": "26-1331",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1332": {
+   "batch_number": "26-1332",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1333": {
+   "batch_number": "26-1333",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1334": {
+   "batch_number": "26-1334",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1335": {
+   "batch_number": "26-1335",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1336": {
+   "batch_number": "26-1336",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1337": {
+   "batch_number": "26-1337",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1338": {
+   "batch_number": "26-1338",
+   "variety": 0,
+   "crop": null,
+   "type": null,
+   "trays": 0,
+   "seed_requirement": null,
+   "planned_seeding_date": "00:00:00",
+   "tp1": null,
+   "tp2": null,
+   "harvest": null,
+   "tables": 0
+  },
+  "26-1339": {
+   "batch_number": "26-1339",
    "variety": 0,
    "crop": null,
    "type": null,
