@@ -497,11 +497,13 @@ async function init(){
   statusEl.className = 'status-pill' + (statusClass ? ' '+statusClass : '');
 
   // ---- Age, calculated fresh every time the label is scanned ----
-  // Age counts from 2 days after seeding, not the seeding date itself.
+  // Age counts from the end of germination (seeding date + germination days), not the seeding date itself.
+  // Germination days come from the traceability workbook per batch; default is 2 when not recorded.
   const agePill = document.getElementById('age-pill');
   if(isDateStr(rec.planned_seeding_date)){
     const seedDate = new Date(rec.planned_seeding_date);
-    const ageStart = new Date(seedDate.getTime() + 2 * 86400000);
+    const germDays = (rec.germination_days != null && !isNaN(rec.germination_days)) ? Number(rec.germination_days) : 2;
+    const ageStart = new Date(seedDate.getTime() + germDays * 86400000);
     const ageDays = Math.round((today - ageStart) / 86400000);
     if(ageDays === 0){
       agePill.textContent = '0 days old';
